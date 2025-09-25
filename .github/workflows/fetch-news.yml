@@ -1,0 +1,40 @@
+name: Fetch LGBT News
+
+on:
+  schedule:
+    - cron: '15 1,9,17 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: |
+          npm init -y
+          npm install rss-parser undici
+
+      - name: Run fetch script
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          git commit -m "chore: update news mirror" || echo "no changes"
+          git push
+
+
+
+

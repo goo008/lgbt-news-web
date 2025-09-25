@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LGBT 每日新闻订阅</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <meta name="description" content="聚合多来源 LGBTQ+ 新闻，支持一键生成每日推文。" />
+  <meta name="color-scheme" content="light dark" />
+</head>
+<body>
+  <header class="container">
+    <h1>🏳️‍🌈 LGBT 每日新闻订阅</h1>
+    <p class="sub">聚合多来源 LGBTQ+ 新闻，支持一键生成「今日推文」。无需安装，直接打开此页面即可使用。</p>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="row">
+        <label>
+          <span>来源筛选</span>
+          <select id="sourceSelect">
+            <option value="all">全部来源</option>
+          </select>
+        </label>
+        <label>
+          <span>关键字</span>
+          <input id="keywordInput" type="search" placeholder="搜索标题/来源…" />
+        </label>
+        <label>
+          <span>时间</span>
+          <select id="timeWindow">
+            <option value="today">仅今日</option>
+            <option value="48h">近48小时</option>
+            <option value="7d">近7天</option>
+            <option value="all">全部</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <button id="refreshBtn">刷新</button>
+        <button id="copyBtn">复制今日推文</button>
+        <button id="exportBtn">导出 JSON</button>
+        <button id="sampleBtn">示例数据</button>
+        <button id="diagBtn">诊断网络</button>
+        <span id="statusText" class="status">未加载</span>
+      </div>
+    </section>
+
+    <section>
+      <ul id="newsList" class="news-list"></ul>
+    </section>
+
+    <section>
+      <details id="diagDetails" class="diag">
+        <summary>诊断信息</summary>
+        <pre id="logView" class="log"></pre>
+      </details>
+    </section>
+  </main>
+
+  <footer class="container foot">
+    <span>提示：部分来源可能偶发跨域或网络错误，稍后重试即可。你也可以在右上角添加/修改来源（见 <code>app.js</code>）。</span>
+  </footer>
+
+  <script src="./app.js"></script>
+  </body>
+  </html>
+
+

@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2025-01-01T00:00:00.000Z",
+  "items": [
+    {
+      "id": "gnews-zh-tw:1",
+      "title": "台灣跨性別醫療權討論升溫",
+      "link": "https://example.com/a",
+      "publishedAt": "2025-01-01T08:00:00.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-cn:2",
+      "title": "同性恋平權議題在亞洲持續發酵",
+      "link": "https://example.com/b",
+      "publishedAt": "2025-01-01T06:00:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-en:3",
+      "title": "Milestone for gay rights celebrated in major city",
+      "link": "https://example.com/c",
+      "publishedAt": "2024-12-31T22:00:00.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    }
+  ]
+}
+
+
+
+
