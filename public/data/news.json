@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T05:43:35.890Z",
+  "generatedAt": "2026-06-28T11:15:15.093Z",
   "items": [
     {
       "id": "pinknews:https://www.thepinknews.com/2026/06/26/fifa-world-cup-2026-pride-match-egypt-vs-iran/",
@@ -698,6 +698,14 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zQWRQU2x6SW1VYXhOUnRlMm1ZSGoyUDFYTzlTbGM0alhSMUgzMzduWDdfS2JNNFRMLWJ0NlBNeXItb1d4dTFOMFF3NnhGUERYQVozeU1lRndRRXFLMUZxRjJkcXQ?oc=5",
+      "title": "万绍芬同志逝世 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zQWRQU2x6SW1VYXhOUnRlMm1ZSGoyUDFYTzlTbGM0alhSMUgzMzduWDdfS2JNNFRMLWJ0NlBNeXItb1d4dTFOMFF3NnhGUERYQVozeU1lRndRRXFLMUZxRjJkcXQ?oc=5",
+      "publishedAt": "2026-06-28T06:35:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVzVIRE5sMm5NLThBckNEZXd4TGV0dExJMUh3YXFaUzhJdjB4bjNZUmNJVVdfbjVpbi1lcFhFYUNTR3VKOHZORnBLOTNsU2tuMkdWVWNFVGVZd2ZfeDN6cmplTlRHcmhoRlcwRl9HTTdLQzZDQmFaRGdqX04?oc=5",
       "title": "张军同志应邀到中央港澳办作讲座 - 中央政府驻港联络办",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVzVIRE5sMm5NLThBckNEZXd4TGV0dExJMUh3YXFaUzhJdjB4bjNZUmNJVVdfbjVpbi1lcFhFYUNTR3VKOHZORnBLOTNsU2tuMkdWVWNFVGVZd2ZfeDN6cmplTlRHcmhoRlcwRl9HTTdLQzZDQmFaRGdqX04?oc=5",
@@ -746,18 +754,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMieEFVX3lxTE1hY1BVY3J2UlVGZE51NzA2VFNCejhjdFlLd2JLZ3lDQUhadWltM0huMHRVRC1GWHhjb3RKMkZmY3BpbUtXRFk3MGNwLUJsRGxiMWUxMGF0cHFxTmV0UGpRZjh3SzdKX1FHbVU0Z2M0eVJsYmh6VklkZA?oc=5",
-      "title": "刘志刚同志到一线督导安全生产和矛盾纠纷排查化解工作 - hengyang.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hY1BVY3J2UlVGZE51NzA2VFNCejhjdFlLd2JLZ3lDQUhadWltM0huMHRVRC1GWHhjb3RKMkZmY3BpbUtXRFk3MGNwLUJsRGxiMWUxMGF0cHFxTmV0UGpRZjh3SzdKX1FHbVU0Z2M0eVJsYmh6VklkZA?oc=5",
-      "publishedAt": "2026-06-22T10:45:50.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOW10bW5YZGpxekJtaXp4eXdEUEhkSWlhcFlVdnEybUJieXFJZGdRRzY4cmx5aG5ZLUIySGV0NHgtOXBnUG9ON1NhaHczQlpKdWVWaFVxSFBQYUFWN0V3Nmp3Vmo?oc=5",
+      "title": "地委主要负责同志在阿勒泰市调研 - 阿勒泰新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOW10bW5YZGpxekJtaXp4eXdEUEhkSWlhcFlVdnEybUJieXFJZGdRRzY4cmx5aG5ZLUIySGV0NHgtOXBnUG9ON1NhaHczQlpKdWVWaFVxSFBQYUFWN0V3Nmp3Vmo?oc=5",
+      "publishedAt": "2026-06-27T15:27:36.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndnFremtYZG9HdlQ1alU5c1BJa0pEM1ZRTUVlbktHcU5OLVFvMlBXVEY0aFcxYWRXeUhRY0NuNzV5RkQxbEt1YkZpS1A5Q3B5Q0N5NFBJS1RBYjN0VVNITEtvWHc?oc=5",
-      "title": "地委主要负责同志在青河县、富蕴县调研 - 阿勒泰新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndnFremtYZG9HdlQ1alU5c1BJa0pEM1ZRTUVlbktHcU5OLVFvMlBXVEY0aFcxYWRXeUhRY0NuNzV5RkQxbEt1YkZpS1A5Q3B5Q0N5NFBJS1RBYjN0VVNITEtvWHc?oc=5",
-      "publishedAt": "2026-06-26T03:32:00.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMieEFVX3lxTE1hY1BVY3J2UlVGZE51NzA2VFNCejhjdFlLd2JLZ3lDQUhadWltM0huMHRVRC1GWHhjb3RKMkZmY3BpbUtXRFk3MGNwLUJsRGxiMWUxMGF0cHFxTmV0UGpRZjh3SzdKX1FHbVU0Z2M0eVJsYmh6VklkZA?oc=5",
+      "title": "刘志刚同志到一线督导安全生产和矛盾纠纷排查化解工作 - hengyang.gov.cn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hY1BVY3J2UlVGZE51NzA2VFNCejhjdFlLd2JLZ3lDQUhadWltM0huMHRVRC1GWHhjb3RKMkZmY3BpbUtXRFk3MGNwLUJsRGxiMWUxMGF0cHFxTmV0UGpRZjh3SzdKX1FHbVU0Z2M0eVJsYmh6VklkZA?oc=5",
+      "publishedAt": "2026-06-22T10:45:50.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -810,14 +818,6 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VoMERsWTRTSkNNd01tLVBYSlVSajI4YnVMbkhUSFEzQ1JBVTAyTElZU19IdFpidF9TOXRFQWU5QTM4bXRhaG43THpVRU5NODkxd2ZQWGtSajBGbkNpbU02d09hRkE5Wkhybnd4R18teU41R3hsbGhoVkRuLWp2S0hSZDRQMEU?oc=5",
-      "title": "力戒“吹吹拍拍”之风（南通 陈林、孙放） - 江苏先锋",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VoMERsWTRTSkNNd01tLVBYSlVSajI4YnVMbkhUSFEzQ1JBVTAyTElZU19IdFpidF9TOXRFQWU5QTM4bXRhaG43THpVRU5NODkxd2ZQWGtSajBGbkNpbU02d09hRkE5Wkhybnd4R18teU41R3hsbGhoVkRuLWp2S0hSZDRQMEU?oc=5",
-      "publishedAt": "2026-06-24T21:42:10.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiYEFVX3lxTE83WjMzYkNuakRxR3BEX095UWFBU3ZfTGtjcHQtMHVVdGNKS21obGpJY1BvUDRDY0ZaakI1LUxic2VzYktESG9uNU53c2I3UzNDRGwwcVpMZWtIcHQtOWFvSg?oc=5",
       "title": "“米克拉”将逐渐变性为温带气旋 “海高斯”停止编号 - 天气网",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83WjMzYkNuakRxR3BEX095UWFBU3ZfTGtjcHQtMHVVdGNKS21obGpJY1BvUDRDY0ZaakI1LUxic2VzYktESG9uNU53c2I3UzNDRGwwcVpMZWtIcHQtOWFvSg?oc=5",
@@ -826,10 +826,10 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOW10bW5YZGpxekJtaXp4eXdEUEhkSWlhcFlVdnEybUJieXFJZGdRRzY4cmx5aG5ZLUIySGV0NHgtOXBnUG9ON1NhaHczQlpKdWVWaFVxSFBQYUFWN0V3Nmp3Vmo?oc=5",
-      "title": "地委主要负责同志在阿勒泰市调研 - 阿勒泰新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOW10bW5YZGpxekJtaXp4eXdEUEhkSWlhcFlVdnEybUJieXFJZGdRRzY4cmx5aG5ZLUIySGV0NHgtOXBnUG9ON1NhaHczQlpKdWVWaFVxSFBQYUFWN0V3Nmp3Vmo?oc=5",
-      "publishedAt": "2026-06-27T15:27:36.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndnFremtYZG9HdlQ1alU5c1BJa0pEM1ZRTUVlbktHcU5OLVFvMlBXVEY0aFcxYWRXeUhRY0NuNzV5RkQxbEt1YkZpS1A5Q3B5Q0N5NFBJS1RBYjN0VVNITEtvWHc?oc=5",
+      "title": "地委主要负责同志在青河县、富蕴县调研 - 阿勒泰新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndnFremtYZG9HdlQ1alU5c1BJa0pEM1ZRTUVlbktHcU5OLVFvMlBXVEY0aFcxYWRXeUhRY0NuNzV5RkQxbEt1YkZpS1A5Q3B5Q0N5NFBJS1RBYjN0VVNITEtvWHc?oc=5",
+      "publishedAt": "2026-06-26T03:32:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -838,6 +838,14 @@
       "title": "综合新闻 - ciomp.ac.cn",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EZUVMX3pUTHlLU0hLMlRvUkdsWDFSSGNZRzItbU1hN1lURlBkdS1pVlR0WGFEM3MwVHNKeFJsVzgtRkZWb0QwN2lnbk9xRmE5d0JEcDVIcGdUemZfTkZad2lPTkFGVzc1M0E?oc=5",
       "publishedAt": "2026-06-26T02:23:43.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VoMERsWTRTSkNNd01tLVBYSlVSajI4YnVMbkhUSFEzQ1JBVTAyTElZU19IdFpidF9TOXRFQWU5QTM4bXRhaG43THpVRU5NODkxd2ZQWGtSajBGbkNpbU02d09hRkE5Wkhybnd4R18teU41R3hsbGhoVkRuLWp2S0hSZDRQMEU?oc=5",
+      "title": "力戒“吹吹拍拍”之风（南通 陈林、孙放） - 江苏先锋",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VoMERsWTRTSkNNd01tLVBYSlVSajI4YnVMbkhUSFEzQ1JBVTAyTElZU19IdFpidF9TOXRFQWU5QTM4bXRhaG43THpVRU5NODkxd2ZQWGtSajBGbkNpbU02d09hRkE5Wkhybnd4R18teU41R3hsbGhoVkRuLWp2S0hSZDRQMEU?oc=5",
+      "publishedAt": "2026-06-24T21:42:10.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -914,18 +922,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0taNWRidmRNaG9rNTFxaGNRbWNCRl82WDZwRUdMYjUwbllBSnItN0dubldGMS1Qc1JMYmxLSWl3WkdzN2tJY1ZNSHNsMFFvOV80M2xQOFp6QllBUXpNOTgxUHR5SHJ3dFhJcTNIMTRka3lCYl8wOHBmQ0Zza3UyMzlQUlQ2Q2s?oc=5",
-      "title": "杭州市人民政府关于皇甫佳群等同志职务任免的通知 - 杭州网",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0taNWRidmRNaG9rNTFxaGNRbWNCRl82WDZwRUdMYjUwbllBSnItN0dubldGMS1Qc1JMYmxLSWl3WkdzN2tJY1ZNSHNsMFFvOV80M2xQOFp6QllBUXpNOTgxUHR5SHJ3dFhJcTNIMTRka3lCYl8wOHBmQ0Zza3UyMzlQUlQ2Q2s?oc=5",
-      "publishedAt": "2026-06-22T23:43:00.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UM3BUOEtQazJhUGJnSTJXQTI3aGZ0dFZ3bWJTWTQxM09PR1ZJcnRpN1BPTFU4ZDRmdG1IeEliN05wb09VbFlMcGRkejE3TEJLRXB0aklUQ2JqXy1nZlI3VHpPZEdwMVk?oc=5",
       "title": "淮北最新人事！_中安在线_中安在线客户端 - 安徽新闻联播",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UM3BUOEtQazJhUGJnSTJXQTI3aGZ0dFZ3bWJTWTQxM09PR1ZJcnRpN1BPTFU4ZDRmdG1IeEliN05wb09VbFlMcGRkejE3TEJLRXB0aklUQ2JqXy1nZlI3VHpPZEdwMVk?oc=5",
       "publishedAt": "2026-06-27T05:08:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0taNWRidmRNaG9rNTFxaGNRbWNCRl82WDZwRUdMYjUwbllBSnItN0dubldGMS1Qc1JMYmxLSWl3WkdzN2tJY1ZNSHNsMFFvOV80M2xQOFp6QllBUXpNOTgxUHR5SHJ3dFhJcTNIMTRka3lCYl8wOHBmQ0Zza3UyMzlQUlQ2Q2s?oc=5",
+      "title": "杭州市人民政府关于皇甫佳群等同志职务任免的通知 - 杭州网",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0taNWRidmRNaG9rNTFxaGNRbWNCRl82WDZwRUdMYjUwbllBSnItN0dubldGMS1Qc1JMYmxLSWl3WkdzN2tJY1ZNSHNsMFFvOV80M2xQOFp6QllBUXpNOTgxUHR5SHJ3dFhJcTNIMTRka3lCYl8wOHBmQ0Zza3UyMzlQUlQ2Q2s?oc=5",
+      "publishedAt": "2026-06-22T23:43:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -970,14 +978,6 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqdmpOY0ZCRVo3OXhkVXF0Z3NMUVVsUlBqS3hTT2dRSC1RMkRBU2pMYjQyVWN4QXpVbGVSVnBEUmxrTFdVaF9wOUxrYjBpMGh2amRZN0I1anRPTmJfRXh6QkNodGFsQQ?oc=5",
-      "title": "同心同德 兴民兴邦——学习贯彻习近平党建思想系列谈之一 - 东南网",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqdmpOY0ZCRVo3OXhkVXF0Z3NMUVVsUlBqS3hTT2dRSC1RMkRBU2pMYjQyVWN4QXpVbGVSVnBEUmxrTFdVaF9wOUxrYjBpMGh2amRZN0I1anRPTmJfRXh6QkNodGFsQQ?oc=5",
-      "publishedAt": "2026-06-24T23:52:25.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RUtFODdxSzl1LWJpMTF2c2tRc1VOOWpqcXRrQndITHF3cVR1VVhhNXdaa0RjZkJ3Q1JIRl92WkdtQVc2bHJuSEE5cW12bW4xc3VIQlVCRXp6M1d3c1E?oc=5",
       "title": "黄强胡玉亭在“七一”前夕看望慰问老党员老同志 - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RUtFODdxSzl1LWJpMTF2c2tRc1VOOWpqcXRrQndITHF3cVR1VVhhNXdaa0RjZkJ3Q1JIRl92WkdtQVc2bHJuSEE5cW12bW4xc3VIQlVCRXp6M1d3c1E?oc=5",
@@ -998,30 +998,6 @@
       "title": "抗俄同时争平权 乌克兰LGBTQ士兵如腹背受敌 - SWI swissinfo.ch",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVGRZNkY5UjVVcEdkYTRxSlB6aXRtcUk1OEl6YjdDbTdTdzZBdG1xTUx4N0J6X3hZWDVLR0JPZmgzSDVrSjJYb1l4T1hjYVZFLTFMM2tUY3V6Mzl5X041dGRiNEQ2NDJib3NKQV9kNXF4ZFFTTUpsQVRsaTB5NVEwZ1p0ckV5SzdLTVhFMHcteENTWHlRQmNLNXlveUdZaXVqdERjUVRkalFOci11amhMS25uMmVvczhSdmdneFNnR3NkSUpBa0hEb1VlRmlJZkhtb1BEUVdFSHFUZUZKQkZtUkc1VG1TZ2ZCb0hGMEM2eXk5QUN1Qi15dzdOVXZfN2hqMktPdllZYmtIMW9fcjZ1ZVpmVkhkSEh3bXFISkQ0Uk93Ml9QLXNybUpocW9tUQ?oc=5",
       "publishedAt": "2026-06-26T11:20:02.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVhZb0F2RS1RTU1iQXB6VWk1eTVsb2JTU2VtOXhldWp2M3FxNTlvbjlYbG04SHhJaHRSRGN4SDI3U0pJckRpeXhrbUtSVkgwUnBlUk82Z0RncnBoWlpOZ1VMdllCSC1BSnZPcXhpUE9pdjNpOUhQZ29SZTdfSFlQVFJPZjZwd3pveEEzRg?oc=5",
-      "title": "淮安市洪泽区、金湖县党政主要负责同志调整 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVhZb0F2RS1RTU1iQXB6VWk1eTVsb2JTU2VtOXhldWp2M3FxNTlvbjlYbG04SHhJaHRSRGN4SDI3U0pJckRpeXhrbUtSVkgwUnBlUk82Z0RncnBoWlpOZ1VMdllCSC1BSnZPcXhpUE9pdjNpOUhQZ29SZTdfSFlQVFJPZjZwd3pveEEzRg?oc=5",
-      "publishedAt": "2026-06-26T09:37:31.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGxBaDAxWWdRaGhlU3JRZDZ4OUh6SVlKSWlaSTk3TUFDVTdfckVIZC1yZVNrTWJPV0ZrNHBhQm1HQ0pxZ21WWFlvSHFKRlBvQ2Z6VGhWVl9hZWNpa1BSNk9Lc3Z2N3RnZTZqYUpPT3B2NE5Rbmh2WWVrS0hLX29XQ291RVRGM0xZ?oc=5",
-      "title": "万绍芬同志逝世 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGxBaDAxWWdRaGhlU3JRZDZ4OUh6SVlKSWlaSTk3TUFDVTdfckVIZC1yZVNrTWJPV0ZrNHBhQm1HQ0pxZ21WWFlvSHFKRlBvQ2Z6VGhWVl9hZWNpa1BSNk9Lc3Z2N3RnZTZqYUpPT3B2NE5Rbmh2WWVrS0hLX29XQ291RVRGM0xZ?oc=5",
-      "publishedAt": "2026-06-28T05:24:16.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMieEFVX3lxTFBqVzlVcFZMamdBWmtXSWxtemZyMW9sYWtST1R5UnhqMzJpbjduMXhnU1B6NkFnd1dKcXV3RHA2TURTb3dUNGRqdU8xajVZSVZVZFhNb0FEallYTGlSUml0MGszZjFId3pqeTFuNnpzaUZkd05MQ0tMSQ?oc=5",
-      "title": "精打细算用好每一寸土地 - 中青在线",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqVzlVcFZMamdBWmtXSWxtemZyMW9sYWtST1R5UnhqMzJpbjduMXhnU1B6NkFnd1dKcXV3RHA2TURTb3dUNGRqdU8xajVZSVZVZFhNb0FEallYTGlSUml0MGszZjFId3pqeTFuNnpzaUZkd05MQ0tMSQ?oc=5",
-      "publishedAt": "2026-06-27T13:29:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1074,18 +1050,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNDAwMkZ5MFdGRmQ4UHJLWEZUOEZtUXhsMEhfY3V3YzFRMHdIYVMwa0FBQjZ1UEYtZGJxNHNYdE9yX0VNbTQzVXpqQmstVzFxNHdoLTJLcFVVNDdvT3hka2tJR1JCMk5vNGFZ?oc=5",
-      "title": "同志们，千千万万不要倒在黎明前 - 财富号",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNDAwMkZ5MFdGRmQ4UHJLWEZUOEZtUXhsMEhfY3V3YzFRMHdIYVMwa0FBQjZ1UEYtZGJxNHNYdE9yX0VNbTQzVXpqQmstVzFxNHdoLTJLcFVVNDdvT3hka2tJR1JCMk5vNGFZ?oc=5",
-      "publishedAt": "2026-06-26T14:06:00.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVjFmSUVuN2YxSkNUcVZHVG1MRDNfZWpQMnlGWDBKNkkxcEU5NlBwU0hNMW8yZjVYX2tqUmgyWFNvcllYQjlIVUEyTlh2SFRRSGhMVEVqVktJVE5ZRThxMnJmVGlKTVZ4R0RBMU9nMVhIVkRGZEx3OVF5TVRrd2huVDAyX1VKZXRHVHZKRFdzMUM2Y0s0NFRFUktYY056RjVRTVB2THVnUEpwX3VaSG4zT2N1b19DLU0zNUVRSG1GQWZlbF9HcXdIYmVVdnlQRHA3djJtRUhvX1U?oc=5",
+      "title": "万绍芬同志逝世 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVjFmSUVuN2YxSkNUcVZHVG1MRDNfZWpQMnlGWDBKNkkxcEU5NlBwU0hNMW8yZjVYX2tqUmgyWFNvcllYQjlIVUEyTlh2SFRRSGhMVEVqVktJVE5ZRThxMnJmVGlKTVZ4R0RBMU9nMVhIVkRGZEx3OVF5TVRrd2huVDAyX1VKZXRHVHZKRFdzMUM2Y0s0NFRFUktYY056RjVRTVB2THVnUEpwX3VaSG4zT2N1b19DLU0zNUVRSG1GQWZlbF9HcXdIYmVVdnlQRHA3djJtRUhvX1U?oc=5",
+      "publishedAt": "2026-06-28T06:50:31.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYWtwV1BIX2lzVXhrSG9hQ1JJMF9Ka2F2YW1zZnpEa0lXZ0dKNE03c0tpLV9PWGJWMFZLdmxMSkVFRzFjOTctdlM0a1g2cE9NRFE?oc=5",
-      "title": "桑珠同志生平 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYWtwV1BIX2lzVXhrSG9hQ1JJMF9Ka2F2YW1zZnpEa0lXZ0dKNE03c0tpLV9PWGJWMFZLdmxMSkVFRzFjOTctdlM0a1g2cE9NRFE?oc=5",
-      "publishedAt": "2026-06-24T03:04:15.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNDAwMkZ5MFdGRmQ4UHJLWEZUOEZtUXhsMEhfY3V3YzFRMHdIYVMwa0FBQjZ1UEYtZGJxNHNYdE9yX0VNbTQzVXpqQmstVzFxNHdoLTJLcFVVNDdvT3hka2tJR1JCMk5vNGFZ?oc=5",
+      "title": "同志们，千千万万不要倒在黎明前 - 财富号",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNDAwMkZ5MFdGRmQ4UHJLWEZUOEZtUXhsMEhfY3V3YzFRMHdIYVMwa0FBQjZ1UEYtZGJxNHNYdE9yX0VNbTQzVXpqQmstVzFxNHdoLTJLcFVVNDdvT3hka2tJR1JCMk5vNGFZ?oc=5",
+      "publishedAt": "2026-06-26T14:06:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1098,10 +1074,10 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVzUxYk91TUN5NFpBdFcya1oxbXhrdHVVbnRBU0swa0x4VFRjWEs3TGhNTm9qeVpSbTRDdVJjQ1BMTDR5RUtORXN5bUQ2bzVDY2hGelRuNVA1cEk?oc=5",
-      "title": "朱成勇同志任南充电影工业职业学院党委书记、 省政府督导专员 - 华禹教育网",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVzUxYk91TUN5NFpBdFcya1oxbXhrdHVVbnRBU0swa0x4VFRjWEs3TGhNTm9qeVpSbTRDdVJjQ1BMTDR5RUtORXN5bUQ2bzVDY2hGelRuNVA1cEk?oc=5",
-      "publishedAt": "2026-06-22T05:01:14.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYWtwV1BIX2lzVXhrSG9hQ1JJMF9Ka2F2YW1zZnpEa0lXZ0dKNE03c0tpLV9PWGJWMFZLdmxMSkVFRzFjOTctdlM0a1g2cE9NRFE?oc=5",
+      "title": "桑珠同志生平 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLYWtwV1BIX2lzVXhrSG9hQ1JJMF9Ka2F2YW1zZnpEa0lXZ0dKNE03c0tpLV9PWGJWMFZLdmxMSkVFRzFjOTctdlM0a1g2cE9NRFE?oc=5",
+      "publishedAt": "2026-06-24T03:04:15.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1122,18 +1098,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNDhyTjFTdktPQkhQTlYyWU5EU3ZfRWx0RkgwS2NodWhXN3RDeU1YVFlHNFBMUkFTMlJENnpMTUtIcnJEWXlPRnlBc3JjdjI1akVkQ1I4U0UzaUJldjBuUkU1SmNzUHMtTUg1Sjlhek1rMWtFc2VZSm1MaGxLdXM?oc=5",
-      "title": "诺兰巨作《奥德赛》试映曝光！知名变性演员饰演角色公开 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNDhyTjFTdktPQkhQTlYyWU5EU3ZfRWx0RkgwS2NodWhXN3RDeU1YVFlHNFBMUkFTMlJENnpMTUtIcnJEWXlPRnlBc3JjdjI1akVkQ1I4U0UzaUJldjBuUkU1SmNzUHMtTUg1Sjlhek1rMWtFc2VZSm1MaGxLdXM?oc=5",
-      "publishedAt": "2026-06-26T16:32:00.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMidEFVX3lxTE1RRG1DQnRaVGRadzlGamRYSVM3YVF5enNNbTltNWMtekpQcEV6TDJQWEdMU2JVdGNKekt3SUVBMExfNEpsRXNGaWlKdVJ3OFd5NzBZNkpzcjRiVWNWczRQVmNxMUVfYVdaMjlBREFqV1VWeTRG?oc=5",
       "title": "连小敏同志，因病逝世 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RRG1DQnRaVGRadzlGamRYSVM3YVF5enNNbTltNWMtekpQcEV6TDJQWEdMU2JVdGNKekt3SUVBMExfNEpsRXNGaWlKdVJ3OFd5NzBZNkpzcjRiVWNWczRQVmNxMUVfYVdaMjlBREFqV1VWeTRG?oc=5",
       "publishedAt": "2026-06-25T00:38:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZkFVX3lxTE5raFpYcnk5SWdMeFBGUWRucHZKM2F2amxIN1c1YWFrd2xIR1BhTW9NMTJvc250VnNKc2toYUhUS2w4dWtBMlVOZ1dfdW8zVkpwbFJsV0sxNGFsaWpLNlN0RGd5Z0NrZw?oc=5",
+      "title": "CircZBTB46：克唑替尼耐药间变性淋巴瘤激酶阳性T细胞淋巴瘤的一个有前景的治疗靶点 - news.ebiotrade.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5raFpYcnk5SWdMeFBGUWRucHZKM2F2amxIN1c1YWFrd2xIR1BhTW9NMTJvc250VnNKc2toYUhUS2w4dWtBMlVOZ1dfdW8zVkpwbFJsV0sxNGFsaWpLNlN0RGd5Z0NrZw?oc=5",
+      "publishedAt": "2026-06-27T23:57:32.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1170,6 +1146,14 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1lTT3ZrdjRTMVNHWmY5Z2trYmhrSG9KaU9OcnJFV1QtRXlNTGxoRUtEbjBSREM3VE1JMzNpdU9VUDZCME0xcTN4dGdyamxEWXQyMzlrS08yMlV1VFR6RDJtVFNsVjNPZ3JTT1BxM1dPVldRdzhINmVaNFhQb19hcll4Tlc?oc=5",
+      "title": "赵子龙同志（2001年生），不幸牺牲 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1lTT3ZrdjRTMVNHWmY5Z2trYmhrSG9KaU9OcnJFV1QtRXlNTGxoRUtEbjBSREM3VE1JMzNpdU9VUDZCME0xcTN4dGdyamxEWXQyMzlrS08yMlV1VFR6RDJtVFNsVjNPZ3JTT1BxM1dPVldRdzhINmVaNFhQb19hcll4Tlc?oc=5",
+      "publishedAt": "2026-06-27T16:20:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kY3hPLXFRQnVVZ1l2cjVTN3NMTGdWS2loTUdfR1NmNkRSTU5DRXUzX3hyd0FKR3FzRU1lNlNueGFab3dxMGtobFhIeTh5SEhsQWpmemlSVW1sOTBWUTZJb04zZw?oc=5",
       "title": "让其他同志先走_新浪新闻 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kY3hPLXFRQnVVZ1l2cjVTN3NMTGdWS2loTUdfR1NmNkRSTU5DRXUzX3hyd0FKR3FzRU1lNlNueGFab3dxMGtobFhIeTh5SEhsQWpmemlSVW1sOTBWUTZJb04zZw?oc=5",
@@ -1198,6 +1182,14 @@
       "title": "连小敏同志，因病逝世 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZXJCSXJFNXdBMFRwMWIyWUphS1A0ZFp2N3F5blY2V2RZTEJBZkVjUUZYMXUzUnNYMHJ3U1lKbG0wVkNoY2N6V3A3Ry1QRV9DVHZwdndQekRtbzVWSWgzM24yaE15TDhsMUNFaVBaYm1tOWFybTJpbVIxRXZ0dXFaXzFfVmQzT1ZNUnIwQWNNVlF4NkZKS0F5dw?oc=5",
       "publishedAt": "2026-06-25T00:52:59.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMieEFVX3lxTFBqVzlVcFZMamdBWmtXSWxtemZyMW9sYWtST1R5UnhqMzJpbjduMXhnU1B6NkFnd1dKcXV3RHA2TURTb3dUNGRqdU8xajVZSVZVZFhNb0FEallYTGlSUml0MGszZjFId3pqeTFuNnpzaUZkd05MQ0tMSQ?oc=5",
+      "title": "精打细算用好每一寸土地 - 中青在线",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqVzlVcFZMamdBWmtXSWxtemZyMW9sYWtST1R5UnhqMzJpbjduMXhnU1B6NkFnd1dKcXV3RHA2TURTb3dUNGRqdU8xajVZSVZVZFhNb0FEallYTGlSUml0MGszZjFId3pqeTFuNnpzaUZkd05MQ0tMSQ?oc=5",
+      "publishedAt": "2026-06-27T13:29:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1250,6 +1242,14 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNDhyTjFTdktPQkhQTlYyWU5EU3ZfRWx0RkgwS2NodWhXN3RDeU1YVFlHNFBMUkFTMlJENnpMTUtIcnJEWXlPRnlBc3JjdjI1akVkQ1I4U0UzaUJldjBuUkU1SmNzUHMtTUg1Sjlhek1rMWtFc2VZSm1MaGxLdXM?oc=5",
+      "title": "诺兰巨作《奥德赛》试映曝光！知名变性演员饰演角色公开 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNDhyTjFTdktPQkhQTlYyWU5EU3ZfRWx0RkgwS2NodWhXN3RDeU1YVFlHNFBMUkFTMlJENnpMTUtIcnJEWXlPRnlBc3JjdjI1akVkQ1I4U0UzaUJldjBuUkU1SmNzUHMtTUg1Sjlhek1rMWtFc2VZSm1MaGxLdXM?oc=5",
+      "publishedAt": "2026-06-26T16:32:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMicEFVX3lxTFBpa0tWQnhLTTN6bV9oSFpuXzd0SWRaYmNxMnJwUmZadFVQb0pxc1owV016MmVIUWZrWjlSOVJzZ2Zxb0hFdTZ0Qzd3M2k0TjNrN0gxeklIQ09GeFBtTW5nM1dPdVhsSm1BNHZyLXFtT0Y?oc=5",
       "title": "特朗普模仿跨性别女性参加比赛，在台上反复呻吟 - 中华网",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpa0tWQnhLTTN6bV9oSFpuXzd0SWRaYmNxMnJwUmZadFVQb0pxc1owV016MmVIUWZrWjlSOVJzZ2Zxb0hFdTZ0Qzd3M2k0TjNrN0gxeklIQ09GeFBtTW5nM1dPdVhsSm1BNHZyLXFtT0Y?oc=5",
@@ -1290,10 +1290,10 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMifkFVX3lxTE9tUFd3ODk3SEhoUGVRS3h6aVFlM3ZSZ01XLTRMVGtoSUJXLUVwLTg2VGkxQmx4LXZ0M3BqT011LS16STJiMlZMMVgyVU5QdVoybmVuNFZDNktFTE10bzZqZ2taSGYyd3pCQVhod21IOHVYNkcyTkNzZ1p2Qy1Ydw?oc=5",
-      "title": "我市举办马希军同志先进事迹报告会 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tUFd3ODk3SEhoUGVRS3h6aVFlM3ZSZ01XLTRMVGtoSUJXLUVwLTg2VGkxQmx4LXZ0M3BqT011LS16STJiMlZMMVgyVU5QdVoybmVuNFZDNktFTE10bzZqZ2taSGYyd3pCQVhod21IOHVYNkcyTkNzZ1p2Qy1Ydw?oc=5",
-      "publishedAt": "2026-06-26T04:12:18.000Z",
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sbDVpbV9lUWlISVVVM1JWM090azZCcFNwaGtCWG15WEJjd2s1SWk3OXBxZ3ZFMWRhLWlBSjgxWUl1QklJdk5tVXh6YU1CUWcwMGp5cHhfYkk?oc=5",
+      "title": "国区Steam搜不到LGBTQ+标签了！被标记为不当内容 - 驱动之家",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sbDVpbV9lUWlISVVVM1JWM090azZCcFNwaGtCWG15WEJjd2s1SWk3OXBxZ3ZFMWRhLWlBSjgxWUl1QklJdk5tVXh6YU1CUWcwMGp5cHhfYkk?oc=5",
+      "publishedAt": "2026-06-25T13:13:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1302,14 +1302,6 @@
       "title": "蒋凯渊同志任南通市委委员、常委、组织部部长 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0RDYnhxSzNUeW93YWI4NFl1QXRGUi1hOVBBT1IxeUVWcS1jaWxGUnRrQ3VGWEt6VmpMSUxpTTJCVWx3ZDNGUzl6VDRYeURWSkozZ3BEbEtyNFhUUXRnUDRiQTdiZ1MwU29zQ0tfQ19jQWdVRWhjcm1EcmhQOXRhOE01dw?oc=5",
       "publishedAt": "2026-06-27T07:50:11.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sbDVpbV9lUWlISVVVM1JWM090azZCcFNwaGtCWG15WEJjd2s1SWk3OXBxZ3ZFMWRhLWlBSjgxWUl1QklJdk5tVXh6YU1CUWcwMGp5cHhfYkk?oc=5",
-      "title": "国区Steam搜不到LGBTQ+标签了！被标记为不当内容 - 驱动之家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sbDVpbV9lUWlISVVVM1JWM090azZCcFNwaGtCWG15WEJjd2s1SWk3OXBxZ3ZFMWRhLWlBSjgxWUl1QklJdk5tVXh6YU1CUWcwMGp5cHhfYkk?oc=5",
-      "publishedAt": "2026-06-25T13:13:00.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1330,6 +1322,14 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMieEFVX3lxTFBNNFVqUEVqTk51MUZVakZwc21pMHkxb1JTNTlDcFZSUnRWa0ppZm5pS2JRek1qa1o4VUZUMVVrTmdRNmc3UzRXa3BrbDN3OUtWVVRlUXRHWjBwVmI0QjZrQ2h6bkpsdGZGVzZUNnNzcS1yVTVLcTI1Qg?oc=5",
+      "title": "“米克拉”向东北方向快速移动 “海高斯”即将变性为温带气旋 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNNFVqUEVqTk51MUZVakZwc21pMHkxb1JTNTlDcFZSUnRWa0ppZm5pS2JRek1qa1o4VUZUMVVrTmdRNmc3UzRXa3BrbDN3OUtWVVRlUXRHWjBwVmI0QjZrQ2h6bkpsdGZGVzZUNnNzcS1yVTVLcTI1Qg?oc=5",
+      "publishedAt": "2026-06-26T23:53:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFNCWjQtWXJ4N0kzSDZjeVZSNWN4UTFnVl9iVnpYXzJHVXBxMDVmRUNXaG5qQTdBN1FNRWdzTkhIOE1Ud3JKYUxDWFdHRUZNRGt2LXhHOEFXWS1ZdzhkWVJOc2V4UmJLYkZERHlKVWF0ZmhKTldFeWk5Skg3SUlPUDlrYw?oc=5",
       "title": "连小敏同志在京逝世，享年58岁 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFNCWjQtWXJ4N0kzSDZjeVZSNWN4UTFnVl9iVnpYXzJHVXBxMDVmRUNXaG5qQTdBN1FNRWdzTkhIOE1Ud3JKYUxDWFdHRUZNRGt2LXhHOEFXWS1ZdzhkWVJOc2V4UmJLYkZERHlKVWF0ZmhKTldFeWk5Skg3SUlPUDlrYw?oc=5",
@@ -1338,18 +1338,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZkFVX3lxTE5raFpYcnk5SWdMeFBGUWRucHZKM2F2amxIN1c1YWFrd2xIR1BhTW9NMTJvc250VnNKc2toYUhUS2w4dWtBMlVOZ1dfdW8zVkpwbFJsV0sxNGFsaWpLNlN0RGd5Z0NrZw?oc=5",
-      "title": "CircZBTB46：克唑替尼耐药间变性淋巴瘤激酶阳性T细胞淋巴瘤的一个有前景的治疗靶点 - news.ebiotrade.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5raFpYcnk5SWdMeFBGUWRucHZKM2F2amxIN1c1YWFrd2xIR1BhTW9NMTJvc250VnNKc2toYUhUS2w4dWtBMlVOZ1dfdW8zVkpwbFJsV0sxNGFsaWpLNlN0RGd5Z0NrZw?oc=5",
-      "publishedAt": "2026-06-27T23:57:32.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiakFVX3lxTE5vU2p3SjlxWUNhV0FURkxUenFyelVwLXZBWUxWQ1laVHVBMWp4aVFOaGhQTHN2dnc3U1hINDdVWDdfYl9aamg1ODVEdVlYa1kyb29OQTRuN2JGVWY2Z1JJZ2oyeS1PdEdmZHc?oc=5",
       "title": "陈佳鑫施救欲跳楼群众时牺牲，年仅30岁-今日头条 - 光明网",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vU2p3SjlxWUNhV0FURkxUenFyelVwLXZBWUxWQ1laVHVBMWp4aVFOaGhQTHN2dnc3U1hINDdVWDdfYl9aamg1ODVEdVlYa1kyb29OQTRuN2JGVWY2Z1JJZ2oyeS1PdEdmZHc?oc=5",
       "publishedAt": "2026-06-22T23:21:00.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1QxVjRvTXRnTGpaejRhaXRaaU9pbU45LWtMUXhqRTdBWDU4TnZQUjBMa2NQRHpKNmpuUFY3YS1HZTF2ajZxQnl5czRteEUySGI3Uk8zLXJ1TzkyaXQycWtDbG5sMWp2WDlldmtaajgwU2FtVlh2NG1xMlppdDdndE1EOA?oc=5",
+      "title": "“消防员同志，我爱人羊水破了”，深夜接到求助电话，芙蓉消防暖心护送临产孕妇就医 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1QxVjRvTXRnTGpaejRhaXRaaU9pbU45LWtMUXhqRTdBWDU4TnZQUjBMa2NQRHpKNmpuUFY3YS1HZTF2ajZxQnl5czRteEUySGI3Uk8zLXJ1TzkyaXQycWtDbG5sMWp2WDlldmtaajgwU2FtVlh2NG1xMlppdDdndE1EOA?oc=5",
+      "publishedAt": "2026-06-22T09:37:02.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1410,8 +1410,24 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2dkalMxYmwwUjdlZ2syOXdzWm9KOEYtUElYVElzZHphck42SElwdU5GdDRGUGMwbm90U0Y0Z2YyOEZBSXFBeUhMZ3dHSnpEZmFEMm9LSkdBUWk2SGEtU1pJTVVSaHlNcDdpQUNuOHZPZUFoVkE0NjM3Sk95dTFNald3WDRRajRa?oc=5",
+      "title": "辅警赵子龙同志（2001年生），不幸牺牲 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2dkalMxYmwwUjdlZ2syOXdzWm9KOEYtUElYVElzZHphck42SElwdU5GdDRGUGMwbm90U0Y0Z2YyOEZBSXFBeUhMZ3dHSnpEZmFEMm9LSkdBUWk2SGEtU1pJTVVSaHlNcDdpQUNuOHZPZUFoVkE0NjM3Sk95dTFNald3WDRRajRa?oc=5",
+      "publishedAt": "2026-06-28T10:15:43.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVkRLc2licFZXTk9nUzdTcFZ5RWJiSFF1dGR0bnVrQnRUMTFfbXFfQ2hMVGZYUjhTNDAyNVRqcDRyc1RtZmtQRmVRdWk4Z0pod2VaZ2xQaWJ3aWlkQUlvQ0hBeVhickNaczdZQzQ0QlNIbk9lcG84TU9BTWxqVGNrZ2Z4VFQ4UVR0T3drWVYzREdiWm5QWVRuM0ZmcjNOR2VhXzdTMHNxSERlX0JSWU1kTVVrOUhYMS1PWjZCRVF6MjROU0UxVkN0Wk5WRmNFbW53MmVsZWI0QQ?oc=5",
+      "title": "福建一市多人职务调整，涉厅级干部 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVkRLc2licFZXTk9nUzdTcFZ5RWJiSFF1dGR0bnVrQnRUMTFfbXFfQ2hMVGZYUjhTNDAyNVRqcDRyc1RtZmtQRmVRdWk4Z0pod2VaZ2xQaWJ3aWlkQUlvQ0hBeVhickNaczdZQzQ0QlNIbk9lcG84TU9BTWxqVGNrZ2Z4VFQ4UVR0T3drWVYzREdiWm5QWVRuM0ZmcjNOR2VhXzdTMHNxSERlX0JSWU1kTVVrOUhYMS1PWjZCRVF6MjROU0UxVkN0Wk5WRmNFbW53MmVsZWI0QQ?oc=5",
+      "publishedAt": "2026-06-28T10:51:04.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdFdGN0pSMFA0RDJyckJ6M3NmSUZCWEp4T2NjMjJ2aXF4VGY2djFPQVFWNkpZc0ZuWDV4YTlYSFFFcDJ5S3NJLUtqVEotNW0xdzdmaDVHdGNXZVNIeWs3dndRV1g3bnJBVm9lbnNhd3E?oc=5",
-      "title": "后悔10亿赌局，不和女同志计较，雷军又要惹怒董明珠了 - QQ News",
+      "title": "后悔10亿赌局，不和女同志计较，雷军又要惹怒董明珠了 - 腾讯新闻",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdFdGN0pSMFA0RDJyckJ6M3NmSUZCWEp4T2NjMjJ2aXF4VGY2djFPQVFWNkpZc0ZuWDV4YTlYSFFFcDJ5S3NJLUtqVEotNW0xdzdmaDVHdGNXZVNIeWs3dndRV1g3bnJBVm9lbnNhd3E?oc=5",
       "publishedAt": "2026-06-22T14:33:00.000Z",
       "sourceId": "gnews-zh-cn",
@@ -1426,18 +1442,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qZ1FDc1Y5QVVDLUJDaTJEWkZXZy1MZFg1Wk5aRHp0dGZBVnZaUDlJT3dtaV8tRVlobUFpckM5ZlNVUnkxcG9OZWNkMlZ6azBhcjg1ZDBR?oc=5",
-      "title": "连小敏同志，因病逝世 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qZ1FDc1Y5QVVDLUJDaTJEWkZXZy1MZFg1Wk5aRHp0dGZBVnZaUDlJT3dtaV8tRVlobUFpckM5ZlNVUnkxcG9OZWNkMlZ6azBhcjg1ZDBR?oc=5",
-      "publishedAt": "2026-06-25T05:01:37.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZkFVX3lxTE51V1VqbjFLcTJscTlJR2gyWTVyVDBpVVhuYWZBMkRFZ3FFU2xQdmYxcEptbmhFb3I4WjNCZk1ubVYtV0Q3OFVjdno2VC1lQlFGdDVmMURERnFNdlpVVHlVa1FNVGladw?oc=5",
       "title": "HIF-1α通过抑制ACSL4介导的脂质代谢稳态，增强间变性甲状腺癌对铁死亡的抗性 - news.ebiotrade.com",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51V1VqbjFLcTJscTlJR2gyWTVyVDBpVVhuYWZBMkRFZ3FFU2xQdmYxcEptbmhFb3I4WjNCZk1ubVYtV0Q3OFVjdno2VC1lQlFGdDVmMURERnFNdlpVVHlVa1FNVGladw?oc=5",
       "publishedAt": "2026-06-28T00:32:34.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qZ1FDc1Y5QVVDLUJDaTJEWkZXZy1MZFg1Wk5aRHp0dGZBVnZaUDlJT3dtaV8tRVlobUFpckM5ZlNVUnkxcG9OZWNkMlZ6azBhcjg1ZDBR?oc=5",
+      "title": "连小敏同志，因病逝世 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qZ1FDc1Y5QVVDLUJDaTJEWkZXZy1MZFg1Wk5aRHp0dGZBVnZaUDlJT3dtaV8tRVlobUFpckM5ZlNVUnkxcG9OZWNkMlZ6azBhcjg1ZDBR?oc=5",
+      "publishedAt": "2026-06-25T05:01:37.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1450,34 +1466,18 @@
       "sourceName": "Google 新闻（中文-综合）"
     },
     {
+      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EeVBTUjRTakdqZXhxTk9tZ3h5b2F4akw5dWppenY5OTNERzJrbkJvVGJzUzBQNzJnUlI4dzVta1BuYjFwSmlGZXdmVFRDTUkyOVRnV0NjeUNlZW4zN09iQUdwUV95M1k?oc=5",
+      "title": "金正恩同志在“崔贤”号驱逐舰入列典礼上的贺词 - 乌有之乡",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EeVBTUjRTakdqZXhxTk9tZ3h5b2F4akw5dWppenY5OTNERzJrbkJvVGJzUzBQNzJnUlI4dzVta1BuYjFwSmlGZXdmVFRDTUkyOVRnV0NjeUNlZW4zN09iQUdwUV95M1k?oc=5",
+      "publishedAt": "2026-06-24T02:07:42.000Z",
+      "sourceId": "gnews-zh-cn",
+      "sourceName": "Google 新闻（中文-综合）"
+    },
+    {
       "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WaGVvYWJXVmdsaXJ4ZzJLYlp4TjliNDQ2SGVab1pxZlRKWE1vVWRzNTlpNWdxZ2dpTkRDNHZrS3FvOHVxZzhBWE5abC1wTDVPMXFOblJR?oc=5",
-      "title": "最高人民检察院关于杜学毅同志为中华人民共和国二级大检察官的公告 - QQ News",
+      "title": "最高人民检察院关于杜学毅同志为中华人民共和国二级大检察官的公告 - 腾讯新闻",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WaGVvYWJXVmdsaXJ4ZzJLYlp4TjliNDQ2SGVab1pxZlRKWE1vVWRzNTlpNWdxZ2dpTkRDNHZrS3FvOHVxZzhBWE5abC1wTDVPMXFOblJR?oc=5",
       "publishedAt": "2026-06-23T01:30:00.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiaEFVX3lxTE4weWRGNFpFNzI1b0hNbGFMOTYtZDJzRmdoS21TMlVyX0pyczJtaW10SXFaRGpMRXROS3NndldxSmpxV3Fsa0dBVE01WUdkdUVsTmZFM1NEMWMydFF6ckJaVDNCLXQ2U0tP?oc=5",
-      "title": "学习手记丨筑强基层堡垒 夯实执政根基 - tlfw.net",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4weWRGNFpFNzI1b0hNbGFMOTYtZDJzRmdoS21TMlVyX0pyczJtaW10SXFaRGpMRXROS3NndldxSmpxV3Fsa0dBVE01WUdkdUVsTmZFM1NEMWMydFF6ckJaVDNCLXQ2U0tP?oc=5",
-      "publishedAt": "2026-06-21T13:13:06.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGxBdF9KNy1SajA3dUpTSWVXZzExSGZPSE1GMjZMMUEzSzB0eWlQMzJVSmFoQWFZYld1NXZta0cyc1JkXzZkN2xzbnFyYm5nUnNZcDhpajRqQ0pBVjRvWTQ0T0U3WjI5ZFZWSDNjSDVwa3FRd1gyTVp0Q0VIRWRqTVBIU3RpQjJs?oc=5",
-      "title": "【蒋凯渊任南通市委常委、组织部部长】6月27日上午，南通市委组织部召开全体人员会议。会议宣布省委、省委组织部关于市委组织部主要负责同志调整的决定：蒋凯渊同志任南通市委委员、常委、组织部部长。 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGxBdF9KNy1SajA3dUpTSWVXZzExSGZPSE1GMjZMMUEzSzB0eWlQMzJVSmFoQWFZYld1NXZta0cyc1JkXzZkN2xzbnFyYm5nUnNZcDhpajRqQ0pBVjRvWTQ0T0U3WjI5ZFZWSDNjSDVwa3FRd1gyTVp0Q0VIRWRqTVBIU3RpQjJs?oc=5",
-      "publishedAt": "2026-06-27T07:04:53.000Z",
-      "sourceId": "gnews-zh-cn",
-      "sourceName": "Google 新闻（中文-综合）"
-    },
-    {
-      "id": "gnews-zh-cn:https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHNrdUdpODVQLXozd2dIeVBiU1VSVFN5ak1yZC1uNVJTM0ZJS3NXcGRVT204aHBrQWdsWEctUXhBeEVBVVhWejVYYTlyUTZNZWRZaWw0NXRSOFFsalB3aGRyR1Jqb3hEMlpjZ21NV1F6NWtJNHFZbENLR2Nzb3A1ZWFNZ1cxUVZ0aklRQQ?oc=5",
-      "title": "辅警赵子龙同志（2001年生），不幸牺牲 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHNrdUdpODVQLXozd2dIeVBiU1VSVFN5ak1yZC1uNVJTM0ZJS3NXcGRVT204aHBrQWdsWEctUXhBeEVBVVhWejVYYTlyUTZNZWRZaWw0NXRSOFFsalB3aGRyR1Jqb3hEMlpjZ21NV1F6NWtJNHFZbENLR2Nzb3A1ZWFNZ1cxUVZ0aklRQQ?oc=5",
-      "publishedAt": "2026-06-28T01:48:08.000Z",
       "sourceId": "gnews-zh-cn",
       "sourceName": "Google 新闻（中文-综合）"
     },
@@ -1494,6 +1494,14 @@
       "title": "2026酷兒必讀書單！編輯推薦「10本劃時代同志文學」看見那些得來不易的日常 - meet eslite",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNM3UzTzRsUzhZc2NvWkNRS204ZjI2YzBBa25zbklibE5iaTdXcXJUejFWQXFEN1N6NF9ZMVNmSWV4WXVuNzFUTkw4bUkzYVA1NkQ3cGJabVFzYmFpVVJV?oc=5",
       "publishedAt": "2026-06-24T07:40:47.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiuwJBVV95cUxOT2JhXzlQeF9KeHpFVG1YX1FiV0hFc2dJeXg3S2l1WkVGc2Q0MWQyT2NuZTBteVA0Y2phd2t0WHlHZDBBVEdyeHBSSHM2dTN4T1oxVXBHTFZJZG00ZW9BaFVhbGg0dnJuRjZYS1BYY0lwV3k3S0hEMEdWalo5blExemxJZTRmSERHYktGUFRNcmxyLXBNcXdVWm12aF9iSFhpZU1OakdLMDVEMW1jaEdIcEJGUDVaTWFyVmM4UmsxcnczLUxoSXpfVlQyYVlfeExObUR2aW82YmJTMEw0akhOUEk0M2xMb0hnM05Wdm1DYWlyeEIyT2hnZlVNNzI3VUcwc1VkLUQ0azlEN0hLbnNJMVJvNXV0eEhfaWlHWWN1X2pRUmY3TTZnTmpYOUJRa1NHQVg5dHRIeTRFSkU?oc=5",
+      "title": "姆巴佩女友是變性人名模 相差9歲大談姐弟戀 - Yahoo - 汽機車",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOT2JhXzlQeF9KeHpFVG1YX1FiV0hFc2dJeXg3S2l1WkVGc2Q0MWQyT2NuZTBteVA0Y2phd2t0WHlHZDBBVEdyeHBSSHM2dTN4T1oxVXBHTFZJZG00ZW9BaFVhbGg0dnJuRjZYS1BYY0lwV3k3S0hEMEdWalo5blExemxJZTRmSERHYktGUFRNcmxyLXBNcXdVWm12aF9iSFhpZU1OakdLMDVEMW1jaEdIcEJGUDVaTWFyVmM4UmsxcnczLUxoSXpfVlQyYVlfeExObUR2aW82YmJTMEw0akhOUEk0M2xMb0hnM05Wdm1DYWlyeEIyT2hnZlVNNzI3VUcwc1VkLUQ0azlEN0hLbnNJMVJvNXV0eEhfaWlHWWN1X2pRUmY3TTZnTmpYOUJRa1NHQVg5dHRIeTRFSkU?oc=5",
+      "publishedAt": "2026-06-26T05:48:52.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1522,18 +1530,18 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ZFR1RW5oLVdLZ1RVbVEzZEN0akM5YmVIVEFaZ2FhUkZBcEVzc0YzYzV0RjM2VWZScXZGR3gyU1B6Yy10Mjg4T2xuMkNSTkpoNmgzMDM2N0nSAV9BVV95cUxQVHF5aHhsOWFFNHFzdzFGTGl0UUd2ZmdLUlo1RF9nQUhsMHhXWkR2ZDNoZEQzRHZpLVVkMmdzeWdscUVuTUdOSGFUcUkzbkdhSHdaM01KMzhIZi1UcGlqbw?oc=5",
-      "title": "跨性別正妹網紅移居韓國！突喊：想念台灣人情味　真實原因曝光 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ZFR1RW5oLVdLZ1RVbVEzZEN0akM5YmVIVEFaZ2FhUkZBcEVzc0YzYzV0RjM2VWZScXZGR3gyU1B6Yy10Mjg4T2xuMkNSTkpoNmgzMDM2N0nSAV9BVV95cUxQVHF5aHhsOWFFNHFzdzFGTGl0UUd2ZmdLUlo1RF9nQUhsMHhXWkR2ZDNoZEQzRHZpLVVkMmdzeWdscUVuTUdOSGFUcUkzbkdhSHdaM01KMzhIZi1UcGlqbw?oc=5",
-      "publishedAt": "2026-06-23T03:21:00.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EYlgxallSbTloTm5NSHczUUhaXzVHX2U2QmxPRGc5UjI0NGlIc3JSTHN6aFZ5M3VlV0lST19DM01xN3E3bDMwNEtUTzlrUDlwY09JRkJPTUhVODZhUHpKak5VZWtfaVXSAWdBVV95cUxORGJYMWpZUm05aE5uTUh3M1FIWl81R19lNkJsT0RnOVIyNDRpSHNyUkxzemhWeTN1ZVdJUk9fQzNNcTdxN2wzMDRLVE85a1A5cGNPSUZCT01IVTg2YVB6SmpOVWVrX2lV?oc=5",
+      "title": "威善高參加跨性別遊行 遭抗議者包圍辱罵 - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EYlgxallSbTloTm5NSHczUUhaXzVHX2U2QmxPRGc5UjI0NGlIc3JSTHN6aFZ5M3VlV0lST19DM01xN3E3bDMwNEtUTzlrUDlwY09JRkJPTUhVODZhUHpKak5VZWtfaVXSAWdBVV95cUxORGJYMWpZUm05aE5uTUh3M1FIWl81R19lNkJsT0RnOVIyNDRpSHNyUkxzemhWeTN1ZVdJUk9fQzNNcTdxN2wzMDRLVE85a1A5cGNPSUZCT01IVTg2YVB6SmpOVWVrX2lV?oc=5",
+      "publishedAt": "2026-06-28T06:15:00.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS1RLcmp2VlZnT3A1anFUaGtDMlR1bEE2NUhWYnF0V2ttVFZrSGZkQlBtd1BVXzNhc2Y5dFdQUUczcVNibldLR0lRa3VxTlRMZmtmeVN0Qzh6UE9hVG80enFB0gFnQVVfeXFMUHhycEhySlZ2OWVWRmlpc2VibUVuR0w1NnVKNUlpMmJNeE5vV1lmZEFBcWlXYU9QTjN6bkdZOERmdFR0clU2RFRKSkZPeEpWX3dUcUFfWG8yQ2VpclJ5dVNaSHdCX3ZtTQ?oc=5",
-      "title": "不只人類有同志 芝城同性企鵝廝守7年成驕傲月焦點 - 世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS1RLcmp2VlZnT3A1anFUaGtDMlR1bEE2NUhWYnF0V2ttVFZrSGZkQlBtd1BVXzNhc2Y5dFdQUUczcVNibldLR0lRa3VxTlRMZmtmeVN0Qzh6UE9hVG80enFB0gFnQVVfeXFMUHhycEhySlZ2OWVWRmlpc2VibUVuR0w1NnVKNUlpMmJNeE5vV1lmZEFBcWlXYU9QTjN6bkdZOERmdFR0clU2RFRKSkZPeEpWX3dUcUFfWG8yQ2VpclJ5dVNaSHdCX3ZtTQ?oc=5",
-      "publishedAt": "2026-06-24T13:28:39.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ZFR1RW5oLVdLZ1RVbVEzZEN0akM5YmVIVEFaZ2FhUkZBcEVzc0YzYzV0RjM2VWZScXZGR3gyU1B6Yy10Mjg4T2xuMkNSTkpoNmgzMDM2N0nSAV9BVV95cUxQVHF5aHhsOWFFNHFzdzFGTGl0UUd2ZmdLUlo1RF9nQUhsMHhXWkR2ZDNoZEQzRHZpLVVkMmdzeWdscUVuTUdOSGFUcUkzbkdhSHdaM01KMzhIZi1UcGlqbw?oc=5",
+      "title": "跨性別正妹網紅移居韓國！突喊：想念台灣人情味　真實原因曝光 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ZFR1RW5oLVdLZ1RVbVEzZEN0akM5YmVIVEFaZ2FhUkZBcEVzc0YzYzV0RjM2VWZScXZGR3gyU1B6Yy10Mjg4T2xuMkNSTkpoNmgzMDM2N0nSAV9BVV95cUxQVHF5aHhsOWFFNHFzdzFGTGl0UUd2ZmdLUlo1RF9nQUhsMHhXWkR2ZDNoZEQzRHZpLVVkMmdzeWdscUVuTUdOSGFUcUkzbkdhSHdaM01KMzhIZi1UcGlqbw?oc=5",
+      "publishedAt": "2026-06-23T03:21:00.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1562,14 +1570,6 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UXoxU29VUUltMWczdWVXMzBSSk5rRW9vdWkwNlNWRWNMbG4zWWh5NjY2Z0RrQXhhSDlyUVVTTDFNdDczQi12dDd0bzB6LXRKX3dfVjZjODJoaTBMR085V3Vn0gFnQVVfeXFMTm02VnAzSDkwVk96TExpVHBSZkI2eGtlMjhQaW5mVk5PdTA2MnFhZjNoa0xuSy1EelFJR09lRGlyMm1xbi1TNDJ4bE1DTnFrbjFXZ2ZzZnhMWUJQZEc1VDBBazJpNTZUOA?oc=5",
-      "title": "同志大遊行周末登場 舊金山加強公共安全 - 世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UXoxU29VUUltMWczdWVXMzBSSk5rRW9vdWkwNlNWRWNMbG4zWWh5NjY2Z0RrQXhhSDlyUVVTTDFNdDczQi12dDd0bzB6LXRKX3dfVjZjODJoaTBMR085V3Vn0gFnQVVfeXFMTm02VnAzSDkwVk96TExpVHBSZkI2eGtlMjhQaW5mVk5PdTA2MnFhZjNoa0xuSy1EelFJR09lRGlyMm1xbi1TNDJ4bE1DTnFrbjFXZ2ZzZnhMWUJQZEc1VDBBazJpNTZUOA?oc=5",
-      "publishedAt": "2026-06-25T06:18:00.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
       "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SER1ZC1pV3FzU3RDUHI5T1pmYjloNnNrM0YzejlubnB3WDZXZ3VNZGVUZkhqTlhpOWdSZW1Cb2tKeXZReVJRbzR0aWhEcmNyQl9UT0FUUlVBazFTTU1kN0FMV3ZGU2MtcGphdU16cW1POTQ?oc=5",
       "title": "烏克蘭LGBTQ士兵抗俄同時爭平權如雙線作戰腹背受敵| 世界萬象| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SER1ZC1pV3FzU3RDUHI5T1pmYjloNnNrM0YzejlubnB3WDZXZ3VNZGVUZkhqTlhpOWdSZW1Cb2tKeXZReVJRbzR0aWhEcmNyQl9UT0FUUlVBazFTTU1kN0FMV3ZGU2MtcGphdU16cW1POTQ?oc=5",
@@ -1582,6 +1582,38 @@
       "title": "蘇黎世同志大遊行熱浪中2萬人上街籲關注年輕酷兒| 國際 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94NDFWdzZjaS1xZVRQS05BU2pqMlZUUVNsX0p1dHUwNVQ4aFE5ZU5QSVIwUmNTeldadFF5V3hrQ3pJbEZWc2Q2ZXRGLS1DMTZucjJvSzljLWFDS05pbGJn?oc=5",
       "publishedAt": "2026-06-21T11:58:00.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS1RLcmp2VlZnT3A1anFUaGtDMlR1bEE2NUhWYnF0V2ttVFZrSGZkQlBtd1BVXzNhc2Y5dFdQUUczcVNibldLR0lRa3VxTlRMZmtmeVN0Qzh6UE9hVG80enFB0gFnQVVfeXFMUHhycEhySlZ2OWVWRmlpc2VibUVuR0w1NnVKNUlpMmJNeE5vV1lmZEFBcWlXYU9QTjN6bkdZOERmdFR0clU2RFRKSkZPeEpWX3dUcUFfWG8yQ2VpclJ5dVNaSHdCX3ZtTQ?oc=5",
+      "title": "不只人類有同志 芝城同性企鵝廝守7年成驕傲月焦點 - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS1RLcmp2VlZnT3A1anFUaGtDMlR1bEE2NUhWYnF0V2ttVFZrSGZkQlBtd1BVXzNhc2Y5dFdQUUczcVNibldLR0lRa3VxTlRMZmtmeVN0Qzh6UE9hVG80enFB0gFnQVVfeXFMUHhycEhySlZ2OWVWRmlpc2VibUVuR0w1NnVKNUlpMmJNeE5vV1lmZEFBcWlXYU9QTjN6bkdZOERmdFR0clU2RFRKSkZPeEpWX3dUcUFfWG8yQ2VpclJ5dVNaSHdCX3ZtTQ?oc=5",
+      "publishedAt": "2026-06-24T13:28:39.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UXoxU29VUUltMWczdWVXMzBSSk5rRW9vdWkwNlNWRWNMbG4zWWh5NjY2Z0RrQXhhSDlyUVVTTDFNdDczQi12dDd0bzB6LXRKX3dfVjZjODJoaTBMR085V3Vn0gFnQVVfeXFMTm02VnAzSDkwVk96TExpVHBSZkI2eGtlMjhQaW5mVk5PdTA2MnFhZjNoa0xuSy1EelFJR09lRGlyMm1xbi1TNDJ4bE1DTnFrbjFXZ2ZzZnhMWUJQZEc1VDBBazJpNTZUOA?oc=5",
+      "title": "同志大遊行周末登場 舊金山加強公共安全 - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UXoxU29VUUltMWczdWVXMzBSSk5rRW9vdWkwNlNWRWNMbG4zWWh5NjY2Z0RrQXhhSDlyUVVTTDFNdDczQi12dDd0bzB6LXRKX3dfVjZjODJoaTBMR085V3Vn0gFnQVVfeXFMTm02VnAzSDkwVk96TExpVHBSZkI2eGtlMjhQaW5mVk5PdTA2MnFhZjNoa0xuSy1EelFJR09lRGlyMm1xbi1TNDJ4bE1DTnFrbjFXZ2ZzZnhMWUJQZEc1VDBBazJpNTZUOA?oc=5",
+      "publishedAt": "2026-06-25T06:18:00.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbF9QQ3hCUGU0amw4Ym1zMkFuTngwa0dWLVFIbVo4ZVJjRkhCWUZ0S3BZUWpQemZxNjNFYTZBTTNDX2JYZy1qYzJCTWUyNlBWY2fSAVdBVV95cUxOQk96TENmNEk3RHZVU0lrRmJwRXN5bm9DTW1fT3Y4TGdRazBnZ2ZXNFFaUlBwZDhOMWo1SzBPeTNjdUNqX1lid3dCX0NZM2x5QzUyVlFINmc?oc=5",
+      "title": "國防部預告加嚴兵役體位標準 跨性別免役標準內政部不改了 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbF9QQ3hCUGU0amw4Ym1zMkFuTngwa0dWLVFIbVo4ZVJjRkhCWUZ0S3BZUWpQemZxNjNFYTZBTTNDX2JYZy1qYzJCTWUyNlBWY2fSAVdBVV95cUxOQk96TENmNEk3RHZVU0lrRmJwRXN5bm9DTW1fT3Y4TGdRazBnZ2ZXNFFaUlBwZDhOMWo1SzBPeTNjdUNqX1lid3dCX0NZM2x5QzUyVlFINmc?oc=5",
+      "publishedAt": "2026-06-24T13:49:36.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kZmRYZWFXQzRhdnh4VEpYUnNIbWpjT3k1dlItUEdWUE9tSzZ0WXR0WlkxdmJfV29vRFF4b1h0UjlGVnRxSDBYcjRRdTRnOEVESDc40gFYQVVfeXFMTVNPQlc5YWRIa3FFTjJBTks5WVpGX0NhcERRMWo5ZW5sWHY5MnRTRy1OTGJSSU9XRUdFN0dnNDVkajNNNk91aDllSHBiY2NVaklNcGhOSHNQSQ?oc=5",
+      "title": "在同志圈也找不到歸屬感？心理師給非主流男同志的「自我慈悲指南」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kZmRYZWFXQzRhdnh4VEpYUnNIbWpjT3k1dlItUEdWUE9tSzZ0WXR0WlkxdmJfV29vRFF4b1h0UjlGVnRxSDBYcjRRdTRnOEVESDc40gFYQVVfeXFMTVNPQlc5YWRIa3FFTjJBTks5WVpGX0NhcERRMWo5ZW5sWHY5MnRTRy1OTGJSSU9XRUdFN0dnNDVkajNNNk91aDllSHBiY2NVaklNcGhOSHNQSQ?oc=5",
+      "publishedAt": "2026-06-25T07:54:37.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1602,22 +1634,6 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbF9QQ3hCUGU0amw4Ym1zMkFuTngwa0dWLVFIbVo4ZVJjRkhCWUZ0S3BZUWpQemZxNjNFYTZBTTNDX2JYZy1qYzJCTWUyNlBWY2fSAVdBVV95cUxOQk96TENmNEk3RHZVU0lrRmJwRXN5bm9DTW1fT3Y4TGdRazBnZ2ZXNFFaUlBwZDhOMWo1SzBPeTNjdUNqX1lid3dCX0NZM2x5QzUyVlFINmc?oc=5",
-      "title": "國防部預告加嚴兵役體位標準 跨性別免役標準內政部不改了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WbF9QQ3hCUGU0amw4Ym1zMkFuTngwa0dWLVFIbVo4ZVJjRkhCWUZ0S3BZUWpQemZxNjNFYTZBTTNDX2JYZy1qYzJCTWUyNlBWY2fSAVdBVV95cUxOQk96TENmNEk3RHZVU0lrRmJwRXN5bm9DTW1fT3Y4TGdRazBnZ2ZXNFFaUlBwZDhOMWo1SzBPeTNjdUNqX1lid3dCX0NZM2x5QzUyVlFINmc?oc=5",
-      "publishedAt": "2026-06-24T13:49:36.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TT0JXOWFkSGtxRU4yQU5LOVlaRl9DYXBEUTFqOWVubFh2OTJ0U0ctTkxiUklPV0VHRTdHZzQ1ZGozTTZPdWg5ZUhwYmNjVWpJTXBoTkhzUEnSAVhBVV95cUxNU09CVzlhZEhrcUVOMkFOSzlZWkZfQ2FwRFExajllbmxYdjkydFNHLU5MYlJJT1dFR0U3R2c0NWRqM002T3VoOWVIcGJjY1VqSU1waE5Ic1BJ?oc=5",
-      "title": "在同志圈也找不到歸屬感？心理師給非主流男同志的「自我慈悲指南」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TT0JXOWFkSGtxRU4yQU5LOVlaRl9DYXBEUTFqOWVubFh2OTJ0U0ctTkxiUklPV0VHRTdHZzQ1ZGozTTZPdWg5ZUhwYmNjVWpJTXBoTkhzUEnSAVhBVV95cUxNU09CVzlhZEhrcUVOMkFOSzlZWkZfQ2FwRFExajllbmxYdjkydFNHLU5MYlJJT1dFR0U3R2c0NWRqM002T3VoOWVIcGJjY1VqSU1waE5Ic1BJ?oc=5",
-      "publishedAt": "2026-06-25T07:54:36.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
       "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuSEJGZEcxelJoU0NfTGdvWWdTN1g1MlNmWVFqd1NKNnE5TWpoLUo4WHFBQ0VjZXl4dzQ0MFk5XzRWRmNkZERweg?oc=5",
       "title": "街頭搭訕變性騷！陌生男突在耳邊小聲告白「我喜歡你」遭罰2萬 - 造咖",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuSEJGZEcxelJoU0NfTGdvWWdTN1g1MlNmWVFqd1NKNnE5TWpoLUo4WHFBQ0VjZXl4dzQ0MFk5XzRWRmNkZERweg?oc=5",
@@ -1626,10 +1642,10 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2lEOXIxVnpEcjRILWVlZEZKcldsQ3pNTTZnZF9xbTdPNTlSaEo0RnJJTWxQS3l2ZXJoZXRTaF9KWkNSU3E3aEd2MVc1MmFFa0N2TkN3OXlpSmVzcmNYelM2T1N0bkFvNXY3VkFQRXltRW5scTNqYkttNlFnY0VLOHpXSGFGQzVySFhka3NpVl9wNW5XN3d3YTZnSXFUYXFlMkFfRkJEbzFfMFBwTEFWVno1MkNudTg5bHpJVmRrY01ENmJJT3VqOTlqR0huQjY1M1dyb1JyOGtBOFJmYnVMTEdhckNCYVFvWllzelpTd2hxSFlLazRraEJoV3lub2pOakE?oc=5",
-      "title": "參與2026蘇黎世同志大遊行的學生 (圖) - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2lEOXIxVnpEcjRILWVlZEZKcldsQ3pNTTZnZF9xbTdPNTlSaEo0RnJJTWxQS3l2ZXJoZXRTaF9KWkNSU3E3aEd2MVc1MmFFa0N2TkN3OXlpSmVzcmNYelM2T1N0bkFvNXY3VkFQRXltRW5scTNqYkttNlFnY0VLOHpXSGFGQzVySFhka3NpVl9wNW5XN3d3YTZnSXFUYXFlMkFfRkJEbzFfMFBwTEFWVno1MkNudTg5bHpJVmRrY01ENmJJT3VqOTlqR0huQjY1M1dyb1JyOGtBOFJmYnVMTEdhckNCYVFvWllzelpTd2hxSFlLazRraEJoV3lub2pOakE?oc=5",
-      "publishedAt": "2026-06-21T12:00:10.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oS3RzaHViQ01sRXJsQzg0djktaDRxQy1fc0RFYVBYWjMwd09XTkJOSXdKb2dlY0dFc0tTZEdlTkwzaWozbzl0UEZWWEpLanNBbmR6S2wtc1ZOdkxTUkRSanV30gFnQVVfeXFMT3lIbnhSaWxBRThROUJHNm5QMDZva3JDNFNSZVM0YWNCdVF4b2h2Y2JHYXdRa2Y5WVEyVlM1WlhGRWx3MzNfZ3hFd3QtYVI1clZtVG50X1JWZ2FzanZudURaS2N0YXhyQQ?oc=5",
+      "title": "卡斯楚多家同志酒吧引進人臉辨識 惹隱私爭議 - 世界新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oS3RzaHViQ01sRXJsQzg0djktaDRxQy1fc0RFYVBYWjMwd09XTkJOSXdKb2dlY0dFc0tTZEdlTkwzaWozbzl0UEZWWEpLanNBbmR6S2wtc1ZOdkxTUkRSanV30gFnQVVfeXFMT3lIbnhSaWxBRThROUJHNm5QMDZva3JDNFNSZVM0YWNCdVF4b2h2Y2JHYXdRa2Y5WVEyVlM1WlhGRWx3MzNfZ3hFd3QtYVI1clZtVG50X1JWZ2FzanZudURaS2N0YXhyQQ?oc=5",
+      "publishedAt": "2026-06-28T06:14:00.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1642,10 +1658,10 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaVXA1VDY4U1lqbVhpSmVXTXJ1MDBxLThyVURBTjRxQzMxb0FLTUFMY1ZFemhmUTRPT3N4RloxQlVfZVNfREdfVTBHTm9odw?oc=5",
-      "title": "XG成員Cocona公開跨性別身份：從「非凡女孩」到「非凡基因」的心路歷程 | BBC中文網 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaVXA1VDY4U1lqbVhpSmVXTXJ1MDBxLThyVURBTjRxQzMxb0FLTUFMY1ZFemhmUTRPT3N4RloxQlVfZVNfREdfVTBHTm9odw?oc=5",
-      "publishedAt": "2026-06-21T09:45:20.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2lEOXIxVnpEcjRILWVlZEZKcldsQ3pNTTZnZF9xbTdPNTlSaEo0RnJJTWxQS3l2ZXJoZXRTaF9KWkNSU3E3aEd2MVc1MmFFa0N2TkN3OXlpSmVzcmNYelM2T1N0bkFvNXY3VkFQRXltRW5scTNqYkttNlFnY0VLOHpXSGFGQzVySFhka3NpVl9wNW5XN3d3YTZnSXFUYXFlMkFfRkJEbzFfMFBwTEFWVno1MkNudTg5bHpJVmRrY01ENmJJT3VqOTlqR0huQjY1M1dyb1JyOGtBOFJmYnVMTEdhckNCYVFvWllzelpTd2hxSFlLazRraEJoV3lub2pOakE?oc=5",
+      "title": "參與2026蘇黎世同志大遊行的學生 (圖) - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2lEOXIxVnpEcjRILWVlZEZKcldsQ3pNTTZnZF9xbTdPNTlSaEo0RnJJTWxQS3l2ZXJoZXRTaF9KWkNSU3E3aEd2MVc1MmFFa0N2TkN3OXlpSmVzcmNYelM2T1N0bkFvNXY3VkFQRXltRW5scTNqYkttNlFnY0VLOHpXSGFGQzVySFhka3NpVl9wNW5XN3d3YTZnSXFUYXFlMkFfRkJEbzFfMFBwTEFWVno1MkNudTg5bHpJVmRrY01ENmJJT3VqOTlqR0huQjY1M1dyb1JyOGtBOFJmYnVMTEdhckNCYVFvWllzelpTd2hxSFlLazRraEJoV3lub2pOakE?oc=5",
+      "publishedAt": "2026-06-21T12:00:10.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1690,14 +1706,6 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DYURXdjhia0hfWldjLUlPV3hibE5PT0NwQU50V1h0bzVYZ091WHFNWktpOXZJOHZnVklVQ3l3cmtrZU5JSEtDTThNOG9jV2EzcXBnMWJmVWNDZ3ZaV3N6RA?oc=5",
-      "title": "熱浪襲法！巴黎同志遊行因極端高溫被迫延期 - 民視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DYURXdjhia0hfWldjLUlPV3hibE5PT0NwQU50V1h0bzVYZ091WHFNWktpOXZJOHZnVklVQ3l3cmtrZU5JSEtDTThNOG9jV2EzcXBnMWJmVWNDZ3ZaV3N6RA?oc=5",
-      "publishedAt": "2026-06-26T09:23:01.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
       "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZ2pxQXJTajNKUzFJUlZVbklEOXQ2Qm5EODAyYVZRYmRHTGJ6ZXJFandDLWV1VXp4djlFQm9wdGNhbHBhMEpMcnRNV1hZR0hQM3c?oc=5",
       "title": "國民黨行動中常會首站台東登場 鄭麗文力挺農產行銷並為參選同志加油打氣 - 中華新聞雲／中華日報",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZ2pxQXJTajNKUzFJUlZVbklEOXQ2Qm5EODAyYVZRYmRHTGJ6ZXJFandDLWV1VXp4djlFQm9wdGNhbHBhMEpMcnRNV1hZR0hQM3c?oc=5",
@@ -1706,10 +1714,10 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XX3RpTFF6X28yQ2dsY2tjSEtnRkRkem82dWtzQ0F4SVhTNXdITll4SEY1allTbkJaSHAwMk1uQ3Z0aHFaWk5MRUluaEx4cTJNeXNjRGxaN0VXdURYV24wMUZWXzBfazDSAWdBVV95cUxNV190aUxRel9vMkNnbGNrY0hLZ0ZEZHpvNnVrc0NBeElYUzV3SE5ZeEhGNWpZU25CWkhwMDJNbkN2dGhxWlpOTEVJbmhMeHEyTXlzY0RsWjdFV3VEWFduMDFGVl8wX2sw?oc=5",
-      "title": "台灣花車「檳榔西施」驕傲大遊行 曼哈頓周日登場 - 世界新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XX3RpTFF6X28yQ2dsY2tjSEtnRkRkem82dWtzQ0F4SVhTNXdITll4SEY1allTbkJaSHAwMk1uQ3Z0aHFaWk5MRUluaEx4cTJNeXNjRGxaN0VXdURYV24wMUZWXzBfazDSAWdBVV95cUxNV190aUxRel9vMkNnbGNrY0hLZ0ZEZHpvNnVrc0NBeElYUzV3SE5ZeEhGNWpZU25CWkhwMDJNbkN2dGhxWlpOTEVJbmhMeHEyTXlzY0RsWjdFV3VEWFduMDFGVl8wX2sw?oc=5",
-      "publishedAt": "2026-06-26T06:00:59.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DYURXdjhia0hfWldjLUlPV3hibE5PT0NwQU50V1h0bzVYZ091WHFNWktpOXZJOHZnVklVQ3l3cmtrZU5JSEtDTThNOG9jV2EzcXBnMWJmVWNDZ3ZaV3N6RA?oc=5",
+      "title": "熱浪襲法！巴黎同志遊行因極端高溫被迫延期 - 民視新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DYURXdjhia0hfWldjLUlPV3hibE5PT0NwQU50V1h0bzVYZ091WHFNWktpOXZJOHZnVklVQ3l3cmtrZU5JSEtDTThNOG9jV2EzcXBnMWJmVWNDZ3ZaV3N6RA?oc=5",
+      "publishedAt": "2026-06-26T09:23:01.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1734,6 +1742,14 @@
       "title": "有片丨演上癮了！特朗普扮跨性別女性參加舉重比賽 在台上反復呻吟 - 香港商报",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2UFFJcktfTXZQbkdocWVCVnhhN3lRWDFtbWZxU1p1YkdOUVNnOEFRUFhQbjMyRFU2REp4UUxTMjdyNjBQa0Vtb1Y2bzRBYU45Z2p5MDVwdFQxNmJKQklteTF1b25ZcmZxeXBldmxXa3hTZw?oc=5",
       "publishedAt": "2026-06-25T07:16:51.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSjlaLUlVQUFUX1VkSldlbzlTdVFhdmJBTWMtak0xNElpekJtbC1xNDI3WVVwbnlJcW9ZRUxvNjRrVUNTa2VKSFhWMmFGN3BESlZkaVVFQkEzbVJIcmV0V3hsamIwMUtldjdWZXV4ZzRIV1lMdl9vYzllaE5BQkhYNURVbmNvNFFyM0ZmWHNCN2NVZVplckNDMHF2ZFAyUlVER2ZFeWJXV0Q3c01pajFzTlMxdWltVUp2eEQ4cmVNcDVTNU1BcFhQU29Pb2NLNEpmZC0yOHEwTE5vTjF0ME9JZWhJZUNrU2ExUG1ldkd0cTd0cHRTVUlpT0dmclloVzg?oc=5",
+      "title": "林禹 對老爸無怨言 演同志狂吸粉 - Yahoo - 汽機車",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSjlaLUlVQUFUX1VkSldlbzlTdVFhdmJBTWMtak0xNElpekJtbC1xNDI3WVVwbnlJcW9ZRUxvNjRrVUNTa2VKSFhWMmFGN3BESlZkaVVFQkEzbVJIcmV0V3hsamIwMUtldjdWZXV4ZzRIV1lMdl9vYzllaE5BQkhYNURVbmNvNFFyM0ZmWHNCN2NVZVplckNDMHF2ZFAyUlVER2ZFeWJXV0Q3c01pajFzTlMxdWltVUp2eEQ4cmVNcDVTNU1BcFhQU29Pb2NLNEpmZC0yOHEwTE5vTjF0ME9JZWhJZUNrU2ExUG1ldkd0cTd0cHRTVUlpT0dmclloVzg?oc=5",
+      "publishedAt": "2026-06-26T07:26:27.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1802,18 +1818,18 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiTEFVX3lxTE15Y1lhcVpNV0tUWkw2R3Y1UUJnbGRfUzM2RW85ZXdsZEZoMmdubllYNkRYTmlkc1oyZVNkNHhTVGtKOEV3Z1pyZ2ZFMF_SAVJBVV95cUxPanpZTHRKMU04RzMweGplb0NiRVc0ZkpiNFFPNnR4eFdYMXJFVVQ0YVF1a0FfeUpSMHJwR1RmbHhrbVYtM2VpOFBWOWxidUR5LS13?oc=5",
-      "title": "劇迷敲碗嚴藝文拍同志片！曾敬驊配他、連俞涵配林予晞：光想就暈 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15Y1lhcVpNV0tUWkw2R3Y1UUJnbGRfUzM2RW85ZXdsZEZoMmdubllYNkRYTmlkc1oyZVNkNHhTVGtKOEV3Z1pyZ2ZFMF_SAVJBVV95cUxPanpZTHRKMU04RzMweGplb0NiRVc0ZkpiNFFPNnR4eFdYMXJFVVQ0YVF1a0FfeUpSMHJwR1RmbHhrbVYtM2VpOFBWOWxidUR5LS13?oc=5",
-      "publishedAt": "2026-06-25T02:16:29.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
       "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiugFBVV95cUxPblp6MFE5amU0a01XZGVWRFJjWmVVR01LT3V6SG1Ham1yOVdydG5MdEJieTVycE9kb0h3WjRJeGc4akxkRjhvWnd3ZnJ3Q3VIaUhfamtaaDdDa2o0UzhVLXozTGxCTjFzVk9mMVhkX3dCVVN3cXpZQWI1dW5HODZ1TGEzaC1MRFlFZDNpRzVkUVA1cC1aOXVDbzhqVHNwTE9EZjhSTjdDYjVCalJ2dEpqUjhudDhMaFRNTEE?oc=5",
       "title": "調查：美國講台政治熱話墮胎、以色列、同性戀 - 時代論壇",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblp6MFE5amU0a01XZGVWRFJjWmVVR01LT3V6SG1Ham1yOVdydG5MdEJieTVycE9kb0h3WjRJeGc4akxkRjhvWnd3ZnJ3Q3VIaUhfamtaaDdDa2o0UzhVLXozTGxCTjFzVk9mMVhkX3dCVVN3cXpZQWI1dW5HODZ1TGEzaC1MRFlFZDNpRzVkUVA1cC1aOXVDbzhqVHNwTE9EZjhSTjdDYjVCalJ2dEpqUjhudDhMaFRNTEE?oc=5",
       "publishedAt": "2026-06-26T12:23:22.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiTEFVX3lxTE15Y1lhcVpNV0tUWkw2R3Y1UUJnbGRfUzM2RW85ZXdsZEZoMmdubllYNkRYTmlkc1oyZVNkNHhTVGtKOEV3Z1pyZ2ZFMF_SAVJBVV95cUxPanpZTHRKMU04RzMweGplb0NiRVc0ZkpiNFFPNnR4eFdYMXJFVVQ0YVF1a0FfeUpSMHJwR1RmbHhrbVYtM2VpOFBWOWxidUR5LS13?oc=5",
+      "title": "劇迷敲碗嚴藝文拍同志片！曾敬驊配他、連俞涵配林予晞：光想就暈 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15Y1lhcVpNV0tUWkw2R3Y1UUJnbGRfUzM2RW85ZXdsZEZoMmdubllYNkRYTmlkc1oyZVNkNHhTVGtKOEV3Z1pyZ2ZFMF_SAVJBVV95cUxPanpZTHRKMU04RzMweGplb0NiRVc0ZkpiNFFPNnR4eFdYMXJFVVQ0YVF1a0FfeUpSMHJwR1RmbHhrbVYtM2VpOFBWOWxidUR5LS13?oc=5",
+      "publishedAt": "2026-06-25T02:16:29.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1866,18 +1882,18 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiXkFVX3lxTE10R3RWejBqWmVNMDFIQ1hVb01DaWY2UjU3RXdUUnl5d3Y2ckp1NkhTUXpGOFpOSlVBaXlFWF9HTm9FTy1JQWp0bHF6VlgzRkRKbWhkc1hHQTQ3SmVCUlHSAWhBVV95cUxNMVZhUGdaeE1aLU02UjZkcXF6MzItUWxZa1ctYkd5c2c4blVyMFlGb1E0ak80eFlGa3MyVjI0M2NIYVVaT3k0Mlk1bUVtUDR3aDVIdWN1NkdVbXFQNUtOcURNdkIyNzk1Uw?oc=5",
-      "title": "滅蚊黑科技！讓蚊子「變性」生不出女兒　蚊群自行崩潰 - ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10R3RWejBqWmVNMDFIQ1hVb01DaWY2UjU3RXdUUnl5d3Y2ckp1NkhTUXpGOFpOSlVBaXlFWF9HTm9FTy1JQWp0bHF6VlgzRkRKbWhkc1hHQTQ3SmVCUlHSAWhBVV95cUxNMVZhUGdaeE1aLU02UjZkcXF6MzItUWxZa1ctYkd5c2c4blVyMFlGb1E0ak80eFlGa3MyVjI0M2NIYVVaT3k0Mlk1bUVtUDR3aDVIdWN1NkdVbXFQNUtOcURNdkIyNzk1Uw?oc=5",
-      "publishedAt": "2026-06-23T03:14:00.000Z",
-      "sourceId": "gnews-zh-tw",
-      "sourceName": "Google 新聞（繁體-綜合）"
-    },
-    {
       "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHFzQmZqQzFMQU1qbDhLTUpiN09IN21MeXVHdnUxb1Q2N1N0djBMeldwQ0NxQ1JjNDNGZGFRSXdqV1hjSWhWbTlZOFZTSVpEa0IxVEVPV28xM19pQ1l0WlZWaW1OLUI5bDZtM0Ffc1RFWUVObFRia3VoOWVBR1lUMFJBMzhZRDROVHc0ai1oc3g5UHVPVm5EeHpBYlczN1pNRTBRSEQ1Zw?oc=5",
       "title": "Pornhub稱2026同志A片女性觀眾近半數 日網熱議銀夢是BL、男性嗜百合 - 4Gamers",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHFzQmZqQzFMQU1qbDhLTUpiN09IN21MeXVHdnUxb1Q2N1N0djBMeldwQ0NxQ1JjNDNGZGFRSXdqV1hjSWhWbTlZOFZTSVpEa0IxVEVPV28xM19pQ1l0WlZWaW1OLUI5bDZtM0Ffc1RFWUVObFRia3VoOWVBR1lUMFJBMzhZRDROVHc0ai1oc3g5UHVPVm5EeHpBYlczN1pNRTBRSEQ1Zw?oc=5",
       "publishedAt": "2026-06-24T05:29:30.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiXkFVX3lxTE10R3RWejBqWmVNMDFIQ1hVb01DaWY2UjU3RXdUUnl5d3Y2ckp1NkhTUXpGOFpOSlVBaXlFWF9HTm9FTy1JQWp0bHF6VlgzRkRKbWhkc1hHQTQ3SmVCUlHSAWhBVV95cUxNMVZhUGdaeE1aLU02UjZkcXF6MzItUWxZa1ctYkd5c2c4blVyMFlGb1E0ak80eFlGa3MyVjI0M2NIYVVaT3k0Mlk1bUVtUDR3aDVIdWN1NkdVbXFQNUtOcURNdkIyNzk1Uw?oc=5",
+      "title": "滅蚊黑科技！讓蚊子「變性」生不出女兒　蚊群自行崩潰 - ETtoday新聞雲",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10R3RWejBqWmVNMDFIQ1hVb01DaWY2UjU3RXdUUnl5d3Y2ckp1NkhTUXpGOFpOSlVBaXlFWF9HTm9FTy1JQWp0bHF6VlgzRkRKbWhkc1hHQTQ3SmVCUlHSAWhBVV95cUxNMVZhUGdaeE1aLU02UjZkcXF6MzItUWxZa1ctYkd5c2c4blVyMFlGb1E0ak80eFlGa3MyVjI0M2NIYVVaT3k0Mlk1bUVtUDR3aDVIdWN1NkdVbXFQNUtOcURNdkIyNzk1Uw?oc=5",
+      "publishedAt": "2026-06-23T03:14:00.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1930,10 +1946,10 @@
       "sourceName": "Google 新聞（繁體-綜合）"
     },
     {
-      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWdsdW0tVHNPSkVrUDg3NllRNl9SSVFiRUI3SVJKRFE0emNOMGo5U0FlM05IcjVtOENLQTRPZHhyTFhrUmJaS2RXeElwZEY4TXJRZWp2TEFvSlFlT3p6dmFWTzd5Q1ZtbkVWbnliV2JNT25fOS1NcEZscTJZRHRZaE1FNmtudF9scGRuNG5GT3JXOUoyeFU2aUQyQnJPelpS?oc=5",
-      "title": "同志日滿場彩虹旗 伊埃抗議未果 - 20260628 - 體育 - 明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWdsdW0tVHNPSkVrUDg3NllRNl9SSVFiRUI3SVJKRFE0emNOMGo5U0FlM05IcjVtOENLQTRPZHhyTFhrUmJaS2RXeElwZEY4TXJRZWp2TEFvSlFlT3p6dmFWTzd5Q1ZtbkVWbnliV2JNT25fOS1NcEZscTJZRHRZaE1FNmtudF9scGRuNG5GT3JXOUoyeFU2aUQyQnJPelpS?oc=5",
-      "publishedAt": "2026-06-27T20:30:00.000Z",
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMie0FVX3lxTFBZSF9uLV8tel91bWpSa2QxdzBzUy1wTlJOSC1hVkRGQXhTck81MHVRQVlHTnpVMHVZcndOdkJzNG8wU3JMNUFfSWxqNjM4VUZudko5MFJ5dWdwd3dTejBiNmJsdC03TUhPdGppMlBtdjB0b1M5a1dlWUdvZw?oc=5",
+      "title": "有片丨演上癮了！特朗普扮跨性別女性參加舉重比賽 在台上反復呻吟 - 香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZSF9uLV8tel91bWpSa2QxdzBzUy1wTlJOSC1hVkRGQXhTck81MHVRQVlHTnpVMHVZcndOdkJzNG8wU3JMNUFfSWxqNjM4VUZudko5MFJ5dWdwd3dTejBiNmJsdC03TUhPdGppMlBtdjB0b1M5a1dlWUdvZw?oc=5",
+      "publishedAt": "2026-06-25T07:06:35.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -1942,6 +1958,14 @@
       "title": "同志驕傲遊行日 捷運增車次服務 - Singtaousa",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xdnMzdjR6b0NCOEl1X2ZLbm52NVlXZk8tN3FMMlZNMUFuaGU1M3pXV2xIVmFCRS0xenZvMC1sM29VNjZWS1Y2ZFpETHNBVWZILXVDUEFFWFR1UW5UczAxZ2wwNGFUT2VVdjdqS0ZSTXFCZjBBaThwcnJGUlJpQQ?oc=5",
       "publishedAt": "2026-06-23T13:00:00.000Z",
+      "sourceId": "gnews-zh-tw",
+      "sourceName": "Google 新聞（繁體-綜合）"
+    },
+    {
+      "id": "gnews-zh-tw:https://news.google.com/rss/articles/CBMiggFBVV95cUxOQXpfX2NrZFlJYzlBMGFuWjRDaFhDVjNUQllUeFEwVjlYNGVJOUtkWmt2WVdpVlpUazNRT3hYZDl5Z0tvRVJUa19GeHZtR01NT3JpYmlSTjNwNGM3UGZjVUhBR096VFFMLUpKUDNrRDZlTHZnckRPNXB4LXFQMVgwcmt3?oc=5",
+      "title": "同志日滿場彩虹旗伊埃抗議未果- 20260628 - 公民 - 明報教育網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQXpfX2NrZFlJYzlBMGFuWjRDaFhDVjNUQllUeFEwVjlYNGVJOUtkWmt2WVdpVlpUazNRT3hYZDl5Z0tvRVJUa19GeHZtR01NT3JpYmlSTjNwNGM3UGZjVUhBR096VFFMLUpKUDNrRDZlTHZnckRPNXB4LXFQMVgwcmt3?oc=5",
+      "publishedAt": "2026-06-28T00:48:47.000Z",
       "sourceId": "gnews-zh-tw",
       "sourceName": "Google 新聞（繁體-綜合）"
     },
@@ -2090,6 +2114,14 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEdHWE5uXzdPWmZyZDNPbndUUUtJZVlkSl94UUhQcE9fQXluRVhqTjlLVWVCek5SR1ZTekxOdkwzOHBXenRfZGFKTG1ieWliWUpUQVFiMHJ6cjJKSnFMUXJ3ajNCMnRfcWhNV1hCRFM5UUZJRThpVFZ5OXZvVEtKQVdJemV6ZUozSUpleHBDVWFPUjZLa3VBU1lOTk1VN1NDcGthYTl3?oc=5",
+      "title": "It's a scary time to be LGBTQ+. But we can't let fear win. | Opinion - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEdHWE5uXzdPWmZyZDNPbndUUUtJZVlkSl94UUhQcE9fQXluRVhqTjlLVWVCek5SR1ZTekxOdkwzOHBXenRfZGFKTG1ieWliWUpUQVFiMHJ6cjJKSnFMUXJ3ajNCMnRfcWhNV1hCRFM5UUZJRThpVFZ5OXZvVEtKQVdJemV6ZUozSUpleHBDVWFPUjZLa3VBU1lOTk1VN1NDcGthYTl3?oc=5",
+      "publishedAt": "2026-06-22T09:04:00.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjZ5R21CbjlQdXo1V2hQUWtYNnJ5N2JEUEFOb01jSUtsdFB3RVZkZkpsZ1lUbG5Cb1JUcXJvMEgwMWFVdTBkWUVzcnJmOGxLWE1BOTFBTExvZ0V2NWZab0Q0OVhhUVRZa0ZWQkU4QzU4RGQ1UGhVOGFMSXRpRWlaU055cGlkcGdaU0R0VXZMYld2WHB0MHM4eVJaT0U0WWtYMjZJejB4RQ?oc=5",
       "title": "Cardinal Robert McElroy to LGBTQ Catholics: On Mercy, Redemption and Holiness - outreach.faith",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjZ5R21CbjlQdXo1V2hQUWtYNnJ5N2JEUEFOb01jSUtsdFB3RVZkZkpsZ1lUbG5Cb1JUcXJvMEgwMWFVdTBkWUVzcnJmOGxLWE1BOTFBTExvZ0V2NWZab0Q0OVhhUVRZa0ZWQkU4QzU4RGQ1UGhVOGFMSXRpRWlaU055cGlkcGdaU0R0VXZMYld2WHB0MHM4eVJaT0U0WWtYMjZJejB4RQ?oc=5",
@@ -2106,18 +2138,18 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEdHWE5uXzdPWmZyZDNPbndUUUtJZVlkSl94UUhQcE9fQXluRVhqTjlLVWVCek5SR1ZTekxOdkwzOHBXenRfZGFKTG1ieWliWUpUQVFiMHJ6cjJKSnFMUXJ3ajNCMnRfcWhNV1hCRFM5UUZJRThpVFZ5OXZvVEtKQVdJemV6ZUozSUpleHBDVWFPUjZLa3VBU1lOTk1VN1NDcGthYTl3?oc=5",
-      "title": "It's a scary time to be LGBTQ+. But we can't let fear win. | Opinion - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEdHWE5uXzdPWmZyZDNPbndUUUtJZVlkSl94UUhQcE9fQXluRVhqTjlLVWVCek5SR1ZTekxOdkwzOHBXenRfZGFKTG1ieWliWUpUQVFiMHJ6cjJKSnFMUXJ3ajNCMnRfcWhNV1hCRFM5UUZJRThpVFZ5OXZvVEtKQVdJemV6ZUozSUpleHBDVWFPUjZLa3VBU1lOTk1VN1NDcGthYTl3?oc=5",
-      "publishedAt": "2026-06-22T09:04:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0lIV2FWNEJjT01oZzR5VzJwLXhhYXk0dmtNZW1Od2dXSEVpaU9ETmpKV2hmeTZYdzlGb09QRlByRjlqQXFoNEk3TklVRWlhYmxyRDRVRzNqMWdPM0swSWItaGZVNmwxb0ZGdURHLWhaQjI2WVJOcFc1c05rX2FMYjhIV3JjemcyWkxreUliYlNIVEI2NnVJZG1zOVVFdXRTenNhU2wwdHZqblBhSzVJ?oc=5",
       "title": "As a straight ally for LGBTQ Jews, I’ve learned that support has to be seen - Jewish Telegraphic Agency",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0lIV2FWNEJjT01oZzR5VzJwLXhhYXk0dmtNZW1Od2dXSEVpaU9ETmpKV2hmeTZYdzlGb09QRlByRjlqQXFoNEk3TklVRWlhYmxyRDRVRzNqMWdPM0swSWItaGZVNmwxb0ZGdURHLWhaQjI2WVJOcFc1c05rX2FMYjhIV3JjemcyWkxreUliYlNIVEI2NnVJZG1zOVVFdXRTenNhU2wwdHZqblBhSzVJ?oc=5",
       "publishedAt": "2026-06-23T14:00:56.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMifEFVX3lxTE8wSEU4cHVPRUVTaFZFYnAtN1paM2pmcUtqdmNlQ3dURU9MRjFMQkxjcUswR3JZekZjWWJFdmRhLXlYUm8xTmRDdnZINWNCc3BGMVRDdUZ6c1pKY2hSa3hRLWdseDl5X21WUXpTRFd1NGNuT0dpbUdMNkd3cnI?oc=5",
+      "title": "Opinion | Gay Lit’s Gone Mainstream - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wSEU4cHVPRUVTaFZFYnAtN1paM2pmcUtqdmNlQ3dURU9MRjFMQkxjcUswR3JZekZjWWJFdmRhLXlYUm8xTmRDdnZINWNCc3BGMVRDdUZ6c1pKY2hSa3hRLWdseDl5X21WUXpTRFd1NGNuT0dpbUdMNkd3cnI?oc=5",
+      "publishedAt": "2026-06-28T10:00:20.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2130,14 +2162,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVEtQWJiR2xlb1lneExEZmg0dEdrQmc2WmhwWFV1RUNlX2hqb1NKdnJyUVBjYWl0X2o1eDA2R3g2Nm10bjl1bS1nOFZ5Vm5UVjZOeTdVc1FDc01OZTQxRE5TeXZWQmNuajhJcWdRQVJSaGhrOGloc0djTFNaVlY1QkhFWmwzaVByUWpId1QtWDdtVHVPSUc2RDZLdm41bmE5aFhlZEg5RU1CanM?oc=5",
-      "title": "Anti-gay chant makes a return in Mexico's World Cup match against Czechia - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVEtQWJiR2xlb1lneExEZmg0dEdrQmc2WmhwWFV1RUNlX2hqb1NKdnJyUVBjYWl0X2o1eDA2R3g2Nm10bjl1bS1nOFZ5Vm5UVjZOeTdVc1FDc01OZTQxRE5TeXZWQmNuajhJcWdRQVJSaGhrOGloc0djTFNaVlY1QkhFWmwzaVByUWpId1QtWDdtVHVPSUc2RDZLdm41bmE5aFhlZEg5RU1CanM?oc=5",
-      "publishedAt": "2026-06-25T08:33:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMie0FVX3lxTE52c1p6NGZVSWxsUi1Bc2lENG9Kb25ic2QxU2ZZWTM4QUVZY2x2aThuWFphTFNIWURGUmhhZDU0X0xDb1JSSFVGbk1GdkV1Z0RDb24yX1pCZThRdHBGQWhUMkFEa18wem1mVDdlNU9IUzM3c01FRFR5SkJtQdIBjwFBVV95cUxNNG85eGdsU2MweWRVV3gtWFVWaFNkWTdtajBET3dJekgyUlpmR1Jjc3lUSW15dDA0ZFNSSTI2bVNRemNTSjRRNHVJRXc0ckxuX0Y1MF9Pc0hEbDA3bnY3MlZuaVhtemowNHllbFVXbHVJMXF5QnZmRG9tOWYzSjlQaXM0bUxSUDk0N0hpaS0tSQ?oc=5",
       "title": "New gay bar set to open in downtown Portland - KPTV",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52c1p6NGZVSWxsUi1Bc2lENG9Kb25ic2QxU2ZZWTM4QUVZY2x2aThuWFphTFNIWURGUmhhZDU0X0xDb1JSSFVGbk1GdkV1Z0RDb24yX1pCZThRdHBGQWhUMkFEa18wem1mVDdlNU9IUzM3c01FRFR5SkJtQdIBjwFBVV95cUxNNG85eGdsU2MweWRVV3gtWFVWaFNkWTdtajBET3dJekgyUlpmR1Jjc3lUSW15dDA0ZFNSSTI2bVNRemNTSjRRNHVJRXc0ckxuX0Y1MF9Pc0hEbDA3bnY3MlZuaVhtemowNHllbFVXbHVJMXF5QnZmRG9tOWYzSjlQaXM0bUxSUDk0N0hpaS0tSQ?oc=5",
@@ -2146,10 +2170,10 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUNXMVhQa2k1c2ptY05qUW8zaUdKM0dSY2xvblJDUldIaUREckpvQTFIRldMVl9TZ09qQ3ZzdDlFSndYemlPbk45MW9GM0ljUFB1T1ZMVDg2elU0T09SOXBvXzl3cEZZTjN6QmNmTVhaVUppZ3V2bUMxcllIcG1vaFdfRzVqa3Y5NVRuMmNTc1draHZZLWZN?oc=5",
-      "title": "Judge Orders U.S. to Stop Seeking Medical Records of Transgender Youth - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUNXMVhQa2k1c2ptY05qUW8zaUdKM0dSY2xvblJDUldIaUREckpvQTFIRldMVl9TZ09qQ3ZzdDlFSndYemlPbk45MW9GM0ljUFB1T1ZMVDg2elU0T09SOXBvXzl3cEZZTjN6QmNmTVhaVUppZ3V2bUMxcllIcG1vaFdfRzVqa3Y5NVRuMmNTc1draHZZLWZN?oc=5",
-      "publishedAt": "2026-06-24T18:49:52.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVEtQWJiR2xlb1lneExEZmg0dEdrQmc2WmhwWFV1RUNlX2hqb1NKdnJyUVBjYWl0X2o1eDA2R3g2Nm10bjl1bS1nOFZ5Vm5UVjZOeTdVc1FDc01OZTQxRE5TeXZWQmNuajhJcWdRQVJSaGhrOGloc0djTFNaVlY1QkhFWmwzaVByUWpId1QtWDdtVHVPSUc2RDZLdm41bmE5aFhlZEg5RU1CanM?oc=5",
+      "title": "Anti-gay chant makes a return in Mexico's World Cup match against Czechia - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVEtQWJiR2xlb1lneExEZmg0dEdrQmc2WmhwWFV1RUNlX2hqb1NKdnJyUVBjYWl0X2o1eDA2R3g2Nm10bjl1bS1nOFZ5Vm5UVjZOeTdVc1FDc01OZTQxRE5TeXZWQmNuajhJcWdRQVJSaGhrOGloc0djTFNaVlY1QkhFWmwzaVByUWpId1QtWDdtVHVPSUc2RDZLdm41bmE5aFhlZEg5RU1CanM?oc=5",
+      "publishedAt": "2026-06-25T08:33:00.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2194,18 +2218,10 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekQxZUxSSVVKMjU0bUxzbFI1VEtKTkY5YkhnaENRZ0s3Q1J1OG1tdjJHekhZdTB0aURIdk1WMzdpS2kzQVlCTGI4cko4bWhjeWs4RlFuaHRBTmFmc29zWS11SmFqbGZJUldUZXNmR2pkQVRHdExraHF1bGhqRUs0N3FXb1Ztb0FiZlYzeXBLZEU3MEhCQnpBZXpoR3RKb2lqTnF1aTZaM0hQM1R5dEgxaThVNWp6LVNJcklwbXczalZydw?oc=5",
-      "title": "Feds: Maryland school policies on transgender students, athletes may violate Title IX - Maryland Matters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekQxZUxSSVVKMjU0bUxzbFI1VEtKTkY5YkhnaENRZ0s3Q1J1OG1tdjJHekhZdTB0aURIdk1WMzdpS2kzQVlCTGI4cko4bWhjeWs4RlFuaHRBTmFmc29zWS11SmFqbGZJUldUZXNmR2pkQVRHdExraHF1bGhqRUs0N3FXb1Ztb0FiZlYzeXBLZEU3MEhCQnpBZXpoR3RKb2lqTnF1aTZaM0hQM1R5dEgxaThVNWp6LVNJcklwbXczalZydw?oc=5",
-      "publishedAt": "2026-06-25T05:10:43.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVEtbDhKSlZBTHJpZ3V1TlZJbVdNSUFRRmd6ZlkyZ2ZqNnpMSXUtRkdHVlozMUpKSmlmTXZscEF5cFZ2M2VjOTNlbVlQWDkwaVViNWpNUUJrU3AxdmE4MUUtbG9mYzFQTXQxem5BdFFLZmpOLTFMbjJRdnJPdXNMTW5Wa1YxelluY2FGQjZwOW5GREVQTmhhQ3RuMDkwdm8?oc=5",
-      "title": "Gay Marriage Is Dividing Republicans, Again - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVEtbDhKSlZBTHJpZ3V1TlZJbVdNSUFRRmd6ZlkyZ2ZqNnpMSXUtRkdHVlozMUpKSmlmTXZscEF5cFZ2M2VjOTNlbVlQWDkwaVViNWpNUUJrU3AxdmE4MUUtbG9mYzFQTXQxem5BdFFLZmpOLTFMbjJRdnJPdXNMTW5Wa1YxelluY2FGQjZwOW5GREVQTmhhQ3RuMDkwdm8?oc=5",
-      "publishedAt": "2026-06-24T09:00:42.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUNXMVhQa2k1c2ptY05qUW8zaUdKM0dSY2xvblJDUldIaUREckpvQTFIRldMVl9TZ09qQ3ZzdDlFSndYemlPbk45MW9GM0ljUFB1T1ZMVDg2elU0T09SOXBvXzl3cEZZTjN6QmNmTVhaVUppZ3V2bUMxcllIcG1vaFdfRzVqa3Y5NVRuMmNTc1draHZZLWZN?oc=5",
+      "title": "Judge Orders U.S. to Stop Seeking Medical Records of Transgender Youth - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUNXMVhQa2k1c2ptY05qUW8zaUdKM0dSY2xvblJDUldIaUREckpvQTFIRldMVl9TZ09qQ3ZzdDlFSndYemlPbk45MW9GM0ljUFB1T1ZMVDg2elU0T09SOXBvXzl3cEZZTjN6QmNmTVhaVUppZ3V2bUMxcllIcG1vaFdfRzVqa3Y5NVRuMmNTc1draHZZLWZN?oc=5",
+      "publishedAt": "2026-06-24T18:49:52.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2218,10 +2234,26 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVEtbDhKSlZBTHJpZ3V1TlZJbVdNSUFRRmd6ZlkyZ2ZqNnpMSXUtRkdHVlozMUpKSmlmTXZscEF5cFZ2M2VjOTNlbVlQWDkwaVViNWpNUUJrU3AxdmE4MUUtbG9mYzFQTXQxem5BdFFLZmpOLTFMbjJRdnJPdXNMTW5Wa1YxelluY2FGQjZwOW5GREVQTmhhQ3RuMDkwdm8?oc=5",
+      "title": "Gay Marriage Is Dividing Republicans, Again - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVEtbDhKSlZBTHJpZ3V1TlZJbVdNSUFRRmd6ZlkyZ2ZqNnpMSXUtRkdHVlozMUpKSmlmTXZscEF5cFZ2M2VjOTNlbVlQWDkwaVViNWpNUUJrU3AxdmE4MUUtbG9mYzFQTXQxem5BdFFLZmpOLTFMbjJRdnJPdXNMTW5Wa1YxelluY2FGQjZwOW5GREVQTmhhQ3RuMDkwdm8?oc=5",
+      "publishedAt": "2026-06-24T09:00:42.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnV4WjF2cHFvWWxMNE42UThoTjEzdllQelZ1U1ZxSUhxc09IdXdBS2JIUEpLaUQzek5WWUQxU1NlRm0xZDlpd0drMXhuOURpTmhyQ2FvNjFicHdNYUxxcDRPTUxxU2ZlQkREWWRFQXBySDk0d3ZObmJLal9tRG9PbXpHaExXUQ?oc=5",
       "title": "He’s an ‘Old Gay.’ Gather Round. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnV4WjF2cHFvWWxMNE42UThoTjEzdllQelZ1U1ZxSUhxc09IdXdBS2JIUEpLaUQzek5WWUQxU1NlRm0xZDlpd0drMXhuOURpTmhyQ2FvNjFicHdNYUxxcDRPTUxxU2ZlQkREWWRFQXBySDk0d3ZObmJLal9tRG9PbXpHaExXUQ?oc=5",
       "publishedAt": "2026-06-23T20:58:52.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekQxZUxSSVVKMjU0bUxzbFI1VEtKTkY5YkhnaENRZ0s3Q1J1OG1tdjJHekhZdTB0aURIdk1WMzdpS2kzQVlCTGI4cko4bWhjeWs4RlFuaHRBTmFmc29zWS11SmFqbGZJUldUZXNmR2pkQVRHdExraHF1bGhqRUs0N3FXb1Ztb0FiZlYzeXBLZEU3MEhCQnpBZXpoR3RKb2lqTnF1aTZaM0hQM1R5dEgxaThVNWp6LVNJcklwbXczalZydw?oc=5",
+      "title": "Feds: Maryland school policies on transgender students, athletes may violate Title IX - Maryland Matters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekQxZUxSSVVKMjU0bUxzbFI1VEtKTkY5YkhnaENRZ0s3Q1J1OG1tdjJHekhZdTB0aURIdk1WMzdpS2kzQVlCTGI4cko4bWhjeWs4RlFuaHRBTmFmc29zWS11SmFqbGZJUldUZXNmR2pkQVRHdExraHF1bGhqRUs0N3FXb1Ztb0FiZlYzeXBLZEU3MEhCQnpBZXpoR3RKb2lqTnF1aTZaM0hQM1R5dEgxaThVNWp6LVNJcklwbXczalZydw?oc=5",
+      "publishedAt": "2026-06-25T05:10:43.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2238,6 +2270,14 @@
       "title": "How Muppet Fandom Helped Me Find My Queer Identity - ToughPigs",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5acThYZUNUNVNrdXBfbkVYSmlXRi1DZG80QmYwVENST3ZfVFRoTmh5WjBZaEFHVTdiQzlxTHlraFUzeENXcE5DbmhLTVJsOUxJSERzNTlTQlhIVG1U?oc=5",
       "publishedAt": "2026-06-26T20:27:53.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0pHSHB5UFkwSzhrellJMzVheXVXRERXTzdSRHQyYkdXMUVRc1FNdU9UcE9vVzFlN0JnVUVkbDFzWk1UTXo1RktKQzIwWkJpV2w2ZHBYaS1kOE5TSFJySF94dW9FX3RIRHFxd2IzUkE1RmJSNmUzOXdZWFUtdDYwdGo5NEVncUNXRzBwLXVrYnZGeG5USGNLckNjQ3ZKX0N0Tm1zb21ObGjSAa4BQVVfeXFMUC1EZl84dFA4NEU2dm5BZTVjWHpXTE03S3dGLS1NNkM5MHF1MTV2S1VyYWhCaUdxQjJlMldOSWRTMFBNNlpoY2V0UmlRV1MtWHpQY1R2VE1Sek5vMk5lNkdrMWIzaEVNaEl2Q0xHVGdXMHk1X1phZklIMnlWdTF1SVpUSW9jNVluckp0SVV4OXpFdEdtTUZqaUxEZm9OclpaMDZMcnh4V0VmZjJNZlFB?oc=5",
+      "title": "‘Heated Rivalry’ fuels a boom in gay romance stories, with women leading the fandom - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0pHSHB5UFkwSzhrellJMzVheXVXRERXTzdSRHQyYkdXMUVRc1FNdU9UcE9vVzFlN0JnVUVkbDFzWk1UTXo1RktKQzIwWkJpV2w2ZHBYaS1kOE5TSFJySF94dW9FX3RIRHFxd2IzUkE1RmJSNmUzOXdZWFUtdDYwdGo5NEVncUNXRzBwLXVrYnZGeG5USGNLckNjQ3ZKX0N0Tm1zb21ObGjSAa4BQVVfeXFMUC1EZl84dFA4NEU2dm5BZTVjWHpXTE03S3dGLS1NNkM5MHF1MTV2S1VyYWhCaUdxQjJlMldOSWRTMFBNNlpoY2V0UmlRV1MtWHpQY1R2VE1Sek5vMk5lNkdrMWIzaEVNaEl2Q0xHVGdXMHk1X1phZklIMnlWdTF1SVpUSW9jNVluckp0SVV4OXpFdEdtTUZqaUxEZm9OclpaMDZMcnh4V0VmZjJNZlFB?oc=5",
+      "publishedAt": "2026-06-27T12:22:34.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2290,14 +2330,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ2RpR09iTkQxTFdsMVMwdjdCQU5VLW9OVm9iRVA5RHFNQ2lSaWwxcWt0a0xaWEVUYlQycjRBR2JaZEc5WTZ0MEJTY1dUcF9iNFI5WHYzNXdCR3lIRFc1dVR2eGp4dkJRRzEyZU5WS241S1U0SS1pcjl3cw?oc=5",
-      "title": "Court strips away California protections for transgender students’ privacy - Advocate.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ2RpR09iTkQxTFdsMVMwdjdCQU5VLW9OVm9iRVA5RHFNQ2lSaWwxcWt0a0xaWEVUYlQycjRBR2JaZEc5WTZ0MEJTY1dUcF9iNFI5WHYzNXdCR3lIRFc1dVR2eGp4dkJRRzEyZU5WS241S1U0SS1pcjl3cw?oc=5",
-      "publishedAt": "2026-06-23T19:46:57.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkxmdlc5eDRKV1JuU19HTTQ3N0h3bDJxYUg3VG00eml1dUFhLWk0Vmp3ZnR3R19OUmo1MWxyMkxNT2Nlb1hqc3gyQXZkcjd4UkdTQi1WTFB0S0loSkJielVCX3FzUXF5MjNIYjlnV2dYbXJFaTFaTDc3RzZRR3BDWU9LQ25HRE1IX2twdW5XX3hNc2dCTHdFeDJOWlZMdkhCOFE?oc=5",
       "title": "Former Team USA gymnast Eddie Penev is out as gay after representing two countries - OutSports",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkxmdlc5eDRKV1JuU19HTTQ3N0h3bDJxYUg3VG00eml1dUFhLWk0Vmp3ZnR3R19OUmo1MWxyMkxNT2Nlb1hqc3gyQXZkcjd4UkdTQi1WTFB0S0loSkJielVCX3FzUXF5MjNIYjlnV2dYbXJFaTFaTDc3RzZRR3BDWU9LQ25HRE1IX2twdW5XX3hNc2dCTHdFeDJOWlZMdkhCOFE?oc=5",
@@ -2309,7 +2341,7 @@
       "id": "gnews-en:https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3hPZ0ctemJKNVJJZkVoUENqUGNVTGRWMXVQRXAwVi1KSEM1S183aU5iOWZNSXhXTElFSnloZkhUYjdMTEtqZS1Yc3RaVWtTYklkekdQenRMbTE0YlBHekk4WVRMRUdMN3ZXN040ZjUtWThZbEVXR19FYklNY3hpcW5xYlY?oc=5",
       "title": "Voices of Wards 7 and 8: For some LGBTQ youth, Southeast is where they find their chosen family - WAMU",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3hPZ0ctemJKNVJJZkVoUENqUGNVTGRWMXVQRXAwVi1KSEM1S183aU5iOWZNSXhXTElFSnloZkhUYjdMTEtqZS1Yc3RaVWtTYklkekdQenRMbTE0YlBHekk4WVRMRUdMN3ZXN040ZjUtWThZbEVXR19FYklNY3hpcW5xYlY?oc=5",
-      "publishedAt": "2026-06-27T08:10:40.000Z",
+      "publishedAt": "2026-06-26T11:36:37.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2330,14 +2362,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUw2YWFPYVEzUjBWY2dVT0I4QktzdWlzVE1YU0M1YXB5S0lLeFRxUFBsRDJIRnB1YVY3cDlOUFNtajI5OWZvSEZVelNoVU9XeVZ4bXpnVkpxVmplaHlfRmJTNmNQbGo4eVVFcHYzdnMxaE15TFM4aDVJNDVoMk54X1Y0ckNFcmFaRTgxMXZkbUpIejd3QUZoOHRVUHlzTk52dTdVQms5X1JCbGktQ3fSAbMBQVVfeXFMUFFfRWI3Zkk0X3VTTzFkOWFPd2pmMFFqSFF2anl1SmNBamdvWkY1VHlBaWM4Zy1pNTVFTFNIcXJFWW0zMEh0elJZdWFIUlpwQjdzVk9kMW9rS1JUT2F4R1gyY05qLUg2cXo4Q2VZWVJnc3NlSW9nNUxwT2N2U2FRM0l1ckRSNHRNcnVhZnpScE95Q05GMGZsOWdaQTY5eG13MHNuUUhIcjBQZkZGQnRJR0I1dGM?oc=5",
-      "title": "Complaint seeks answers on Scouting America's transgender policy after Pentagon deal - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUw2YWFPYVEzUjBWY2dVT0I4QktzdWlzVE1YU0M1YXB5S0lLeFRxUFBsRDJIRnB1YVY3cDlOUFNtajI5OWZvSEZVelNoVU9XeVZ4bXpnVkpxVmplaHlfRmJTNmNQbGo4eVVFcHYzdnMxaE15TFM4aDVJNDVoMk54X1Y0ckNFcmFaRTgxMXZkbUpIejd3QUZoOHRVUHlzTk52dTdVQms5X1JCbGktQ3fSAbMBQVVfeXFMUFFfRWI3Zkk0X3VTTzFkOWFPd2pmMFFqSFF2anl1SmNBamdvWkY1VHlBaWM4Zy1pNTVFTFNIcXJFWW0zMEh0elJZdWFIUlpwQjdzVk9kMW9rS1JUT2F4R1gyY05qLUg2cXo4Q2VZWVJnc3NlSW9nNUxwT2N2U2FRM0l1ckRSNHRNcnVhZnpScE95Q05GMGZsOWdaQTY5eG13MHNuUUhIcjBQZkZGQnRJR0I1dGM?oc=5",
-      "publishedAt": "2026-06-27T02:00:25.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHc1MnpjNzdna3R2dG52WVNXbGVlM2RiZXg5TjRSQ2puMUJsRUZINnl6SENpRktibU5ndXB6OGdpRWJGMmJLTW9PbHJmVnNhZEozYTJ0dXhvOVNzRm92Uk9tZlVEVkxDMVVkMVBmYWphbHZ0a2U0bmY2TS1GNjlYZkt1dDZ5YUNnN19yTEtUenVKSXBackltQUFhVm0?oc=5",
       "title": "Checking Off All 50 States Wasn’t the Flex I Thought It Would Be - Outside Magazine",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHc1MnpjNzdna3R2dG52WVNXbGVlM2RiZXg5TjRSQ2puMUJsRUZINnl6SENpRktibU5ndXB6OGdpRWJGMmJLTW9PbHJmVnNhZEozYTJ0dXhvOVNzRm92Uk9tZlVEVkxDMVVkMVBmYWphbHZ0a2U0bmY2TS1GNjlYZkt1dDZ5YUNnN19yTEtUenVKSXBackltQUFhVm0?oc=5",
@@ -2354,10 +2378,34 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ2RpR09iTkQxTFdsMVMwdjdCQU5VLW9OVm9iRVA5RHFNQ2lSaWwxcWt0a0xaWEVUYlQycjRBR2JaZEc5WTZ0MEJTY1dUcF9iNFI5WHYzNXdCR3lIRFc1dVR2eGp4dkJRRzEyZU5WS241S1U0SS1pcjl3cw?oc=5",
+      "title": "Court strips away California protections for transgender students’ privacy - Advocate.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ2RpR09iTkQxTFdsMVMwdjdCQU5VLW9OVm9iRVA5RHFNQ2lSaWwxcWt0a0xaWEVUYlQycjRBR2JaZEc5WTZ0MEJTY1dUcF9iNFI5WHYzNXdCR3lIRFc1dVR2eGp4dkJRRzEyZU5WS241S1U0SS1pcjl3cw?oc=5",
+      "publishedAt": "2026-06-23T19:46:57.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMivwFBVV95cUxNSW1BcGNsZHVOR0ZMQ2QyWW4yaWFOV0RUUUlnemRhQmVWcGhZemd5clZ0UHJrNHNCOGhfbzBxS0JLRzNsbkZJMEUwVDlFamlPUEpPZTlOeW1KVXhXUkMwY1g3alJjS2c4bGRnck5BQzBGcGpLZ0h3X29Td3NySVZuUkZ3RnZLakREdU56bG9DT3M3ci11aWg4aTlua1lTeUwxUHZTSG80MmtZUTg3RWFGZkU5Vi1mUlRicDB4aHhvONIBxAFBVV95cUxORU1BRGN1SmEzYUZTWTREdElUQVNYSTN4TTJnLVprMFozUlNxWmRVY3RfUjY0OHFIcG11eVhVMFFQZnJpMnhXTHZaTy1DZTdfaDY0Y0U4Sl92UVpZR1ZzUC1jbDhuWFhOc1F3QlNuX2p2RGo1cl9YTXR3eFNiTXNhLTZpU0NUcnEtRWhBZnJ4QXRkOVBzckhkMkRjUjgzYlc2bWFLSDRnNy1LMVdCbnhYdmpYV1FVTG1VUlJZM2dBcUhXNm5U?oc=5",
       "title": "Christian school pays $10K to student suspended for coming out as gay - The Hill",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSW1BcGNsZHVOR0ZMQ2QyWW4yaWFOV0RUUUlnemRhQmVWcGhZemd5clZ0UHJrNHNCOGhfbzBxS0JLRzNsbkZJMEUwVDlFamlPUEpPZTlOeW1KVXhXUkMwY1g3alJjS2c4bGRnck5BQzBGcGpLZ0h3X29Td3NySVZuUkZ3RnZLakREdU56bG9DT3M3ci11aWg4aTlua1lTeUwxUHZTSG80MmtZUTg3RWFGZkU5Vi1mUlRicDB4aHhvONIBxAFBVV95cUxORU1BRGN1SmEzYUZTWTREdElUQVNYSTN4TTJnLVprMFozUlNxWmRVY3RfUjY0OHFIcG11eVhVMFFQZnJpMnhXTHZaTy1DZTdfaDY0Y0U4Sl92UVpZR1ZzUC1jbDhuWFhOc1F3QlNuX2p2RGo1cl9YTXR3eFNiTXNhLTZpU0NUcnEtRWhBZnJ4QXRkOVBzckhkMkRjUjgzYlc2bWFLSDRnNy1LMVdCbnhYdmpYV1FVTG1VUlJZM2dBcUhXNm5U?oc=5",
       "publishedAt": "2026-06-24T22:25:00.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUw2YWFPYVEzUjBWY2dVT0I4QktzdWlzVE1YU0M1YXB5S0lLeFRxUFBsRDJIRnB1YVY3cDlOUFNtajI5OWZvSEZVelNoVU9XeVZ4bXpnVkpxVmplaHlfRmJTNmNQbGo4eVVFcHYzdnMxaE15TFM4aDVJNDVoMk54X1Y0ckNFcmFaRTgxMXZkbUpIejd3QUZoOHRVUHlzTk52dTdVQms5X1JCbGktQ3fSAbMBQVVfeXFMUFFfRWI3Zkk0X3VTTzFkOWFPd2pmMFFqSFF2anl1SmNBamdvWkY1VHlBaWM4Zy1pNTVFTFNIcXJFWW0zMEh0elJZdWFIUlpwQjdzVk9kMW9rS1JUT2F4R1gyY05qLUg2cXo4Q2VZWVJnc3NlSW9nNUxwT2N2U2FRM0l1ckRSNHRNcnVhZnpScE95Q05GMGZsOWdaQTY5eG13MHNuUUhIcjBQZkZGQnRJR0I1dGM?oc=5",
+      "title": "Complaint seeks answers on Scouting America's transgender policy after Pentagon deal - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUw2YWFPYVEzUjBWY2dVT0I4QktzdWlzVE1YU0M1YXB5S0lLeFRxUFBsRDJIRnB1YVY3cDlOUFNtajI5OWZvSEZVelNoVU9XeVZ4bXpnVkpxVmplaHlfRmJTNmNQbGo4eVVFcHYzdnMxaE15TFM4aDVJNDVoMk54X1Y0ckNFcmFaRTgxMXZkbUpIejd3QUZoOHRVUHlzTk52dTdVQms5X1JCbGktQ3fSAbMBQVVfeXFMUFFfRWI3Zkk0X3VTTzFkOWFPd2pmMFFqSFF2anl1SmNBamdvWkY1VHlBaWM4Zy1pNTVFTFNIcXJFWW0zMEh0elJZdWFIUlpwQjdzVk9kMW9rS1JUT2F4R1gyY05qLUg2cXo4Q2VZWVJnc3NlSW9nNUxwT2N2U2FRM0l1ckRSNHRNcnVhZnpScE95Q05GMGZsOWdaQTY5eG13MHNuUUhIcjBQZkZGQnRJR0I1dGM?oc=5",
+      "publishedAt": "2026-06-27T02:00:25.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiekFVX3lxTE8zR3B2Q0dsRFEzckZ6M2RvVW1tLTJiSjBleXZseFR4ODhOa1RuY0J0dWRCQS1Ta0ktR0xlYmhJMVBxYVFrWnk5NXdBMEptWXhxWWN6bUwxQjJ3cDdQSG5jcDhfemVuWmlXZ3R1Q3JfdWZZbGxfWFR5SEl3?oc=5",
+      "title": "Actor Elliot Page on Growing Up Queer, Trans Identity & “Second Nature” Film Directed by Drew Denny - Democracy Now!",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zR3B2Q0dsRFEzckZ6M2RvVW1tLTJiSjBleXZseFR4ODhOa1RuY0J0dWRCQS1Ta0ktR0xlYmhJMVBxYVFrWnk5NXdBMEptWXhxWWN6bUwxQjJ3cDdQSG5jcDhfemVuWmlXZ3R1Q3JfdWZZbGxfWFR5SEl3?oc=5",
+      "publishedAt": "2026-06-24T19:40:05.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2386,14 +2434,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0txZ1pyb29YRVVGSktwQ1VraXFVb3RVSlB5dUFIUFhFZzh3dXJUaU5fb1VSWGFfS0FQZzdydzdXNS1VbkMzM00yNXJXOUV2UG96dUROUERyOGVoZTd5YXc0UjFCaTdoLVN2UXlZRFVvXzRhd0lISHY5V2wxMFdSdHZlc01OVG1SNUY0bmJnZjZxZnRSTTdKNUNjS0FlYlk?oc=5",
-      "title": "Iran Captain Speaks of Respect For LGBT People After Pride Match - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0txZ1pyb29YRVVGSktwQ1VraXFVb3RVSlB5dUFIUFhFZzh3dXJUaU5fb1VSWGFfS0FQZzdydzdXNS1VbkMzM00yNXJXOUV2UG96dUROUERyOGVoZTd5YXc0UjFCaTdoLVN2UXlZRFVvXzRhd0lISHY5V2wxMFdSdHZlc01OVG1SNUY0bmJnZjZxZnRSTTdKNUNjS0FlYlk?oc=5",
-      "publishedAt": "2026-06-27T10:16:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMieEFVX3lxTE9EOEl4RFp4VVFJSnVCS28yTllTWFNxYTlFV0d1ekxPWEhSQmJ1c0dCWWxINjgzUnRvTjJtdm02Tl9zZVNFUGdqTzRfajYwUThwWFVVV1YyTGpzYll4SFZCZ3h6M3VpWHQ5dFdrZ3pjQ0tCMmQ1bzdNUg?oc=5",
       "title": "What Queer Archives Know (Before They Can Prove It) - Literary Hub",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EOEl4RFp4VVFJSnVCS28yTllTWFNxYTlFV0d1ekxPWEhSQmJ1c0dCWWxINjgzUnRvTjJtdm02Tl9zZVNFUGdqTzRfajYwUThwWFVVV1YyTGpzYll4SFZCZ3h6M3VpWHQ5dFdrZ3pjQ0tCMmQ1bzdNUg?oc=5",
@@ -2418,26 +2458,18 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMizAFBVV95cUxNdXZwYjMyZUFleWpBdVdXem5UM1g1aDg0LXRxQk1OR2otc0lza01ENDd4d2lESVk5d3BYdWpzdXhfV2hiTU5pNmRTSHZXN3JKRm1iSWQta1ZYYlVsbGNBZHZWaXZvNHE3bXVnVWQ5VnhPdjJhdUhnc1VlUklwS3BmNzhHakN6U3YwLUhXN0V2ZEZwLUROQjRyS3JGX1Z1dmN6MzMwUEZVM25SUUIzQzJ5b1F2RG1oajYwVTVuSTZXaEt3bFlueXNOMTVLR24?oc=5",
-      "title": "US federal judge blocks DOJ from seizing medical records of transgender minors at NYC hospitals - JURIST - News - Jurist.org",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdXZwYjMyZUFleWpBdVdXem5UM1g1aDg0LXRxQk1OR2otc0lza01ENDd4d2lESVk5d3BYdWpzdXhfV2hiTU5pNmRTSHZXN3JKRm1iSWQta1ZYYlVsbGNBZHZWaXZvNHE3bXVnVWQ5VnhPdjJhdUhnc1VlUklwS3BmNzhHakN6U3YwLUhXN0V2ZEZwLUROQjRyS3JGX1Z1dmN6MzMwUEZVM25SUUIzQzJ5b1F2RG1oajYwVTVuSTZXaEt3bFlueXNOMTVLR24?oc=5",
-      "publishedAt": "2026-06-27T07:50:58.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiekFVX3lxTE8zR3B2Q0dsRFEzckZ6M2RvVW1tLTJiSjBleXZseFR4ODhOa1RuY0J0dWRCQS1Ta0ktR0xlYmhJMVBxYVFrWnk5NXdBMEptWXhxWWN6bUwxQjJ3cDdQSG5jcDhfemVuWmlXZ3R1Q3JfdWZZbGxfWFR5SEl3?oc=5",
-      "title": "Actor Elliot Page on Growing Up Queer, Trans Identity & “Second Nature” Film Directed by Drew Denny - Democracy Now!",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zR3B2Q0dsRFEzckZ6M2RvVW1tLTJiSjBleXZseFR4ODhOa1RuY0J0dWRCQS1Ta0ktR0xlYmhJMVBxYVFrWnk5NXdBMEptWXhxWWN6bUwxQjJ3cDdQSG5jcDhfemVuWmlXZ3R1Q3JfdWZZbGxfWFR5SEl3?oc=5",
-      "publishedAt": "2026-06-24T19:40:05.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDkxOUxMcWk0VXZTQmFVYkcxUzRqeG9UZjFsY2F0dkNROHMydkRBNkE1MHROU2JtUU9ZQ1RCM0VueWtfdC11Zk93WEI5ekdCSk1VczhHSGV2UGhEakpGSmd3dkhvRTJRZGNkei1rN3ZDbl84azlRSTVDbzV5bW56bA?oc=5",
       "title": "Texas judge who refused to marry gay couples wins $640k in lawsuit - Advocate.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDkxOUxMcWk0VXZTQmFVYkcxUzRqeG9UZjFsY2F0dkNROHMydkRBNkE1MHROU2JtUU9ZQ1RCM0VueWtfdC11Zk93WEI5ekdCSk1VczhHSGV2UGhEakpGSmd3dkhvRTJRZGNkei1rN3ZDbl84azlRSTVDbzV5bW56bA?oc=5",
       "publishedAt": "2026-06-25T23:43:05.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMizAFBVV95cUxNdXZwYjMyZUFleWpBdVdXem5UM1g1aDg0LXRxQk1OR2otc0lza01ENDd4d2lESVk5d3BYdWpzdXhfV2hiTU5pNmRTSHZXN3JKRm1iSWQta1ZYYlVsbGNBZHZWaXZvNHE3bXVnVWQ5VnhPdjJhdUhnc1VlUklwS3BmNzhHakN6U3YwLUhXN0V2ZEZwLUROQjRyS3JGX1Z1dmN6MzMwUEZVM25SUUIzQzJ5b1F2RG1oajYwVTVuSTZXaEt3bFlueXNOMTVLR24?oc=5",
+      "title": "US federal judge blocks DOJ from seizing medical records of transgender minors at NYC hospitals - JURIST - News - Jurist.org",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdXZwYjMyZUFleWpBdVdXem5UM1g1aDg0LXRxQk1OR2otc0lza01ENDd4d2lESVk5d3BYdWpzdXhfV2hiTU5pNmRTSHZXN3JKRm1iSWQta1ZYYlVsbGNBZHZWaXZvNHE3bXVnVWQ5VnhPdjJhdUhnc1VlUklwS3BmNzhHakN6U3YwLUhXN0V2ZEZwLUROQjRyS3JGX1Z1dmN6MzMwUEZVM25SUUIzQzJ5b1F2RG1oajYwVTVuSTZXaEt3bFlueXNOMTVLR24?oc=5",
+      "publishedAt": "2026-06-27T07:50:58.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2450,14 +2482,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMidkFVX3lxTE84TFdUUG8wc0NieVZCMmx6N1FOTnJiU3pTT3VCcFVsTXpuZjI0UDBjZnJydG9FQnFyTzJDX0hSUDNFbUhWTTFka0xOZ0NoMVZ5N0FNS1hBZmt4Snc3aFBXZGt0M3Z5SXd3cWxTYmQwQUZKbmlOUkHSAXZBVV95cUxQRVFMSFNmUkNpY0hWWFdldW9oMUpPcVhIc1AzRkl3WHlFS3hPcmJsU3dGMnVIODV4VE9YZUNoVk43bnV5RUczOWUxSGktbktXYkZtNWFwektibFp0b2JWOWVLdjdyNjVOeGRsZzV3cElFMjJJM3VR?oc=5",
-      "title": "Cary LGBTQ+ organizer injured in alleged Pride assault. Why she wants tougher charges - Raleigh News & Observer",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84TFdUUG8wc0NieVZCMmx6N1FOTnJiU3pTT3VCcFVsTXpuZjI0UDBjZnJydG9FQnFyTzJDX0hSUDNFbUhWTTFka0xOZ0NoMVZ5N0FNS1hBZmt4Snc3aFBXZGt0M3Z5SXd3cWxTYmQwQUZKbmlOUkHSAXZBVV95cUxQRVFMSFNmUkNpY0hWWFdldW9oMUpPcVhIc1AzRkl3WHlFS3hPcmJsU3dGMnVIODV4VE9YZUNoVk43bnV5RUczOWUxSGktbktXYkZtNWFwektibFp0b2JWOWVLdjdyNjVOeGRsZzV3cElFMjJJM3VR?oc=5",
-      "publishedAt": "2026-06-25T21:51:30.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlNYT2hwSzBMNG01bmZMYlhjSzFOUGFlUG1qSHZtbGRMZXdxYmZRdFpEWHhqU1RnMmNUNV92Um82WG1peWZMc0I4a3cyS1Y1UEg0dFZZMmozTzQ3V1QxNk1qbVA0WVJjWmFkVmNtRTc1TUo3dnRXNHJPdzR4QnAyMHZ1THZ0X0g4NzR4aHpWT1o3XzFuYWdjV19iWUpwOF9GOVowNy1NMnQ3Tnc?oc=5",
       "title": "Gay Sheep Rescued from Grim Fate After Refusing to Mate with Females (Exclusive) - People.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlNYT2hwSzBMNG01bmZMYlhjSzFOUGFlUG1qSHZtbGRMZXdxYmZRdFpEWHhqU1RnMmNUNV92Um82WG1peWZMc0I4a3cyS1Y1UEg0dFZZMmozTzQ3V1QxNk1qbVA0WVJjWmFkVmNtRTc1TUo3dnRXNHJPdzR4QnAyMHZ1THZ0X0g4NzR4aHpWT1o3XzFuYWdjV19iWUpwOF9GOVowNy1NMnQ3Tnc?oc=5",
@@ -2466,10 +2490,34 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMidkFVX3lxTE84TFdUUG8wc0NieVZCMmx6N1FOTnJiU3pTT3VCcFVsTXpuZjI0UDBjZnJydG9FQnFyTzJDX0hSUDNFbUhWTTFka0xOZ0NoMVZ5N0FNS1hBZmt4Snc3aFBXZGt0M3Z5SXd3cWxTYmQwQUZKbmlOUkHSAXZBVV95cUxQRVFMSFNmUkNpY0hWWFdldW9oMUpPcVhIc1AzRkl3WHlFS3hPcmJsU3dGMnVIODV4VE9YZUNoVk43bnV5RUczOWUxSGktbktXYkZtNWFwektibFp0b2JWOWVLdjdyNjVOeGRsZzV3cElFMjJJM3VR?oc=5",
+      "title": "Cary LGBTQ+ organizer injured in alleged Pride assault. Why she wants tougher charges - Raleigh News & Observer",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84TFdUUG8wc0NieVZCMmx6N1FOTnJiU3pTT3VCcFVsTXpuZjI0UDBjZnJydG9FQnFyTzJDX0hSUDNFbUhWTTFka0xOZ0NoMVZ5N0FNS1hBZmt4Snc3aFBXZGt0M3Z5SXd3cWxTYmQwQUZKbmlOUkHSAXZBVV95cUxQRVFMSFNmUkNpY0hWWFdldW9oMUpPcVhIc1AzRkl3WHlFS3hPcmJsU3dGMnVIODV4VE9YZUNoVk43bnV5RUczOWUxSGktbktXYkZtNWFwektibFp0b2JWOWVLdjdyNjVOeGRsZzV3cElFMjJJM3VR?oc=5",
+      "publishedAt": "2026-06-25T21:51:30.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnpXdlYwNVZDMlF6Uks5SE9SNFYtbkFibHRBdGZPdGN2MS1OOW9sLUtMZmF4S3NCT0ZJRWE1RmN6clJYYnRuU2Exam5hSFlCcVBlUjdycS1pMkJLRWZZNTFCM1lNcXFhSGkyY05xUHI1eG5vUU5sdnVsLUF3MVdVVmRoUC0?oc=5",
+      "title": "The Queer Wisdom of Disorientation - New Ways Ministry",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnpXdlYwNVZDMlF6Uks5SE9SNFYtbkFibHRBdGZPdGN2MS1OOW9sLUtMZmF4S3NCT0ZJRWE1RmN6clJYYnRuU2Exam5hSFlCcVBlUjdycS1pMkJLRWZZNTFCM1lNcXFhSGkyY05xUHI1eG5vUU5sdnVsLUF3MVdVVmRoUC0?oc=5",
+      "publishedAt": "2026-06-28T06:07:45.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWlSU0tCZlVxR21tT3VjYlBlZ2V5UzRGSVJJbS1GU3NNaC04Q3ZKOV94eXo0YkhzQWJuY3ZCeHJRVTJCdXl4YklnU0NmWnNjcHRVYVRfdWx2X0NYa0NjV3UwRmZHNUVqUFZuMU5kSW54QmJ3VXg5QjF4aTJvNFB3WDlwY29fWU5wc3R2dU50TmN2MEx0X0FqOFh4bVNzekk5Vk04cklUenAzRzg?oc=5",
       "title": "Are Gay Men Really That Shallow? - Psychology Today",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWlSU0tCZlVxR21tT3VjYlBlZ2V5UzRGSVJJbS1GU3NNaC04Q3ZKOV94eXo0YkhzQWJuY3ZCeHJRVTJCdXl4YklnU0NmWnNjcHRVYVRfdWx2X0NYa0NjV3UwRmZHNUVqUFZuMU5kSW54QmJ3VXg5QjF4aTJvNFB3WDlwY29fWU5wc3R2dU50TmN2MEx0X0FqOFh4bVNzekk5Vk04cklUenAzRzg?oc=5",
       "publishedAt": "2026-06-26T21:46:13.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0txZ1pyb29YRVVGSktwQ1VraXFVb3RVSlB5dUFIUFhFZzh3dXJUaU5fb1VSWGFfS0FQZzdydzdXNS1VbkMzM00yNXJXOUV2UG96dUROUERyOGVoZTd5YXc0UjFCaTdoLVN2UXlZRFVvXzRhd0lISHY5V2wxMFdSdHZlc01OVG1SNUY0bmJnZjZxZnRSTTdKNUNjS0FlYlk?oc=5",
+      "title": "Iran Captain Speaks of Respect For LGBT People After Pride Match - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0txZ1pyb29YRVVGSktwQ1VraXFVb3RVSlB5dUFIUFhFZzh3dXJUaU5fb1VSWGFfS0FQZzdydzdXNS1VbkMzM00yNXJXOUV2UG96dUROUERyOGVoZTd5YXc0UjFCaTdoLVN2UXlZRFVvXzRhd0lISHY5V2wxMFdSdHZlc01OVG1SNUY0bmJnZjZxZnRSTTdKNUNjS0FlYlk?oc=5",
+      "publishedAt": "2026-06-27T10:16:00.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2486,14 +2534,6 @@
       "title": "In a rainbow-trimmed robe at the World Cup, a gay Qatari doctor advocates for equal rights - AP News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUZsLThzWTlseVRHRTR4NUJfVjdlcnZRLW4xQ1VGTDJGUEZGdm1qUkJaRC1FNG9FOUxpY182b3Q1cTdXRmpWckJuWDRwWU5ybnVGekdaMF94VlNVZ1dTS2V4MGN5Mnh1c0ZvenVjMzZjbmYyQ25yTEgwS2k3R3J2ZldQaDRlNjluaWJqMFN1dGtDYlNqNlNRcUdB?oc=5",
       "publishedAt": "2026-06-24T20:02:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjJ2OFJaTTFMWWRkdGVnOFRuTVltOXRGSjA3eDdMQS1UdUdrSDN5N3lsYU92a0J5U2JESjN5UnBHQ19zUUc1dVJvMWJ6UUtoRnN6UlpORnNNVW9YMS1uQ2IybVF4Ymczd0EtbHVwTXFRYkt0c0NuZ1lwVmNocFNvMTg0RHRqMGJNRWVETEIxaWR0M0hLSmptSE1fUnpRX19xMmNtekhwcEJ0OHh2QWhKcDZVQkFYdnhEU1UwMThuLTlva29F?oc=5",
-      "title": "San Francisco Giants president panders to LGBTQ in letter to fans regarding Pride Night | Jon Root - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjJ2OFJaTTFMWWRkdGVnOFRuTVltOXRGSjA3eDdMQS1UdUdrSDN5N3lsYU92a0J5U2JESjN5UnBHQ19zUUc1dVJvMWJ6UUtoRnN6UlpORnNNVW9YMS1uQ2IybVF4Ymczd0EtbHVwTXFRYkt0c0NuZ1lwVmNocFNvMTg0RHRqMGJNRWVETEIxaWR0M0hLSmptSE1fUnpRX19xMmNtekhwcEJ0OHh2QWhKcDZVQkFYdnhEU1UwMThuLTlva29F?oc=5",
-      "publishedAt": "2026-06-26T22:15:37.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2546,6 +2586,14 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjJ2OFJaTTFMWWRkdGVnOFRuTVltOXRGSjA3eDdMQS1UdUdrSDN5N3lsYU92a0J5U2JESjN5UnBHQ19zUUc1dVJvMWJ6UUtoRnN6UlpORnNNVW9YMS1uQ2IybVF4Ymczd0EtbHVwTXFRYkt0c0NuZ1lwVmNocFNvMTg0RHRqMGJNRWVETEIxaWR0M0hLSmptSE1fUnpRX19xMmNtekhwcEJ0OHh2QWhKcDZVQkFYdnhEU1UwMThuLTlva29F?oc=5",
+      "title": "San Francisco Giants president panders to LGBTQ in letter to fans regarding Pride Night | Jon Root - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjJ2OFJaTTFMWWRkdGVnOFRuTVltOXRGSjA3eDdMQS1UdUdrSDN5N3lsYU92a0J5U2JESjN5UnBHQ19zUUc1dVJvMWJ6UUtoRnN6UlpORnNNVW9YMS1uQ2IybVF4Ymczd0EtbHVwTXFRYkt0c0NuZ1lwVmNocFNvMTg0RHRqMGJNRWVETEIxaWR0M0hLSmptSE1fUnpRX19xMmNtekhwcEJ0OHh2QWhKcDZVQkFYdnhEU1UwMThuLTlva29F?oc=5",
+      "publishedAt": "2026-06-26T22:15:37.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMingFBVV95cUxPbTZmenRGNTJGeXFPT3lTMzNrencwcS1JcXZkYVI3S3A5MnBQQ0x6bEdfN0VoM2k1Z2ZTeXJ5T2RMMmN1dTBJbkppNUtjbTJMRnFvVG9oYWlEeXFZYTljLWp3UmgtYTQ5LVJVNF81ZjFiNS1PRmRBY3ZVX0xzRGJ3cHZqamlCd21IZklIaE5RQzF4VUpfX1UzNUxZQ2JuZw?oc=5",
       "title": "SBC says it’s not possible to be gay or transgender and Christian - Baptist News Global",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTZmenRGNTJGeXFPT3lTMzNrencwcS1JcXZkYVI3S3A5MnBQQ0x6bEdfN0VoM2k1Z2ZTeXJ5T2RMMmN1dTBJbkppNUtjbTJMRnFvVG9oYWlEeXFZYTljLWp3UmgtYTQ5LVJVNF81ZjFiNS1PRmRBY3ZVX0xzRGJ3cHZqamlCd21IZklIaE5RQzF4VUpfX1UzNUxZQ2JuZw?oc=5",
@@ -2586,10 +2634,18 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0pHSHB5UFkwSzhrellJMzVheXVXRERXTzdSRHQyYkdXMUVRc1FNdU9UcE9vVzFlN0JnVUVkbDFzWk1UTXo1RktKQzIwWkJpV2w2ZHBYaS1kOE5TSFJySF94dW9FX3RIRHFxd2IzUkE1RmJSNmUzOXdZWFUtdDYwdGo5NEVncUNXRzBwLXVrYnZGeG5USGNLckNjQ3ZKX0N0Tm1zb21ObGjSAa4BQVVfeXFMUC1EZl84dFA4NEU2dm5BZTVjWHpXTE03S3dGLS1NNkM5MHF1MTV2S1VyYWhCaUdxQjJlMldOSWRTMFBNNlpoY2V0UmlRV1MtWHpQY1R2VE1Sek5vMk5lNkdrMWIzaEVNaEl2Q0xHVGdXMHk1X1phZklIMnlWdTF1SVpUSW9jNVluckp0SVV4OXpFdEdtTUZqaUxEZm9OclpaMDZMcnh4V0VmZjJNZlFB?oc=5",
-      "title": "‘Heated Rivalry’ fuels a boom in gay romance stories, with women leading the fandom - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0pHSHB5UFkwSzhrellJMzVheXVXRERXTzdSRHQyYkdXMUVRc1FNdU9UcE9vVzFlN0JnVUVkbDFzWk1UTXo1RktKQzIwWkJpV2w2ZHBYaS1kOE5TSFJySF94dW9FX3RIRHFxd2IzUkE1RmJSNmUzOXdZWFUtdDYwdGo5NEVncUNXRzBwLXVrYnZGeG5USGNLckNjQ3ZKX0N0Tm1zb21ObGjSAa4BQVVfeXFMUC1EZl84dFA4NEU2dm5BZTVjWHpXTE03S3dGLS1NNkM5MHF1MTV2S1VyYWhCaUdxQjJlMldOSWRTMFBNNlpoY2V0UmlRV1MtWHpQY1R2VE1Sek5vMk5lNkdrMWIzaEVNaEl2Q0xHVGdXMHk1X1phZklIMnlWdTF1SVpUSW9jNVluckp0SVV4OXpFdEdtTUZqaUxEZm9OclpaMDZMcnh4V0VmZjJNZlFB?oc=5",
-      "publishedAt": "2026-06-27T12:22:34.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jcVJhM0N0U0plb3RYZVlWb0VyNThjSjN3cXg3c3FUd0lsZWh3WkZOWi1nMDdiTTJSeFpSRkpyNThKNlR5S0MzdnNGeE1WekxyWWw3N0dtTmhrNzRPaGZtQ1NxSdIBaEFVX3lxTE1MbW9xTncxUllPYXZhTExKVXhtQnNBOVUzU0g3RHJObTRHcmlpQjIydjNFZFYtWnU5aklndGp3d1ZXSzZPbjhyWEpqVEN6ZHBzcHZIeVNYeHFTYXRaTXRVVzE0czFyNTVx?oc=5",
+      "title": "Goose dating app launches as alternative to Grindr - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jcVJhM0N0U0plb3RYZVlWb0VyNThjSjN3cXg3c3FUd0lsZWh3WkZOWi1nMDdiTTJSeFpSRkpyNThKNlR5S0MzdnNGeE1WekxyWWw3N0dtTmhrNzRPaGZtQ1NxSdIBaEFVX3lxTE1MbW9xTncxUllPYXZhTExKVXhtQnNBOVUzU0g3RHJObTRHcmlpQjIydjNFZFYtWnU5aklndGp3d1ZXSzZPbjhyWEpqVEN6ZHBzcHZIeVNYeHFTYXRaTXRVVzE0czFyNTVx?oc=5",
+      "publishedAt": "2026-06-27T14:54:20.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnA4Y1VlVDB4RlBrMWMwRzdWZTFmZEN6WUlPaXJEd2tzX3VrYVlhVDc4TVVtY216MDZMclFDd3pwMmEzMUREaEt3RHpxYlVrRmdBRTFSMUo2eXhmSXR1WnBWeGE4M096NGc0RzdsUkxEc3I0LWdMRWp1Y2s1b2NHTw?oc=5",
+      "title": "Texas judge who refused to marry gay couple wins lawsuit against state agency - Chron",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnA4Y1VlVDB4RlBrMWMwRzdWZTFmZEN6WUlPaXJEd2tzX3VrYVlhVDc4TVVtY216MDZMclFDd3pwMmEzMUREaEt3RHpxYlVrRmdBRTFSMUo2eXhmSXR1WnBWeGE4M096NGc0RzdsUkxEc3I0LWdMRWp1Y2s1b2NHTw?oc=5",
+      "publishedAt": "2026-06-23T19:48:53.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2602,14 +2658,6 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnU1WVBpVzJpMWZTTkRHaVVBMEZ6Q3kySEVXbzUzSUNxMkdfc3JjTlMxMlpsRXRZakwxV2pfYWFiYkhNMGFvNWYwUFBoN01IeXdQTFV2T1Bvd2UtZ2RkenUwWlYyQWsxOGxOTHE3SUpFRjZYN0pDbkdJZHFRWHZfXzhueHZjU0Fzd1ZqTVVzRUp4YjYydGRwbldLUFE1NFhZS3QwTDV1WVRKSFk?oc=5",
-      "title": "'Ringleader' in transgender man's torture and killing pleads guilty to all charges - 13wham.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnU1WVBpVzJpMWZTTkRHaVVBMEZ6Q3kySEVXbzUzSUNxMkdfc3JjTlMxMlpsRXRZakwxV2pfYWFiYkhNMGFvNWYwUFBoN01IeXdQTFV2T1Bvd2UtZ2RkenUwWlYyQWsxOGxOTHE3SUpFRjZYN0pDbkdJZHFRWHZfXzhueHZjU0Fzd1ZqTVVzRUp4YjYydGRwbldLUFE1NFhZS3QwTDV1WVRKSFk?oc=5",
-      "publishedAt": "2026-06-26T19:39:14.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMilwFBVV95cUxObjRCVTdqRHZtU3RFNGdTX2hrSnV3a3lIU28zUThlcFJmY3FWWVk5Q1RXcGljNmhIOFhUZTl1LXNHT0pQNHlYcEppQmQ4aUZOdmUxX2tzQUVTWnR2a3V6OWFfekVpTmd6dER3YWFBbjJTd0JWbl9zZTVRT0pnaEpxNUJKSUR4cUUxcF9SMEl3eVZjeE8tdkk4?oc=5",
       "title": "City of Lonoke Police searching for missing transgender juvenile - KATV",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjRCVTdqRHZtU3RFNGdTX2hrSnV3a3lIU28zUThlcFJmY3FWWVk5Q1RXcGljNmhIOFhUZTl1LXNHT0pQNHlYcEppQmQ4aUZOdmUxX2tzQUVTWnR2a3V6OWFfekVpTmd6dER3YWFBbjJTd0JWbl9zZTVRT0pnaEpxNUJKSUR4cUUxcF9SMEl3eVZjeE8tdkk4?oc=5",
@@ -2618,50 +2666,18 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vaERMMk1jODl3TVpGR0NYbURsRXF3YWowY0p2MWlZWDhNYjIzU1Z6WWV2NTRtTnBjekFTbURyYTB4WHhXSXIxTkExMmxNQVNKSFVRc2RXUUc1QQ?oc=5",
-      "title": "Jail time and unlimited fines planned under conversion practices ban - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vaERMMk1jODl3TVpGR0NYbURsRXF3YWowY0p2MWlZWDhNYjIzU1Z6WWV2NTRtTnBjekFTbURyYTB4WHhXSXIxTkExMmxNQVNKSFVRc2RXUUc1QQ?oc=5",
-      "publishedAt": "2026-06-25T08:33:22.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnU1WVBpVzJpMWZTTkRHaVVBMEZ6Q3kySEVXbzUzSUNxMkdfc3JjTlMxMlpsRXRZakwxV2pfYWFiYkhNMGFvNWYwUFBoN01IeXdQTFV2T1Bvd2UtZ2RkenUwWlYyQWsxOGxOTHE3SUpFRjZYN0pDbkdJZHFRWHZfXzhueHZjU0Fzd1ZqTVVzRUp4YjYydGRwbldLUFE1NFhZS3QwTDV1WVRKSFk?oc=5",
+      "title": "'Ringleader' in transgender man's torture and killing pleads guilty to all charges - 13wham.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnU1WVBpVzJpMWZTTkRHaVVBMEZ6Q3kySEVXbzUzSUNxMkdfc3JjTlMxMlpsRXRZakwxV2pfYWFiYkhNMGFvNWYwUFBoN01IeXdQTFV2T1Bvd2UtZ2RkenUwWlYyQWsxOGxOTHE3SUpFRjZYN0pDbkdJZHFRWHZfXzhueHZjU0Fzd1ZqTVVzRUp4YjYydGRwbldLUFE1NFhZS3QwTDV1WVRKSFk?oc=5",
+      "publishedAt": "2026-06-26T19:39:14.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVRhQm1UMzJWS3RrazRTUHpGYlh2THZZU29WVUNzMTJZbnd1X3BTOUMwaThJM0VQZXAxX2c5ZG80NzczQmI5SXg0Q0ZvVy1iNzVoQzRDZDZ0QV9WOVJpUnRGWno5WXp2bWlYWnBXTF9TQUhMR3NFdVdfX1o1WDhkWW1CUFdJZkZGS21peUhrTFRlczY5NkVvOUREc2ZfMUpLY0JpbHM1VlFWRDJsVlg0bGNQT2tfbHhtenoyS0UtZ9IBxAFBVV95cUxONVQxWjZacU5UdEpyLTg5cVgwWmRLQjh1cWstSzNXRjNGZmduR3YxMGsxV1kybEgwY19SS3pMWFdibTA2VVZKa2tzakgtSGx1Y1dqUzlpUnJOejlNR2ZOaHJPd291T2tRRm0wLXVpYUYyS1UwN0NfbWpDMl9aWlAxSzU1ZUx1N2FOUnp1YkVySlFZS0RCZ2t5VzVvYlJORkRqTGtOb0hGdldzdGhDeFd2dnQtWldqbDJXMGdXS3lhM2xrZmhB?oc=5",
-      "title": "Trump administration probe could upend widely used transgender youth treatment guidelines - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVRhQm1UMzJWS3RrazRTUHpGYlh2THZZU29WVUNzMTJZbnd1X3BTOUMwaThJM0VQZXAxX2c5ZG80NzczQmI5SXg0Q0ZvVy1iNzVoQzRDZDZ0QV9WOVJpUnRGWno5WXp2bWlYWnBXTF9TQUhMR3NFdVdfX1o1WDhkWW1CUFdJZkZGS21peUhrTFRlczY5NkVvOUREc2ZfMUpLY0JpbHM1VlFWRDJsVlg0bGNQT2tfbHhtenoyS0UtZ9IBxAFBVV95cUxONVQxWjZacU5UdEpyLTg5cVgwWmRLQjh1cWstSzNXRjNGZmduR3YxMGsxV1kybEgwY19SS3pMWFdibTA2VVZKa2tzakgtSGx1Y1dqUzlpUnJOejlNR2ZOaHJPd291T2tRRm0wLXVpYUYyS1UwN0NfbWpDMl9aWlAxSzU1ZUx1N2FOUnp1YkVySlFZS0RCZ2t5VzVvYlJORkRqTGtOb0hGdldzdGhDeFd2dnQtWldqbDJXMGdXS3lhM2xrZmhB?oc=5",
-      "publishedAt": "2026-06-21T10:30:42.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENaVXdpMUtBdjBNaFRUdWUtUXRlMHY5OUFxZ3NMdTV0X0Vhbjd5N1NGWFBGTTNuSnBxRTRyU0hsczJCUVp2eUpRQW14Z2NNTFFxYjVwU3AtNEUwbkR5emU4SnpfMFh1ckhBZVdpYXJ6amFybXI0dGs0REt0M3hxaXlkOHp5NXNPRXQtdWdpdlljWGNzR0xOUm9ZRGZhazlFWFRsb1JNcGRoMklSdmFj?oc=5",
-      "title": "Romeo Beckham to make his acting debut in gay sports romance - HOLA",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENaVXdpMUtBdjBNaFRUdWUtUXRlMHY5OUFxZ3NMdTV0X0Vhbjd5N1NGWFBGTTNuSnBxRTRyU0hsczJCUVp2eUpRQW14Z2NNTFFxYjVwU3AtNEUwbkR5emU4SnpfMFh1ckhBZVdpYXJ6amFybXI0dGs0REt0M3hxaXlkOHp5NXNPRXQtdWdpdlljWGNzR0xOUm9ZRGZhazlFWFRsb1JNcGRoMklSdmFj?oc=5",
-      "publishedAt": "2026-06-22T23:11:21.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek0zOTE2cUpNRUViTkVvdnlzaVdsRHV1RWRMNzlZX0s3elBpRVI1RDMzMHpNRTNFTGpRdXN1dmlWSzRlb1piX0xWUk5TZVhheUNWTWpCc25NaFNMRnRfcmZfN3M2S1h2RDU3T3JZdEJfTlQ0bmJwS1hSd005X0dQV2RPUHEyak5IejVYRVB5OUk4aC1ZeGh2LWRwNmJGa24za2wzdDNtMTM2TWdaU0FHLTBMQW9KNERWckxz?oc=5",
-      "title": "Federal Trade Commission sues Chicago-area transgender health group - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek0zOTE2cUpNRUViTkVvdnlzaVdsRHV1RWRMNzlZX0s3elBpRVI1RDMzMHpNRTNFTGpRdXN1dmlWSzRlb1piX0xWUk5TZVhheUNWTWpCc25NaFNMRnRfcmZfN3M2S1h2RDU3T3JZdEJfTlQ0bmJwS1hSd005X0dQV2RPUHEyak5IejVYRVB5OUk4aC1ZeGh2LWRwNmJGa24za2wzdDNtMTM2TWdaU0FHLTBMQW9KNERWckxz?oc=5",
-      "publishedAt": "2026-06-22T23:39:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1QT29veTBmcnI2elJoRkQ0OEQxdFNxTEczalllMF9BbnB4Z0dDRDJucU5kUm1RR1NWM2ZtdkhpVmVxVEdRamdZaTBPZkhTMlV2OHFoeHJiTWc1UE1ZSVY0VUFjd1dhOHE5R0tDWUthQURJSVRRLTNiVzY5dmMzWmJLenB6eWFwZUttNQ?oc=5",
-      "title": "FMLA misuse, not transgender status, led to plaintiff’s firing, 7th Circuit says - HR Dive",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1QT29veTBmcnI2elJoRkQ0OEQxdFNxTEczalllMF9BbnB4Z0dDRDJucU5kUm1RR1NWM2ZtdkhpVmVxVEdRamdZaTBPZkhTMlV2OHFoeHJiTWc1UE1ZSVY0VUFjd1dhOHE5R0tDWUthQURJSVRRLTNiVzY5dmMzWmJLenB6eWFwZUttNQ?oc=5",
-      "publishedAt": "2026-06-26T23:56:31.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU5jT3dkcUFuWXlCZ2JxbVBUaGYwaGpLa1VfRDdhZm42U3hyOW9PX2xZOGd1MGpWUWNtTXNYYUthek45X1VkNjRZazk3UlN4VDZYclB4NV9ieDdWaXN3c2hJS1VyVzJfUzdyc0M5LUJXNW1Qa0x2X0FWaWpwcHlYZGVrM2N0RzRtcE5MSVFQN1hZRHIwUmc?oc=5",
-      "title": "Judges pauses subpoena in transgender care criminal probe - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU5jT3dkcUFuWXlCZ2JxbVBUaGYwaGpLa1VfRDdhZm42U3hyOW9PX2xZOGd1MGpWUWNtTXNYYUthek45X1VkNjRZazk3UlN4VDZYclB4NV9ieDdWaXN3c2hJS1VyVzJfUzdyc0M5LUJXNW1Qa0x2X0FWaWpwcHlYZGVrM2N0RzRtcE5MSVFQN1hZRHIwUmc?oc=5",
-      "publishedAt": "2026-06-25T14:04:36.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXpJWjdQcDJvcUM0dkU2cnZqMEN1Rk13eFRpYkdzOVYySzlUa3FJOFNyWXNkS2o1TTJoRDZFQzY4MEVPR3RSVjhJN0lkdW1aOWFkRVpDQnh5UmVWaC00Qk8wRmlaYXhwNTR3ZnhRSTZQYnZscTFHOC1UMW9ZcmN3Ry1HeGdSbmxmZ2JYUGFjQUtzakZsdXM3eUluQWx2SVp6SGJOc056QzlCVThmWG50dtIBtgFBVV95cUxPazRWTlZMVTlqUFZ5dUpMNDQ5eE1uR3NsTWFHR2ZHMzVOVDVuTTdlZkotTTk1eVp2U040bkVIcE12Y2tmSmhzcEhPOUp1QnVGT3NUNWlvMFVYMlZnQWlmV2R6VTBQbGstRjRrNzJqeFFFVGlva3ExUnRKaUhNZmlyeXotS1lFeGc1aEV3aDNKdEFobzlvTGhzTmo5b0xjWThRYUhvOUFzcjN5aFlWVmFPbVAybkxhUQ?oc=5",
+      "title": "SoKno Pride helps connect LGBTQ-owned businesses with new customers - WATE 6 On Your Side",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXpJWjdQcDJvcUM0dkU2cnZqMEN1Rk13eFRpYkdzOVYySzlUa3FJOFNyWXNkS2o1TTJoRDZFQzY4MEVPR3RSVjhJN0lkdW1aOWFkRVpDQnh5UmVWaC00Qk8wRmlaYXhwNTR3ZnhRSTZQYnZscTFHOC1UMW9ZcmN3Ry1HeGdSbmxmZ2JYUGFjQUtzakZsdXM3eUluQWx2SVp6SGJOc056QzlCVThmWG50dtIBtgFBVV95cUxPazRWTlZMVTlqUFZ5dUpMNDQ5eE1uR3NsTWFHR2ZHMzVOVDVuTTdlZkotTTk1eVp2U040bkVIcE12Y2tmSmhzcEhPOUp1QnVGT3NUNWlvMFVYMlZnQWlmV2R6VTBQbGstRjRrNzJqeFFFVGlva3ExUnRKaUhNZmlyeXotS1lFeGc1aEV3aDNKdEFobzlvTGhzTmo5b0xjWThRYUhvOUFzcjN5aFlWVmFPbVAybkxhUQ?oc=5",
+      "publishedAt": "2026-06-21T12:44:12.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2690,6 +2706,22 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU5jT3dkcUFuWXlCZ2JxbVBUaGYwaGpLa1VfRDdhZm42U3hyOW9PX2xZOGd1MGpWUWNtTXNYYUthek45X1VkNjRZazk3UlN4VDZYclB4NV9ieDdWaXN3c2hJS1VyVzJfUzdyc0M5LUJXNW1Qa0x2X0FWaWpwcHlYZGVrM2N0RzRtcE5MSVFQN1hZRHIwUmc?oc=5",
+      "title": "Judges pauses subpoena in transgender care criminal probe - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU5jT3dkcUFuWXlCZ2JxbVBUaGYwaGpLa1VfRDdhZm42U3hyOW9PX2xZOGd1MGpWUWNtTXNYYUthek45X1VkNjRZazk3UlN4VDZYclB4NV9ieDdWaXN3c2hJS1VyVzJfUzdyc0M5LUJXNW1Qa0x2X0FWaWpwcHlYZGVrM2N0RzRtcE5MSVFQN1hZRHIwUmc?oc=5",
+      "publishedAt": "2026-06-25T14:04:36.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2gyeHh2eHZ4LWoxaEVHRzFvNEJ0dEhIZjVxSHB2NEdPSDBKRzV0Q0tDNnVDWWg2a0VNOHBwZVExYnNaSmlJNTlPLW4zeDBHdU5YcF9FaVhPclU2cXlDb0JCR3hmMnVHa0Y0VHNTYmlPdGNMMEFkVEJicnBwcDMxN2tzeU5GT0dTR0N1YUlCOWdpaTNjRVpicDl6eTVBeldIY0hvaEZLZ0pTMURF?oc=5",
+      "title": "San Francisco Pride focuses on transgender visibility and support - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2gyeHh2eHZ4LWoxaEVHRzFvNEJ0dEhIZjVxSHB2NEdPSDBKRzV0Q0tDNnVDWWg2a0VNOHBwZVExYnNaSmlJNTlPLW4zeDBHdU5YcF9FaVhPclU2cXlDb0JCR3hmMnVHa0Y0VHNTYmlPdGNMMEFkVEJicnBwcDMxN2tzeU5GT0dTR0N1YUlCOWdpaTNjRVpicDl6eTVBeldIY0hvaEZLZ0pTMURF?oc=5",
+      "publishedAt": "2026-06-28T02:41:19.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWJSQURlek1KT0NNal9oN2RCNzROSHhlZlFTTFBaS2hOaGlRYkVmYnpEckMtdDFDME42azE2cE1QWlI4ZHZWZnBjZVJIRDAtT2ZEb3NxQ2dvbVRXSG9kS19meE1pVTIzdDBQcGV3NWpVVlBYS0dZOVFLSmF0dEtUUExxc21sZ2V1V2stTDYtTQ?oc=5",
       "title": "School Agrees to Pay Student $10,000 After She Was Suspended for Coming Out as Gay - People.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWJSQURlek1KT0NNal9oN2RCNzROSHhlZlFTTFBaS2hOaGlRYkVmYnpEckMtdDFDME42azE2cE1QWlI4ZHZWZnBjZVJIRDAtT2ZEb3NxQ2dvbVRXSG9kS19meE1pVTIzdDBQcGV3NWpVVlBYS0dZOVFLSmF0dEtUUExxc21sZ2V1V2stTDYtTQ?oc=5",
@@ -2714,6 +2746,14 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxOMV96d09XczduWHA3bS1ZOG16ZFNwUVhqTGRBYmVqQmY2aEtFcnBBSGUxTVVNcGxtT1V1M0t2UnU5bGJEcnBjTkpXRlRMVm4wMlE1TGczalRBSWVOT25FTXFBN0VnMWZlLVE1elpMZTg0NldZM1VXRXJwVXl3NnJHV29hSzI4RXJ5QTAtbUpxaURtbTd5YUhzb0ZmUXRaUU0?oc=5",
+      "title": "How LGBTQ-affirming churches are confronting religious trauma - Religion News Service",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMV96d09XczduWHA3bS1ZOG16ZFNwUVhqTGRBYmVqQmY2aEtFcnBBSGUxTVVNcGxtT1V1M0t2UnU5bGJEcnBjTkpXRlRMVm4wMlE1TGczalRBSWVOT25FTXFBN0VnMWZlLVE1elpMZTg0NldZM1VXRXJwVXl3NnJHV29hSzI4RXJ5QTAtbUpxaURtbTd5YUhzb0ZmUXRaUU0?oc=5",
+      "publishedAt": "2026-06-27T13:00:25.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vR0VMd1R2WEd4S3o5ZEVOVEd4V3NPMVZQZVk4WjFQcTNpNjQ4Mi1mRVoybVNaa0tRVHZBM3RVMWVDM1M5cVhKUGFFU2NuNHM?oc=5",
       "title": "Proud of Susan Collins’ championing gay rights | Opinion - The Portland Press Herald",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vR0VMd1R2WEd4S3o5ZEVOVEd4V3NPMVZQZVk4WjFQcTNpNjQ4Mi1mRVoybVNaa0tRVHZBM3RVMWVDM1M5cVhKUGFFU2NuNHM?oc=5",
@@ -2722,10 +2762,10 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxOMV96d09XczduWHA3bS1ZOG16ZFNwUVhqTGRBYmVqQmY2aEtFcnBBSGUxTVVNcGxtT1V1M0t2UnU5bGJEcnBjTkpXRlRMVm4wMlE1TGczalRBSWVOT25FTXFBN0VnMWZlLVE1elpMZTg0NldZM1VXRXJwVXl3NnJHV29hSzI4RXJ5QTAtbUpxaURtbTd5YUhzb0ZmUXRaUU0?oc=5",
-      "title": "How LGBTQ-affirming churches are confronting religious trauma - Religion News Service",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMV96d09XczduWHA3bS1ZOG16ZFNwUVhqTGRBYmVqQmY2aEtFcnBBSGUxTVVNcGxtT1V1M0t2UnU5bGJEcnBjTkpXRlRMVm4wMlE1TGczalRBSWVOT25FTXFBN0VnMWZlLVE1elpMZTg0NldZM1VXRXJwVXl3NnJHV29hSzI4RXJ5QTAtbUpxaURtbTd5YUhzb0ZmUXRaUU0?oc=5",
-      "publishedAt": "2026-06-27T13:00:25.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENaVXdpMUtBdjBNaFRUdWUtUXRlMHY5OUFxZ3NMdTV0X0Vhbjd5N1NGWFBGTTNuSnBxRTRyU0hsczJCUVp2eUpRQW14Z2NNTFFxYjVwU3AtNEUwbkR5emU4SnpfMFh1ckhBZVdpYXJ6amFybXI0dGs0REt0M3hxaXlkOHp5NXNPRXQtdWdpdlljWGNzR0xOUm9ZRGZhazlFWFRsb1JNcGRoMklSdmFj?oc=5",
+      "title": "Romeo Beckham to make his acting debut in gay sports romance - HOLA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENaVXdpMUtBdjBNaFRUdWUtUXRlMHY5OUFxZ3NMdTV0X0Vhbjd5N1NGWFBGTTNuSnBxRTRyU0hsczJCUVp2eUpRQW14Z2NNTFFxYjVwU3AtNEUwbkR5emU4SnpfMFh1ckhBZVdpYXJ6amFybXI0dGs0REt0M3hxaXlkOHp5NXNPRXQtdWdpdlljWGNzR0xOUm9ZRGZhazlFWFRsb1JNcGRoMklSdmFj?oc=5",
+      "publishedAt": "2026-06-22T23:11:21.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2738,18 +2778,34 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVp4aU5FZm51bFd5T3FQNUZCOUVEN1hYbVloYVcyMFFVNUl2MjFKYUVQSVo2dzIzM2hhWVBtWXRYRS1DZEt0NG0yN3dhTTdvUkU3Rl9wQnhMejFpTnRJQlB2anhjY0puU2w3ZV9pd2lPOTFNd1pEUGNpMmNKSUR1bEhwTVR5SjVK?oc=5",
-      "title": "Malaysia government officially changes term ‘LGBT’ to ‘deviant culture’ - PinkNews",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVp4aU5FZm51bFd5T3FQNUZCOUVEN1hYbVloYVcyMFFVNUl2MjFKYUVQSVo2dzIzM2hhWVBtWXRYRS1DZEt0NG0yN3dhTTdvUkU3Rl9wQnhMejFpTnRJQlB2anhjY0puU2w3ZV9pd2lPOTFNd1pEUGNpMmNKSUR1bEhwTVR5SjVK?oc=5",
-      "publishedAt": "2026-06-23T15:47:29.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMitAFBVV95cUxQM215ZTYydXVTS29LTDUwanJZWHBpU2tsYW5seG1JcnIwUkk2WV95b1lUdTlzcjRjbzBnZ0NDeTZYTTRaQ2dnbjdxTllFcHFUOWdLMTc0amVpMGhfd2hCNVExQTBFV1FyTUVPSV9fWUtaUGRlQ240aC04Q0ktcmg0UUhDRlhsdGo1SE0yWWZRRnVIUnF1SXJwMU1STENvTVhVUmhoSkJPWFN5T1pvcEZjaFMyRWI?oc=5",
       "title": "Gay tennis romance movie will be Romeo Beckham's acting debut - OutSports",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM215ZTYydXVTS29LTDUwanJZWHBpU2tsYW5seG1JcnIwUkk2WV95b1lUdTlzcjRjbzBnZ0NDeTZYTTRaQ2dnbjdxTllFcHFUOWdLMTc0amVpMGhfd2hCNVExQTBFV1FyTUVPSV9fWUtaUGRlQ240aC04Q0ktcmg0UUhDRlhsdGo1SE0yWWZRRnVIUnF1SXJwMU1STENvTVhVUmhoSkJPWFN5T1pvcEZjaFMyRWI?oc=5",
       "publishedAt": "2026-06-23T19:05:00.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1QT29veTBmcnI2elJoRkQ0OEQxdFNxTEczalllMF9BbnB4Z0dDRDJucU5kUm1RR1NWM2ZtdkhpVmVxVEdRamdZaTBPZkhTMlV2OHFoeHJiTWc1UE1ZSVY0VUFjd1dhOHE5R0tDWUthQURJSVRRLTNiVzY5dmMzWmJLenB6eWFwZUttNQ?oc=5",
+      "title": "FMLA misuse, not transgender status, led to plaintiff’s firing, 7th Circuit says - HR Dive",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU1QT29veTBmcnI2elJoRkQ0OEQxdFNxTEczalllMF9BbnB4Z0dDRDJucU5kUm1RR1NWM2ZtdkhpVmVxVEdRamdZaTBPZkhTMlV2OHFoeHJiTWc1UE1ZSVY0VUFjd1dhOHE5R0tDWUthQURJSVRRLTNiVzY5dmMzWmJLenB6eWFwZUttNQ?oc=5",
+      "publishedAt": "2026-06-26T23:56:31.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMidEFVX3lxTE16aWFYa1dDWTBEOHNDWU45M2JOTmxqMjY0eU1HUFV0cEp3M2VYaDVzRmNtbi0zNk5xcFQwbUN1Vk1sMnBnVjZrZ1M2YjNiOUJodldad3E5UXE3N3ZsUHVESWl0YVV0TU1rODJBVUh2N19TeG52?oc=5",
+      "title": "How LGBTQ-Affirming Churches Are Confronting Religious Trauma - Uncloseted Media",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16aWFYa1dDWTBEOHNDWU45M2JOTmxqMjY0eU1HUFV0cEp3M2VYaDVzRmNtbi0zNk5xcFQwbUN1Vk1sMnBnVjZrZ1M2YjNiOUJodldad3E5UXE3N3ZsUHVESWl0YVV0TU1rODJBVUh2N19TeG52?oc=5",
+      "publishedAt": "2026-06-27T13:03:24.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVp4aU5FZm51bFd5T3FQNUZCOUVEN1hYbVloYVcyMFFVNUl2MjFKYUVQSVo2dzIzM2hhWVBtWXRYRS1DZEt0NG0yN3dhTTdvUkU3Rl9wQnhMejFpTnRJQlB2anhjY0puU2w3ZV9pd2lPOTFNd1pEUGNpMmNKSUR1bEhwTVR5SjVK?oc=5",
+      "title": "Malaysia government officially changes term ‘LGBT’ to ‘deviant culture’ - PinkNews",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVp4aU5FZm51bFd5T3FQNUZCOUVEN1hYbVloYVcyMFFVNUl2MjFKYUVQSVo2dzIzM2hhWVBtWXRYRS1DZEt0NG0yN3dhTTdvUkU3Rl9wQnhMejFpTnRJQlB2anhjY0puU2w3ZV9pd2lPOTFNd1pEUGNpMmNKSUR1bEhwTVR5SjVK?oc=5",
+      "publishedAt": "2026-06-23T15:47:29.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2802,10 +2858,10 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFl1YUliRndrMGo5ZkhMOTR3Z1lqSjJkTWdUTGN2YXlDSzJkWDhJYmQzQ2xhY3VyUGtFS21aYlBuSVF6QlVLTDItOGxCSDFzSTdaUE1sU0F3c0JMTVhIMGpoM3h6QjZhWmVRZjlBaTFWeGpZV2hhTTVhTmg4T3ZjcdIBiAFBVV95cUxQazQwYU1yRXRkU2dyTTBpcDBxTXlmc3dHU2MyMTBhZVAzUThFdlc5clRvdUlmdW1zS1JFQUtnX0RReDctWHVZa09PRERPOS11MFowd1gteHBZQktUVElSaXpiVjFfQlB5eWFGb1VJMDRPRGxvY0x6ck5Nb01xN1Z6VXFNc2s3RGRu?oc=5",
-      "title": "5 Queer Artists From the Artnet Gallery Network to Celebrate This Pride Month - Artnet News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFl1YUliRndrMGo5ZkhMOTR3Z1lqSjJkTWdUTGN2YXlDSzJkWDhJYmQzQ2xhY3VyUGtFS21aYlBuSVF6QlVLTDItOGxCSDFzSTdaUE1sU0F3c0JMTVhIMGpoM3h6QjZhWmVRZjlBaTFWeGpZV2hhTTVhTmg4T3ZjcdIBiAFBVV95cUxQazQwYU1yRXRkU2dyTTBpcDBxTXlmc3dHU2MyMTBhZVAzUThFdlc5clRvdUlmdW1zS1JFQUtnX0RReDctWHVZa09PRERPOS11MFowd1gteHBZQktUVElSaXpiVjFfQlB5eWFGb1VJMDRPRGxvY0x6ck5Nb01xN1Z6VXFNc2s3RGRu?oc=5",
-      "publishedAt": "2026-06-27T14:00:34.000Z",
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWlHOXJjRmlqM2c2bTZnNzh0TXU5RllHV2VqZUhrWDU3Mlg2ZjNQdi1Ga1Q2cXpRaklsd3NETldha25jSUdlTlBWM2NFcm9mUUpQSnhnZHJOV2MyenZuZ0NTSTU0YllQSGZtbkNFNGtCdEpmRWFvN2dIQmh5WTVRLThaR3MwdVVjSEw4T1FKcjNPX19rVU1VMjhYX0lMcElENng4NHJn?oc=5",
+      "title": "Queer joy abounds in Marin Shakespeare’s ‘As You Like It’ - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWlHOXJjRmlqM2c2bTZnNzh0TXU5RllHV2VqZUhrWDU3Mlg2ZjNQdi1Ga1Q2cXpRaklsd3NETldha25jSUdlTlBWM2NFcm9mUUpQSnhnZHJOV2MyenZuZ0NTSTU0YllQSGZtbkNFNGtCdEpmRWFvN2dIQmh5WTVRLThaR3MwdVVjSEw4T1FKcjNPX19rVU1VMjhYX0lMcElENng4NHJn?oc=5",
+      "publishedAt": "2026-06-27T21:05:09.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2826,50 +2882,18 @@
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
     {
+      "id": "gnews-en:https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFl1YUliRndrMGo5ZkhMOTR3Z1lqSjJkTWdUTGN2YXlDSzJkWDhJYmQzQ2xhY3VyUGtFS21aYlBuSVF6QlVLTDItOGxCSDFzSTdaUE1sU0F3c0JMTVhIMGpoM3h6QjZhWmVRZjlBaTFWeGpZV2hhTTVhTmg4T3ZjcdIBiAFBVV95cUxQazQwYU1yRXRkU2dyTTBpcDBxTXlmc3dHU2MyMTBhZVAzUThFdlc5clRvdUlmdW1zS1JFQUtnX0RReDctWHVZa09PRERPOS11MFowd1gteHBZQktUVElSaXpiVjFfQlB5eWFGb1VJMDRPRGxvY0x6ck5Nb01xN1Z6VXFNc2s3RGRu?oc=5",
+      "title": "5 Queer Artists From the Artnet Gallery Network to Celebrate This Pride Month - Artnet News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFl1YUliRndrMGo5ZkhMOTR3Z1lqSjJkTWdUTGN2YXlDSzJkWDhJYmQzQ2xhY3VyUGtFS21aYlBuSVF6QlVLTDItOGxCSDFzSTdaUE1sU0F3c0JMTVhIMGpoM3h6QjZhWmVRZjlBaTFWeGpZV2hhTTVhTmg4T3ZjcdIBiAFBVV95cUxQazQwYU1yRXRkU2dyTTBpcDBxTXlmc3dHU2MyMTBhZVAzUThFdlc5clRvdUlmdW1zS1JFQUtnX0RReDctWHVZa09PRERPOS11MFowd1gteHBZQktUVElSaXpiVjFfQlB5eWFGb1VJMDRPRGxvY0x6ck5Nb01xN1Z6VXFNc2s3RGRu?oc=5",
+      "publishedAt": "2026-06-27T14:00:34.000Z",
+      "sourceId": "gnews-en",
+      "sourceName": "Google News (EN - LGBT/Gay)"
+    },
+    {
       "id": "gnews-en:https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUtBOTU1RzVvS2ZWY2RFcnpiRXV2cGtSYl9OR0dTQ3Z5aS1mUWZyaWl5RS1TbFM3WmJWcU9Tdzd0OGZ4LU9zaGlQYUVpLTJwUnV4eG1vcGdWbjZmamRCLVR6cWNUbW04akZJZkZ4cUhIVnZsTlI5eVc5UUMxeU40cG9USnQxQVVkQUN3VEVLV0xObTVRTzhCQjVIN2kwdFE?oc=5",
       "title": "An openly gay pro baseball player speaks out on the SF Giants Pride controversy - The San Francisco Standard",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUtBOTU1RzVvS2ZWY2RFcnpiRXV2cGtSYl9OR0dTQ3Z5aS1mUWZyaWl5RS1TbFM3WmJWcU9Tdzd0OGZ4LU9zaGlQYUVpLTJwUnV4eG1vcGdWbjZmamRCLVR6cWNUbW04akZJZkZ4cUhIVnZsTlI5eVc5UUMxeU40cG9USnQxQVVkQUN3VEVLV0xObTVRTzhCQjVIN2kwdFE?oc=5",
       "publishedAt": "2026-06-24T13:00:00.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMidEFVX3lxTE16aWFYa1dDWTBEOHNDWU45M2JOTmxqMjY0eU1HUFV0cEp3M2VYaDVzRmNtbi0zNk5xcFQwbUN1Vk1sMnBnVjZrZ1M2YjNiOUJodldad3E5UXE3N3ZsUHVESWl0YVV0TU1rODJBVUh2N19TeG52?oc=5",
-      "title": "How LGBTQ-Affirming Churches Are Confronting Religious Trauma - Uncloseted Media",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16aWFYa1dDWTBEOHNDWU45M2JOTmxqMjY0eU1HUFV0cEp3M2VYaDVzRmNtbi0zNk5xcFQwbUN1Vk1sMnBnVjZrZ1M2YjNiOUJodldad3E5UXE3N3ZsUHVESWl0YVV0TU1rODJBVUh2N19TeG52?oc=5",
-      "publishedAt": "2026-06-27T13:03:24.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jcVJhM0N0U0plb3RYZVlWb0VyNThjSjN3cXg3c3FUd0lsZWh3WkZOWi1nMDdiTTJSeFpSRkpyNThKNlR5S0MzdnNGeE1WekxyWWw3N0dtTmhrNzRPaGZtQ1NxSdIBaEFVX3lxTE1MbW9xTncxUllPYXZhTExKVXhtQnNBOVUzU0g3RHJObTRHcmlpQjIydjNFZFYtWnU5aklndGp3d1ZXSzZPbjhyWEpqVEN6ZHBzcHZIeVNYeHFTYXRaTXRVVzE0czFyNTVx?oc=5",
-      "title": "Goose dating app launches as alternative to Grindr - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jcVJhM0N0U0plb3RYZVlWb0VyNThjSjN3cXg3c3FUd0lsZWh3WkZOWi1nMDdiTTJSeFpSRkpyNThKNlR5S0MzdnNGeE1WekxyWWw3N0dtTmhrNzRPaGZtQ1NxSdIBaEFVX3lxTE1MbW9xTncxUllPYXZhTExKVXhtQnNBOVUzU0g3RHJObTRHcmlpQjIydjNFZFYtWnU5aklndGp3d1ZXSzZPbjhyWEpqVEN6ZHBzcHZIeVNYeHFTYXRaTXRVVzE0czFyNTVx?oc=5",
-      "publishedAt": "2026-06-27T14:54:20.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTItQ1RtSElubTR0bmpLRHRkN3NyTzAwQXVCLXhNTzF5THQ3Z0l0TVV6dFJOMnF1WVZXelB5QXFiLTNKUnBBNDF0Z19GLU4wVHRrRDg0MlRvZTVDT09fNWhqdldLWFVCYTBySkN2ZmxaVzVhLXR3NlRkcGZkbGQtWWpiVS1CSzgzUWdJQVVtUzVZYkVzSDZPX0NKWHhuNnlDWXdwU1lFQjVlbkgxOG1BOFlYMF9vbENKanRBVlg4NFBrWkhDTDViYjF0WEdRT0xTS0x1S0l4aUFKNGhab0RweEpUUk5RQ0tOTllmV3ZjbGM0TlFq?oc=5",
-      "title": "US Education Dept. probes 3 Md. school districts and state over transgender student policies - WTOP",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTItQ1RtSElubTR0bmpLRHRkN3NyTzAwQXVCLXhNTzF5THQ3Z0l0TVV6dFJOMnF1WVZXelB5QXFiLTNKUnBBNDF0Z19GLU4wVHRrRDg0MlRvZTVDT09fNWhqdldLWFVCYTBySkN2ZmxaVzVhLXR3NlRkcGZkbGQtWWpiVS1CSzgzUWdJQVVtUzVZYkVzSDZPX0NKWHhuNnlDWXdwU1lFQjVlbkgxOG1BOFlYMF9vbENKanRBVlg4NFBrWkhDTDViYjF0WEdRT0xTS0x1S0l4aUFKNGhab0RweEpUUk5RQ0tOTllmV3ZjbGM0TlFq?oc=5",
-      "publishedAt": "2026-06-24T07:58:49.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjROT3RzNHBoNUhaR0dCQi1JdlRUWmJnbElJdkpaZ3R6bUdEOWM4c3VvYjJ3dkpuMmJkOWpKME1GVVlVd2ZaZzY2UlcyUklvRHNOSl84cnp5VXNHMmxRZFRJWmRaRG0zT09nMG5OeWdveEsxdnVscWpzckloTm4zMDBENVI2U0hueTcyaHVSa0lJdzg?oc=5",
-      "title": "Pro-MAGA Groups Spur Trump Push For Cultural Change In Schools - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjROT3RzNHBoNUhaR0dCQi1JdlRUWmJnbElJdkpaZ3R6bUdEOWM4c3VvYjJ3dkpuMmJkOWpKME1GVVlVd2ZaZzY2UlcyUklvRHNOSl84cnp5VXNHMmxRZFRJWmRaRG0zT09nMG5OeWdveEsxdnVscWpzckloTm4zMDBENVI2U0hueTcyaHVSa0lJdzg?oc=5",
-      "publishedAt": "2026-06-26T09:00:22.000Z",
-      "sourceId": "gnews-en",
-      "sourceName": "Google News (EN - LGBT/Gay)"
-    },
-    {
-      "id": "gnews-en:https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWZWbWM3RERTSkhYZk0yeEhQSWNhSDhINEVzOERjTjhSbmoySDV3dmsyM2tpbk92OXg5b1RjclhUTFhMbndTSWVLM0RJM3ZkWEV3UUJwclRwZjFYR0VmazNnN093dXliaFExQXpOS2hNM3dtM05rbVB6WGsyOExGWWdHejFuczRQN0JvNmFGSUtuOHdnWnJHMDNSUmZ2bDVsbDNXOTQ5dmFDVXNSZUY4OUFLRUVIVWpMTGxKYkNLNEZaQWlidkJlM19Gd3hOMmNVdnlLck5zS1Mtcnh4MjZXZksxd25hNjg2Y0J2eDd5ZlZZZTRhdVgyYW9XWE5maFFsTV9od3k2QUhwalJualFoREloRkFiYVB1enFZTQ?oc=5",
-      "title": "First of its kind queer museum in San Francisco Chinatown amplifies Chinese LGBTQ+ artists - Columbia Missourian",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWZWbWM3RERTSkhYZk0yeEhQSWNhSDhINEVzOERjTjhSbmoySDV3dmsyM2tpbk92OXg5b1RjclhUTFhMbndTSWVLM0RJM3ZkWEV3UUJwclRwZjFYR0VmazNnN093dXliaFExQXpOS2hNM3dtM05rbVB6WGsyOExGWWdHejFuczRQN0JvNmFGSUtuOHdnWnJHMDNSUmZ2bDVsbDNXOTQ5dmFDVXNSZUY4OUFLRUVIVWpMTGxKYkNLNEZaQWlidkJlM19Gd3hOMmNVdnlLck5zS1Mtcnh4MjZXZksxd25hNjg2Y0J2eDd5ZlZZZTRhdVgyYW9XWE5maFFsTV9od3k2QUhwalJualFoREloRkFiYVB1enFZTQ?oc=5",
-      "publishedAt": "2026-06-28T00:19:00.000Z",
       "sourceId": "gnews-en",
       "sourceName": "Google News (EN - LGBT/Gay)"
     },
@@ -2902,6 +2926,14 @@
       "title": "百度贴吧 - tieba.baidu.com",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNY0dkUzZmU0dkdDU0bFNoQ1pQQW9MQjNaZHhqdExuNDNaSnY2STMzYmRhWGJjajNXczJZNUlEdFU4NGFqUkxQU0g5bGtyVTdvRzk3TXU0eDZscWlNV1pHUlhJanJtcmVFU3VzaWVFVVNQdVpyQ0xuTU5DekNCc2hRanFZaG9pT2U5TmtjakV3aTV3QkZCNlNENnNNTTg2T2w3bThvWjFBczY3eksycnE5OXM4R2gwcDBjcFhBZmRRTlotZDBmRUR5RV9ZTXlSOGZBZmkta1NFa1hUSXp2SlJOYzktX0EtUUhyYU5ULXRsTU92TUcxZXF3Z2RXWEp0cnpTX0hyMEU2MUJpSXVVWDFVVlZpelREdENmVmw1ZkNaVmFnZ3JP?oc=5",
       "publishedAt": "2026-06-27T14:57:51.000Z",
+      "sourceId": "gnews-baidu",
+      "sourceName": "Google 新闻（百度/百家号）"
+    },
+    {
+      "id": "gnews-baidu:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWjlQM2RkYkZrMW1jR3hHZ083VnVFRjZhMHhQN1B5Z2twazViZXB3VnZiZGtCWlg5OW5MYzRhWVZnRHRKUkFnbjFSbnQzMTZhd3hnVWtQOVJ6SVJ3am44TEJqc2ZlU01ER1VJeFBWZXA3TU9DNmRaN2pIcDJSZTZKMjdETlMxVmhBeVpocldvbFJfazg0YThwMDZnbGFBOXYxcEdpZmlfWEp3UV9qOVZfSmhpZjFySnhYWHZjMGY1NS1ncnBtMzQ4Ql8tMGp3d29TbGlkSndOd3Q?oc=5",
+      "title": "- 百度一下",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWjlQM2RkYkZrMW1jR3hHZ083VnVFRjZhMHhQN1B5Z2twazViZXB3VnZiZGtCWlg5OW5MYzRhWVZnRHRKUkFnbjFSbnQzMTZhd3hnVWtQOVJ6SVJ3am44TEJqc2ZlU01ER1VJeFBWZXA3TU9DNmRaN2pIcDJSZTZKMjdETlMxVmhBeVpocldvbFJfazg0YThwMDZnbGFBOXYxcEdpZmlfWEp3UV9qOVZfSmhpZjFySnhYWHZjMGY1NS1ncnBtMzQ4Ql8tMGp3d29TbGlkSndOd3Q?oc=5",
+      "publishedAt": "2026-06-28T08:37:07.000Z",
       "sourceId": "gnews-baidu",
       "sourceName": "Google 新闻（百度/百家号）"
     },
@@ -3034,14 +3066,6 @@
       "sourceName": "Google 新闻（百度/百家号）"
     },
     {
-      "id": "gnews-baidu:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWpMMW92SXM0cmZjZmN6MXZCLTdnWVluekNCbkZUZENNaTM3R21KTWY0LS10X0UtMi03UkxoaUI1OWVrZWM4QWR0YWllZEZaZWtvSXktazRsbno2blA0eXB6TEhwN0lGbkJfX2hfZmJHbWVzc0FNd0gwc1dpRkVEZFQ2TjN0Z0VDLUNWd1VJRC1TWWpuRlRHQV9QeEpYY1lxYTAxbzJFLU44NVJ6YW03c1gtbmxoczdoa2h4T1hETTJyazgwUGNwS1NFLWFaRjNGNmFR?oc=5",
-      "title": "中国共产党焦作市委员会 - 百度百科",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWpMMW92SXM0cmZjZmN6MXZCLTdnWVluekNCbkZUZENNaTM3R21KTWY0LS10X0UtMi03UkxoaUI1OWVrZWM4QWR0YWllZEZaZWtvSXktazRsbno2blA0eXB6TEhwN0lGbkJfX2hfZmJHbWVzc0FNd0gwc1dpRkVEZFQ2TjN0Z0VDLUNWd1VJRC1TWWpuRlRHQV9QeEpYY1lxYTAxbzJFLU44NVJ6YW03c1gtbmxoczdoa2h4T1hETTJyazgwUGNwS1NFLWFaRjNGNmFR?oc=5",
-      "publishedAt": "2021-09-30T03:45:27.000Z",
-      "sourceId": "gnews-baidu",
-      "sourceName": "Google 新闻（百度/百家号）"
-    },
-    {
       "id": "gnews-baidu:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjdnMVFZeWpPNHNyU1puNkVWRVI3eXVHbVNoa1JuWW5BbjBYWTZ6d3h1NTZsR3ltNlNwQl9vUU16dkc1MVpXQmtJTmVaVTRHUWdBV3hNT3JxeFU2VVFqWGxnb19UdHFWX1NkeHN2ejlob2FYYWRLeFhfYWpETGhsUWhOU1d2ei05cHR4MkpFSFJ1MEpxQWN6NUc4cm9YU21JQXhubm5qTTdVUnQ0RUk1eXFuVFNoWDBsTEU4?oc=5",
       "title": "部队文艺工作座谈会 - 百度百科",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjdnMVFZeWpPNHNyU1puNkVWRVI3eXVHbVNoa1JuWW5BbjBYWTZ6d3h1NTZsR3ltNlNwQl9vUU16dkc1MVpXQmtJTmVaVTRHUWdBV3hNT3JxeFU2VVFqWGxnb19UdHFWX1NkeHN2ejlob2FYYWRLeFhfYWpETGhsUWhOU1d2ei05cHR4MkpFSFJ1MEpxQWN6NUc4cm9YU21JQXhubm5qTTdVUnQ0RUk1eXFuVFNoWDBsTEU4?oc=5",
@@ -3062,6 +3086,14 @@
       "title": "军烨新电影望道定档俩人“同志”变同志 - 百度一下",
       "link": "https://news.google.com/rss/articles/CBMiwwhBVV95cUxOVmxsZm1UaV9RalVlQlZ2bE54d1A3TUt2eEtLM0dxbjhzaUROdTROZHlXb1lvOHJRR3ZqNF9OSjhweXdaQjRRdE03cnBXS2F5TWxHZ0pVLXc0UzVpVlZNSnR4UjJiM2N4OVRUYlpyZXBpNjM2VlNTaHhucHJJaFROdExUUGFTQlpHRXRKeTBTbUgzaW0wTzFNUlJwdjgwYWVDNkI2QmExTW84X2pzN2VnYm5NaVdDeUdEdFVuWUR2c1NVYkpRT0lhbUNhSllxNDUwTTlHb2UtUFZrUnd4UHl4NC1LcHNOUVRkRnIxNU42b3lkSERub3R2UnBhZmxPaWdUQW1MM3dsQ2tMQ3NCOHpsdlBESXNNMzJQekhYRGNzekprd21JbEtxaW5RN3kwc3d4ODdHTmxCelUzZWtBYUlqb3NQZkJHYl9ZY3JlYm52YVhVTy1xZmxDMVVBS01XZ1NCeUFMaWVsNTZUU2c3Y3duMVh5SjhEOUFZOXJncW4wcGZLcWo0UG1JN3I4N05nRVNPSU1BbkZwYTAyNjM1Yk0wbU1XS0VJRkg4T1h6ZEtCSGJtZzNOMFI0WU1mWHppVWNiZC1lLWdzRmdJeEZKVmhpcXdKaDdCWW9DZlpPc3NDQl9QcEIzbGFPSm1pYUhTczU5QWxENzF5VURCUmxheThnMmMyVFNCTUdjVG1QOFNITWJpQWxIUUNvMnlkbnp4NVkzcXZrT1pNT3RyYm1URXFrb2d6S2lPV0RHTWVwb0J0SDJhZ0lVS2JRaGE5bkhzbFZlZXRoMWVLRHQ4aHRNUlQxMXkyZXpvRG50TElkaEt3S1haYjdHdkxvSUFfOEFnaEI5dFJNWC1oandva01HOGZxa29CdWxoNS0wRzlRdGtQTU5tNmx6N3AyWTk0N1JxUTI3ckt1V2FocjdNQWJXTV9CSDZHeUVMeTRZLUtVWDZJcGRyVnpvZk53MjQtWnZ4UHNjenAycW5xZ1ItaXY5OTg0WFY0djBxQmE0bzJiaFZ4M2RBakloQ2dnVEhCRGo2VHU3R0VYSmRuRy1LUnNYSFRIWWY3STIwNW9LSHNDbXRWWU5GTi1Rb2Y0cGFBLUNwSmlCaVBHd3NXLWlJZU82bVplaU1iS0x6R21qbGx4VW0tMzZxNmRZQ0JsVDZHTDNmMTFoNkttaVh0M0FhQmQwTnhHQTc1T1JGaUcxNzU0d3U4UzlaMDBYbVBPMHA2cGdQckw4WmhVdXdqbU1kOWg5OHljOHV6ekxCNXF0Z3YzZGtVVUNnUWZGck1CeGlySHZUamR1RzZxQkZJRUZ0MjdFT0ZWcTJmblViNVUtV2dJT0FvQTFfS2N3OHQ3N2liWnZmU1k0WmhmOF9QNFZYWEZTcW8wMzZsaVh6RVAwQ01KMmtkUTN0WGdGXzJPVDl1cnNYbElJRVBjU2RMWV9nQUNVSW1DZkxKcw?oc=5",
       "publishedAt": "2026-06-21T14:23:13.000Z",
+      "sourceId": "gnews-baidu",
+      "sourceName": "Google 新闻（百度/百家号）"
+    },
+    {
+      "id": "gnews-baidu:https://news.google.com/rss/articles/CBMic0FVX3lxTE5NRWpVd1BjejJDc3lGdXVCUi03VllLMnNxbXJiNnhYSUpOZDdUbGVlb0FSNFM2R1BUNGRKSl9yUUkzcFA5TERUc0FuUlM4cUNUbE15NkVjVHBkTVVyYTJHSVYwdlRhcklBTG44QmN0Rkl1SEk?oc=5",
+      "title": "徐加晔 - 百度百科",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NRWpVd1BjejJDc3lGdXVCUi03VllLMnNxbXJiNnhYSUpOZDdUbGVlb0FSNFM2R1BUNGRKSl9yUUkzcFA5TERUc0FuUlM4cUNUbE15NkVjVHBkTVVyYTJHSVYwdlRhcklBTG44QmN0Rkl1SEk?oc=5",
+      "publishedAt": "2020-02-07T21:23:57.000Z",
       "sourceId": "gnews-baidu",
       "sourceName": "Google 新闻（百度/百家号）"
     },
@@ -3334,14 +3366,6 @@
       "title": "2077relic技能树怎么解锁_小视频 - 百度一下",
       "link": "https://news.google.com/rss/articles/CBMigAlBVV95cUxQMzNYQnpaRWJuTXZHcTRKdFViT2lDeE5kaUt5V2poal84aTNRQmpNWkRGa2s5YmgzWXpvX3lZN1dKYkVrMXcwQ3lXTlp1YUh3Z0JVNkhqejlvMnFyWjVyVW9COWpiV3F5TC1KOWlqS202SnBWMEtZcTBpeGVZaTVGOWNTdFdBNDd5cUZ6Slc1OFlRVE9ZbzdseW16cjN2Y0Jfak41QkxjVWJoM1RwQmUzSlIycm9iNEJhR05yTE0zVG90cWVxVnRhVWh2dkhteHhCZnhhdURsR2w1elBVakJLbF9OSnFwWU9sX1VQbzJZWFhQcVkwTFhHYkxON3B1R2s4bzBGMWJYTDdZOWpsamVTWXJnYU15SEh1bDdiY3Y1dlhqQ1lJOXUtQWY1LVNWLXI3bzFpSXVZcG03aHdhbzllcUJDNVM5aE1GYkNMRWhkU0oyc0VQZXRmZkNnMG1PNWdEZ0gxUHVrcTNKVHNqaGFjSDhRcEtwVzZBTEw3RGk2NjVKdVNFbGE0S080N0F2MXZ3T1c4MGprcDVxR3VzczhseTNFeDBOWHI4ZWU5em42TGRCbFZ4SEN1MjJpb1Z5aGM2YkdoQV93OXNrMXUzRUJPLTBPZnFRaC1jRmVwNzlMT3c5enZSbWhDcnpjcGdZdy1yckN5aTFBR3pxSExXQUFBZnBXV2FBb3VZWm12azZxZW1OajlTcTdGSTVsY3F6WE0ydWxSdWxxaWhPYi1TdVpWZi1lbnlzY1hsUXVoby01X0VwMGlfa1JrbFF2aHJQcEpHeS1DbVpvd1V6ZlpHNTQwemYxeGJwVE52TEszUW9VaXdNVG1EUWI4dXp0dUxGOGlkdEM0Ukd0dF9aTGU2azl6N01qSmhaUlJrNGZDUW9fNC0tUm1SLVZUS1ZRSVF0NGNlajV6dVhGV0dYRDk4bWNwSG5ZOVFvVzBMOC1Fb0VmczVFY1Z4OFBJbnhyQUk4OUdEcFRNd3ZkdHBKYXpPRVdJTHhXck9SOHFNUmF1WXc4dHhpUHJuZHpiNERQc2JwajdObFk0U0tMazg1M3BzNk1JRXJGaUZVV2Q3ck5OUmFyZ0ZBWFYwZWJ2U2RkeXFVY0N6RkNvdE03eTlvU1QtdVctRU14bW5GVGlFTEMyX2ZmaEs5aGE1dzVFYW1BMlgwTHNXTjFzX3cyUDhma3RQVzJEakNxZ3FMZHVEVklnMEVaMS1neWNCZTZlempvMTNfeUxuYkVtMjFYbkZpY0N4cjU3WEpoR19ET3hCSVhMamlIcV95dnkxRUhHUjJKOE5HaHR5US1BSWhsOXE1TjFEMnl4WGNLMVppakd1TTNDMUZZSS1wVElGa2EtcEVWX1ZJODNqaGxBeGFpaWJueFdlSXRiaDhIandaSFhXcnp4dGJoTWR5bkJwd1R4VGRjeGpaQXVsX0ZTMDZTU0htbWJrOUNoY0hxd014Vkc3NENkbzNZSTZZem1LMXdTd1o1em5XeU03dHdka1YtSDB2NDZ2cXdzbjJ2VmtZREhYbzUyYkdYdUg?oc=5",
       "publishedAt": "2026-06-21T16:26:47.000Z",
-      "sourceId": "gnews-baidu",
-      "sourceName": "Google 新闻（百度/百家号）"
-    },
-    {
-      "id": "gnews-baidu:https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2dpQkljdHJycGZMZl83MTFTR3NyNFl5WmRTME1CaXN3VjV3ZC02ZVAxMkgzZWlCTTNPTVFpcXpaMEc5YXItRjdmRUdKdmVKUnRpOFVSWmpvQW5GOHc1MHY0QWtKUGxydGk1bXNBTjcxWFlQaFFmR2FBRHY3a2NHdmthQlpFQm90em5EMEwwcEl3dEtRcEI0cEVyUTByRkVWanV3SXdEeGM5VTdmYjdF?oc=5",
-      "title": "通辽市知识产权局 - 百度百科",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2dpQkljdHJycGZMZl83MTFTR3NyNFl5WmRTME1CaXN3VjV3ZC02ZVAxMkgzZWlCTTNPTVFpcXpaMEc5YXItRjdmRUdKdmVKUnRpOFVSWmpvQW5GOHc1MHY0QWtKUGxydGk1bXNBTjcxWFlQaFFmR2FBRHY3a2NHdmthQlpFQm90em5EMEwwcEl3dEtRcEI0cEVyUTByRkVWanV3SXdEeGM5VTdmYjdF?oc=5",
-      "publishedAt": "2026-06-22T02:24:30.000Z",
       "sourceId": "gnews-baidu",
       "sourceName": "Google 新闻（百度/百家号）"
     },
@@ -3696,14 +3720,6 @@
       "publishedAt": "2026-06-23T00:23:27.000Z",
       "sourceId": "gnews-baidu",
       "sourceName": "Google 新闻（百度/百家号）"
-    },
-    {
-      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YM0t6OUQ2dUVWeVMyQkdkd3VINll1ZXhEY1hETy1WMldZWU5xWG5SamhScjZEOWFxZl8wdVdzSTVJNFNWY0ZYMzU4X2NkaVpWVVY2MXFBY0tiNW0ySTlUUldn?oc=5",
-      "title": "同志们，央视与国际足联的版权博弈,本质上是一场市场话语权的争夺。FIF - 抖音",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YM0t6OUQ2dUVWeVMyQkdkd3VINll1ZXhEY1hETy1WMldZWU5xWG5SamhScjZEOWFxZl8wdVdzSTVJNFNWY0ZYMzU4X2NkaVpWVVY2MXFBY0tiNW0ySTlUUldn?oc=5",
-      "publishedAt": "2026-06-22T20:10:17.000Z",
-      "sourceId": "gnews-douyin",
-      "sourceName": "Google 新闻（抖音）"
     },
     {
       "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NVDhoUmsxSzYyalR1LXFGSUc5c0JxbHZNTU1YczRVYjVIRG11X2hsLTNkNlZnYjRMTW1ZOXJTOGNLak01MTI0OUQwMFRxWG1DMXV1aGQ0YjZzUjk1aVc1WDhB?oc=5",
@@ -4082,6 +4098,22 @@
       "sourceName": "Google 新闻（抖音）"
     },
     {
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNnc4LW1zMkQyODJRa25ja00yOUFDaDY0bW16bFlFdml6UGVCRVpBazBrWWNmRVlIbTRGb3JDVXVpdXVIQmFVSGZzdjQzTXM3enNIMkRMRGYyd3cyTHFZ?oc=5",
+      "title": "抖音618活动机制 - 抖音",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNnc4LW1zMkQyODJRa25ja00yOUFDaDY0bW16bFlFdml6UGVCRVpBazBrWWNmRVlIbTRGb3JDVXVpdXVIQmFVSGZzdjQzTXM3enNIMkRMRGYyd3cyTHFZ?oc=5",
+      "publishedAt": "2023-06-07T19:53:26.000Z",
+      "sourceId": "gnews-douyin",
+      "sourceName": "Google 新闻（抖音）"
+    },
+    {
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSaU81bDBCQjl6V08tbzhQR2dRNmV4bnpZa1RXOVJVV3NZQ3dfbTQ4elVoSkd6X2k1SkhObmF1aUJZYmZtaFQ3Z2hiY1dmaHd0VzBicXVDaTVTOGxIQkE?oc=5",
+      "title": "彩礼日结是什么梗 - 抖音",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSaU81bDBCQjl6V08tbzhQR2dRNmV4bnpZa1RXOVJVV3NZQ3dfbTQ4elVoSkd6X2k1SkhObmF1aUJZYmZtaFQ3Z2hiY1dmaHd0VzBicXVDaTVTOGxIQkE?oc=5",
+      "publishedAt": "2024-09-19T23:38:48.000Z",
+      "sourceId": "gnews-douyin",
+      "sourceName": "Google 新闻（抖音）"
+    },
+    {
       "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEstQll2NzBNYy1BdXRBRlo3T0lkVE1IbWtWTkZEYVN0aUJhM3pESk1oSXM3VjNNUmQyOWFMSFRTVzBpWWFvZlcwbFViUHBrbWtjSGxVbkw4Z01FSl9iOFByN2NETU83OHZmQy1RblF3Q2pqS2dhaDVIQUw1T3IyT1lNUExjSElxeUZF?oc=5",
       "title": "傅同志晚上好的主页 - 抖音",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEstQll2NzBNYy1BdXRBRlo3T0lkVE1IbWtWTkZEYVN0aUJhM3pESk1oSXM3VjNNUmQyOWFMSFRTVzBpWWFvZlcwbFViUHBrbWtjSGxVbkw4Z01FSl9iOFByN2NETU83OHZmQy1RblF3Q2pqS2dhaDVIQUw1T3IyT1lNUExjSElxeUZF?oc=5",
@@ -4110,14 +4142,6 @@
       "title": "@新时代沸腾青年创作的原声 - 抖音",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGSnp5bXFNQVROMVJkODRLaWM5U2NVOXdrSnkzejAzSlZhU21XYkVwZVk4bWhuSW9pRm50bGtfTVAteEU3UjdReHM1WGRiSWVMU1hvblNwQ3lQZlg3OEhMd1Jn?oc=5",
       "publishedAt": "2026-06-26T04:38:09.000Z",
-      "sourceId": "gnews-douyin",
-      "sourceName": "Google 新闻（抖音）"
-    },
-    {
-      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTFAta0dab19hLWw3ejlOMjE5MFRYd0NqNUl3dW9GR0RJUFlZV0l5X0dLUVhPRDEtZU9lT0N3SWNqRndKbmFSdE15S0gwU3R2VC1oU2lSNWpGX1FzVmRPOTNnczRHZy1Pdw?oc=5",
-      "title": "一个冷知识：博物馆里的“距今”，不是指今年。 - 抖音精选",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAta0dab19hLWw3ejlOMjE5MFRYd0NqNUl3dW9GR0RJUFlZV0l5X0dLUVhPRDEtZU9lT0N3SWNqRndKbmFSdE15S0gwU3R2VC1oU2lSNWpGX1FzVmRPOTNnczRHZy1Pdw?oc=5",
-      "publishedAt": "2026-06-22T02:59:37.000Z",
       "sourceId": "gnews-douyin",
       "sourceName": "Google 新闻（抖音）"
     },
@@ -4162,18 +4186,34 @@
       "sourceName": "Google 新闻（抖音）"
     },
     {
-      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HS3htTlhUOG5aeHpHbTV4WEJ4cXlHMHNJQkJ5VUw3c1FnN3QwVXBnS3BXanZLV2NvZG51a0ZnYWJmZTUxRk9uNGIyNE9iTnRuZmxUVEhWalFDZXRSNFhlaE9lWklLdw?oc=5",
-      "title": "为什么鲸鱼和大象不会得癌症？ - 抖音精选",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HS3htTlhUOG5aeHpHbTV4WEJ4cXlHMHNJQkJ5VUw3c1FnN3QwVXBnS3BXanZLV2NvZG51a0ZnYWJmZTUxRk9uNGIyNE9iTnRuZmxUVEhWalFDZXRSNFhlaE9lWklLdw?oc=5",
-      "publishedAt": "2026-06-25T04:18:29.000Z",
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWExPWkNlVUk4eWhGT1lDbHY5RXNnbGM5NGZzZkpVbnk5R2VhVlltbXp3Q2V6d3lqSjlLb2RGeGZjZk90a0ZST1J5YkZVdTRFWUdfWlFRNm1YM1Q3eElkeVNrYjFwdw?oc=5",
+      "title": "家里一有事就会赶一起，小宝半夜又开始发热 - 抖音精选",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWExPWkNlVUk4eWhGT1lDbHY5RXNnbGM5NGZzZkpVbnk5R2VhVlltbXp3Q2V6d3lqSjlLb2RGeGZjZk90a0ZST1J5YkZVdTRFWUdfWlFRNm1YM1Q3eElkeVNrYjFwdw?oc=5",
+      "publishedAt": "2026-06-22T08:05:58.000Z",
       "sourceId": "gnews-douyin",
       "sourceName": "Google 新闻（抖音）"
     },
     {
-      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRkxaOF9vNElNVzlHcU9wb3lBQUp1SGlOcFpHb1JKamNNbGZ5enN0LWxBTnZQekhOMXVpWEJQSDJSTVNrQ2RQdE4wcnV4dTBFWUo4cXQ0a1pYdVU1ZUk2V3B1TGtLUQ?oc=5",
-      "title": "今天是6月22日，农历五月初八。今日是康宁日、聚福日、添喜日、得运日，是宜洽谈事务、远行散心、添置好物、阖家欢聚的吉利好日子。愿你和家人平安康健少操劳，万事顺意没烦恼，福气常伴春光好，财源亨通堆满窖！ - 抖音精选",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRkxaOF9vNElNVzlHcU9wb3lBQUp1SGlOcFpHb1JKamNNbGZ5enN0LWxBTnZQekhOMXVpWEJQSDJSTVNrQ2RQdE4wcnV4dTBFWUo4cXQ0a1pYdVU1ZUk2V3B1TGtLUQ?oc=5",
-      "publishedAt": "2026-06-21T16:00:00.000Z",
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abWg3dHJEX1J2Y2xUclh4MG1hLWtjd2llT3Q1R0FqVlhUelh5ZmtBMjV0cWwxV3VWcE5aMWFkM0g5aEhFcU9PTS1sT2xNMHN6N0psZjY4cjZyaFlOU2U3eGZza2VuUQ?oc=5",
+      "title": "藏身份证不放李金铭离开？“农村婆婆”否认：想都不敢想！当初发合照、留存物品只是单纯留念，“南温妈妈”账号几年前已关停 - 抖音精选",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abWg3dHJEX1J2Y2xUclh4MG1hLWtjd2llT3Q1R0FqVlhUelh5ZmtBMjV0cWwxV3VWcE5aMWFkM0g5aEhFcU9PTS1sT2xNMHN6N0psZjY4cjZyaFlOU2U3eGZza2VuUQ?oc=5",
+      "publishedAt": "2026-06-24T09:46:24.000Z",
+      "sourceId": "gnews-douyin",
+      "sourceName": "Google 新闻（抖音）"
+    },
+    {
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZmtlb3g0amxrTS0xeTVqRG56cVVfSmtGbWhyZDBHeF9rRHdjZ1V5eTU0YjQxNGVxY1hyWGRqVGdkMVlWQWRNMTl0RnYtYmdfSUlwNzd6RTBnODV5TmgzdXhaTllxUQ?oc=5",
+      "title": "珍珠港被偷袭全过程-根据真实事件改编 - 抖音精选",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZmtlb3g0amxrTS0xeTVqRG56cVVfSmtGbWhyZDBHeF9rRHdjZ1V5eTU0YjQxNGVxY1hyWGRqVGdkMVlWQWRNMTl0RnYtYmdfSUlwNzd6RTBnODV5TmgzdXhaTllxUQ?oc=5",
+      "publishedAt": "2026-06-26T02:51:01.000Z",
+      "sourceId": "gnews-douyin",
+      "sourceName": "Google 新闻（抖音）"
+    },
+    {
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TThYRFc4czgzREkya0xnSUpqdGhQVU1YblJJVlNqdDdiUXJiMEY0TE9VeFU3Rks2OW1Dd0cwWTFqX2szRlIydmxCRks3dld1TjRldWRiUXNwM1VSa2lBcVYwSXIzQQ?oc=5",
+      "title": "八杯水与两个面包，善良是“不动声色”的成全。 - 抖音精选",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TThYRFc4czgzREkya0xnSUpqdGhQVU1YblJJVlNqdDdiUXJiMEY0TE9VeFU3Rks2OW1Dd0cwWTFqX2szRlIydmxCRks3dld1TjRldWRiUXNwM1VSa2lBcVYwSXIzQQ?oc=5",
+      "publishedAt": "2026-06-26T12:26:09.000Z",
       "sourceId": "gnews-douyin",
       "sourceName": "Google 新闻（抖音）"
     },
@@ -4182,6 +4222,14 @@
       "title": "@默语创作的原声 - 抖音",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ubTZPWnpQek1mRm5oMC1WVU0zczJ4WkNia3NTZGlKMjdrMk0yNWpDNC1tbm9jV2RKUk83MUVmM21Ga1ZBYlE1SE8yelRmUkhtUUVrQkZjVjJkSkdNbmx5NXNn?oc=5",
       "publishedAt": "2026-06-22T23:35:10.000Z",
+      "sourceId": "gnews-douyin",
+      "sourceName": "Google 新闻（抖音）"
+    },
+    {
+      "id": "gnews-douyin:https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VS1FUVY4Qy15YkVPNmZvM0VpUFJGTGdqMG9Dc0xjWEthOThWNHJmSDBHZGI1UTVmdjM4Q2tDRzVUOUhxUjlqT3pNd0YzNEhraFhUTktCQ1dPRF93YmNjWk94Wk0tUQ?oc=5",
+      "title": "剧情到江南再回看最初。 陈子奚在江晏最危难之际出现要带他去江南，少东家看见赵大赵二的温情瞬间落寞之时又是陈子奚出现带我们东家来到了江南。 - 抖音精选",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VS1FUVY4Qy15YkVPNmZvM0VpUFJGTGdqMG9Dc0xjWEthOThWNHJmSDBHZGI1UTVmdjM4Q2tDRzVUOUhxUjlqT3pNd0YzNEhraFhUTktCQ1dPRF93YmNjWk94Wk0tUQ?oc=5",
+      "publishedAt": "2026-06-27T11:39:40.000Z",
       "sourceId": "gnews-douyin",
       "sourceName": "Google 新闻（抖音）"
     }
