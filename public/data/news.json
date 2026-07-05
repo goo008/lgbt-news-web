@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:13:14.276Z",
+  "generatedAt": "2026-07-05T05:08:08.222Z",
   "items": [
     {
       "id": "pinknews:https://www.thepinknews.com/2026/07/03/all-we-know-on-elliot-pages-the-odyssey-role-after-right-wing-backlash/",
@@ -242,6 +242,30 @@
       "sourceName": "PinkNews"
     },
     {
+      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/officials-who-freaked-out-over-librarys-pride-display-may-have-broken-the-law-in-quest-to-remove-it/",
+      "title": "Officials who freaked out over library’s Pride display may have broken the law in quest to remove it",
+      "link": "https://www.lgbtqnation.com/2026/07/officials-who-freaked-out-over-librarys-pride-display-may-have-broken-the-law-in-quest-to-remove-it/",
+      "publishedAt": "2026-07-04T21:00:00.000Z",
+      "sourceId": "lgbtqnation",
+      "sourceName": "LGBTQ Nation"
+    },
+    {
+      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/supreme-court-reform-isnt-the-answer-to-the-trans-sports-ruling/",
+      "title": "Supreme Court reform isn’t the answer to the trans sports ruling",
+      "link": "https://www.lgbtqnation.com/2026/07/supreme-court-reform-isnt-the-answer-to-the-trans-sports-ruling/",
+      "publishedAt": "2026-07-04T21:00:00.000Z",
+      "sourceId": "lgbtqnation",
+      "sourceName": "LGBTQ Nation"
+    },
+    {
+      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/a-democratic-socialist-revolution-is-exactly-what-we-need-to-save-america/",
+      "title": "A Democratic Socialist revolution is exactly what we need to save America",
+      "link": "https://www.lgbtqnation.com/2026/07/a-democratic-socialist-revolution-is-exactly-what-we-need-to-save-america/",
+      "publishedAt": "2026-07-04T19:00:00.000Z",
+      "sourceId": "lgbtqnation",
+      "sourceName": "LGBTQ Nation"
+    },
+    {
       "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/remember-when-the-supreme-court-made-it-easier-for-republicans-to-win-elections-theres-no-solution/",
       "title": "Remember when the Supreme Court made it easier for Republicans to win elections? There’s no solution",
       "link": "https://www.lgbtqnation.com/2026/07/remember-when-the-supreme-court-made-it-easier-for-republicans-to-win-elections-theres-no-solution/",
@@ -334,30 +358,6 @@
       "title": "“Truly toxic”: Military junta in Niger arrests 40 in nationwide anti-gay purge",
       "link": "https://www.lgbtqnation.com/2026/07/truly-toxic-military-junta-in-niger-arrests-40-in-nationwide-anti-gay-purge/",
       "publishedAt": "2026-07-02T19:00:00.000Z",
-      "sourceId": "lgbtqnation",
-      "sourceName": "LGBTQ Nation"
-    },
-    {
-      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/quick-hit-remember-when-wrote-a-note-for-america-according-to-a-political-expert/",
-      "title": "Remember when Trump wrote a “suicide note” for America, according to a political expert?",
-      "link": "https://www.lgbtqnation.com/2026/07/quick-hit-remember-when-wrote-a-note-for-america-according-to-a-political-expert/",
-      "publishedAt": "2026-07-02T18:30:00.000Z",
-      "sourceId": "lgbtqnation",
-      "sourceName": "LGBTQ Nation"
-    },
-    {
-      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/democrat-denounces-rush-to-moralize-on-trans-sports-participation-we-miss-some-of-the-nuance/",
-      "title": "Democrat denounces “rush to moralize” on trans sports participation: “We miss some of the nuance”",
-      "link": "https://www.lgbtqnation.com/2026/07/democrat-denounces-rush-to-moralize-on-trans-sports-participation-we-miss-some-of-the-nuance/",
-      "publishedAt": "2026-07-02T18:00:00.000Z",
-      "sourceId": "lgbtqnation",
-      "sourceName": "LGBTQ Nation"
-    },
-    {
-      "id": "lgbtqnation:https://www.lgbtqnation.com/2026/07/quick-hit-a-what-says-he-wants-to-have-a-with-his-sons/",
-      "title": "“A WHAT??” Trump says he wants to have a “threesome” with his sons",
-      "link": "https://www.lgbtqnation.com/2026/07/quick-hit-a-what-says-he-wants-to-have-a-with-his-sons/",
-      "publishedAt": "2026-07-02T17:12:31.000Z",
       "sourceId": "lgbtqnation",
       "sourceName": "LGBTQ Nation"
     },
